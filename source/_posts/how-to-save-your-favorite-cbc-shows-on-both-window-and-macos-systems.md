@@ -1,7 +1,7 @@
 ---
 title: How To Save Your Favorite CBC Shows On Both Window & macOS Systems
-date: 2024-09-18 17:17:56
-updated: 2024-09-20 11:21:19
+date: 2024-09-13T22:35:35.590Z
+updated: 2024-09-20T03:01:04.342Z
 tags:
   - product
 categories:
@@ -29,6 +29,13 @@ Free download the professional CBC Video downloader for Mac or Windows - Allavso
 
 ![CBC Video Downloader](https://www.allavsoft.com/how-to/../images/allavsoft/screen-shot-600.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step _1_Paste CBC video URL
 
 Copy and paste the CBC video URL to Allavsoft
@@ -38,6 +45,13 @@ Copy and paste the CBC video URL to Allavsoft
 ### Step _2_Set the output format
 
 Click "Automatically Convert to:" drop down button to select the output format, like AVI, MP4, WMV, MOV, FLV etc.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step _3_ Finish downloading CBC videos
 
@@ -52,8 +66,6 @@ In spite of competition from private broadcasters, such as CTV, Global. CBC is s
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
