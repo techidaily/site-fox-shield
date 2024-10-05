@@ -1,7 +1,7 @@
 ---
 title: Easy Steps for Editing Attributes in XML - Interactive Dialog Tutorial
-date: 2024-09-26T21:56:53.782Z
-updated: 2024-09-30T01:39:29.285Z
+date: 2024-09-28T18:11:46.592Z
+updated: 2024-10-05T21:25:18.618Z
 tags:
   - user-guide
 categories:
@@ -98,6 +98,13 @@ Table of Contents
 
 ![Edit Element](https://cdn.advancedinstaller.com/img/dialog/xml-edit-attribute.png "Edit Element")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## General
 
 Specify the name and value of an XML attribute.
@@ -105,32 +112,13 @@ Specify the name and value of an XML attribute.
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The “Value” field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edit using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). Also you can [localize](https://tools.techidaily.com/advancedinstaller/products/) it.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Options
-
-### Is identifier attribute
-
-In order to enhance the _localizing precision of matching elements_, you can use **identifier attributes** to pinpoint an exact element from the file, in case several nodes have the same ancestors. By enabling this option only target elements that have an attribute with the same **name and value** set here will be considered a match for the update.
-
-![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can specify several attributes as _identifiers_ for an XML element.
 
 <!-- affiliate ads begin -->
 <a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
@@ -139,11 +127,17 @@ In order to enhance the _localizing precision of matching elements_, you can use
 <img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+### Is identifier attribute
+
+In order to enhance the _localizing precision of matching elements_, you can use **identifier attributes** to pinpoint an exact element from the file, in case several nodes have the same ancestors. By enabling this option only target elements that have an attribute with the same **name and value** set here will be considered a match for the update.
+
+![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can specify several attributes as _identifiers_ for an XML element.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Operation
@@ -193,20 +187,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-strategies-for-efficient-business-teleconferencing/"><u>[New] Strategies for Efficient Business Teleconferencing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-sketches-to-stakes-leading-platforms-turning-art-into-nfts/"><u>[Updated] From Sketches to Stakes Leading Platforms Turning Art Into NFTs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-pace-kings-and-queens-of-the-olympics-year-2022/"><u>[Updated] In 2024, The Pace Kings & Queens of the Olympics, Year 2022</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-professional-photography-meets-social-media-dslr-and-computer-syncopation/"><u>[Updated] Professional Photography Meets Social Media DSLR and Computer Syncopation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-record-and-share-screencast-tips-from-ezvide-expertise/"><u>[Updated] Record and Share Screencast Tips From EZvide Expertise</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bridging-the-gap-enhancing-your-edits-with-inshot-transitions-for-2024/"><u>Bridging the Gap Enhancing Your Edits with Inshot Transitions for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723003108397-expert-fixes-for-common-fortnite-login-problems-resolved-now/"><u>Expert Fixes for Common Fortnite Login Problems - Resolved Now</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/free-full-stack-development-with-vue-and-laravel-comprehensive-ui-dashboard-kit-created-by-creative-tim/"><u>Free Full-Stack Development with Vue and Laravel - Comprehensive UI Dashboard Kit | Created by Creative Tim</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/over-43-unique-bootstrap-components-in-creative-tims-web-ui-toolkit/"><u>Over 43 Unique Bootstrap Components in Creative Tim's Web UI Toolkit</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/premium-flutter-app-blueprint-with-argon-pro-theme-by-creative-tim-ultimate-solution-for-iosandroid-development/"><u>Premium Flutter App Blueprint with Argon Pro Theme by Creative Tim: Ultimate Solution for iOS/Android Development</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/pro-level-efficiency-with-get-shtdone-pro-top-pick-premium-bootstrap-themes-by-creative-tim/"><u>Pro-Level Efficiency with Get Sh!tDone PRO: Top Pick Premium Bootstrap Themes by Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-pro-react-mui-soft-interface-premium-dashboard/"><u>Professional Pro-React MUI Soft Interface Premium Dashboard</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-react-admin-panel-with-material-ui-advanced-creative-tim-dashboard/"><u>Professional React Admin Panel with Material UI - Advanced Creative Tim Dashboard</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/simplifying-the-art-of-mac-screen-recording-a-keyboard-gurus-insight/"><u>Simplifying the Art of Mac Screen Recording A Keyboard Guru's Insight</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-route-from-youtube-to-igtv-adoption/"><u>[New] The Ultimate Route From YouTube to IGTV Adoption</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-30-drawing-and-sketchpad-apps-for-windows-users-reviewed/"><u>2024 Approved Top 30 Drawing and Sketchpad Apps for Windows Users Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/brighten-your-yard-with-new-high-lumen-govee-permanent-outdoor-leds-install-now-for-a-radiant-evening-oasis/"><u>Brighten Your Yard with New High-Lumen Govee Permanent Outdoor LEDs – Install Now for a Radiant Evening Oasis!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-the-progress-from-gpt-1-to-gpt-4/"><u>Charting the Progress: From GPT-1 to GPT-4</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-steps-to-design-and-generate-editable-pdf-documents-from-scratch/"><u>Easy Steps to Design and Generate Editable PDF Documents From Scratch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-revive-a-dysfunctional-lenovo-keyboard-glow/"><u>Effective Solutions to Revive a Dysfunctional Lenovo Keyboard Glow</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-thaw-out-with-five-inviting-winterscapes-for-video-filming/"><u>In 2024, Thaw Out with Five Inviting Winterscapes for Video Filming</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/preserving-voicemails-without-costs-easy-strategies-for-recording-audio-messages-on-the-go/"><u>Preserving Voicemails Without Costs: Easy Strategies for Recording Audio Messages on the Go</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simplify-your-workflow-mastering-component-and-group-modifications/"><u>Simplify Your Workflow: Mastering Component & Group Modifications</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/the-real-deal-on-web-safety-do-pornographic-websites-harbor-digital-threats/"><u>The Real Deal on Web Safety: Do Pornographic Websites Harbor Digital Threats?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-techniques-for-effectively-removing-a-watermark-from-your-images/"><u>Top Techniques for Effectively Removing a Watermark From Your Images</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding Various Methods of Importing Project Structures
-date: 2024-09-29T10:23:18.877Z
-updated: 2024-09-30T04:41:39.215Z
+date: 2024-09-29T20:00:25.724Z
+updated: 2024-10-05T16:10:15.634Z
 tags:
   - user-guide
 categories:
@@ -81,9 +81,29 @@ Table of Contents
 
 This tab enables you to import various external projects or packages into an Advanced Installer project.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Visual Studio Setup project
 
 ![Vd import](https://cdn.advancedinstaller.com/img/project/vd-import.png "Vd import")This wizard allows you to import a Visual Studio setup project into an Advanced Installer project. This project type is available in the freeware edition.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Wix Product
 
@@ -94,10 +114,10 @@ This tab enables you to import various external projects or packages into an Adv
 ![Inno import](https://cdn.advancedinstaller.com/img/project/inno-import.png "Inno import")This wizard allows you to import an Inno Setup script in an Advanced Installer project. This project type is available in the freeware edition.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### NSIS Script
@@ -105,10 +125,10 @@ This tab enables you to import various external projects or packages into an Adv
 ![Nsis import](https://cdn.advancedinstaller.com/img/project/nsis-import.png "Nsis import")This wizard allows you to import an NSIS script in an Advanced Installer project. This project type is available in the freeware edition.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### InstallShield Project
@@ -116,39 +136,25 @@ This tab enables you to import various external projects or packages into an Adv
 ![Import is](https://cdn.advancedinstaller.com/img/project/import-is.png "Import is")This wizard allows you to import an MSI project that was previously created with InstallShield. This project type is available in the freeware edition.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### WISE Project
 
 ![Wise import](https://cdn.advancedinstaller.com/img/project/wise-import.png "Wise import")This wizard allows you to [import a WISE project](https://tools.techidaily.com/advancedinstaller/products/) into an Advanced Installer project. This project type is available in the freeware edition.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### MSIX Package
 
 ![Desktop bridge package](https://cdn.advancedinstaller.com/img/project/desktop-bridge-package.png "Desktop bridge package")This wizard allows you to import a MSIX/APPX project into an Advanced Installer project. This project type is available in the professional edition.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Importing other types of projects
 
@@ -158,13 +164,6 @@ You can also import a Java Eclipse or IntelliJ IDEA Workspace from the [Start Pa
 
 ![Appv4 import](https://cdn.advancedinstaller.com/img/project/appv4-import.png "Appv4 import") This type of project gives you the possibility to[import existing App-V 4.x packages](https://tools.techidaily.com/advancedinstaller/products/) into an MSI Advanced Installer project. Note that this project type requires an Architect license.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Import App-V 5.x Package
 
 ![Appv5 import](https://cdn.advancedinstaller.com/img/project/appv5-import.png "Appv5 import") This type of project gives you the possibility to[import existing App-V 5.x packages](https://tools.techidaily.com/advancedinstaller/products/) into an MSI Advanced Installer project. Note that this project type requires an Architect license.
@@ -172,6 +171,13 @@ You can also import a Java Eclipse or IntelliJ IDEA Workspace from the [Start Pa
 #### Import ThinApp Project Folder
 
 ![Thin app](https://cdn.advancedinstaller.com/img/project/thin-app.png "Thin app") This type of project gives you the possibility to import existing ThinApp project folders and edit them using the Advanced Installer GUI. Note that this project type requires an Architect license.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -206,14 +212,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-expert-techniques-for-thriving-in-online-meetings-how-to-be-a-zoom-pro-for-2024/"><u>[Updated] Expert Techniques for Thriving in Online Meetings How to Be a Zoom Pro for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-experts-take-on-vivacut-full-video-editing-review-24/"><u>[Updated] Expert's Take on VivaCut Full Video Editing Review '24</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-obtain-exclusive-free-media-from-elite-4-youtube-clips/"><u>2024 Approved Obtain Exclusive Free Media From Elite 4 YouTube Clips</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/artistdirect-how-to-convert-and-download-your-favorite-music-videos-in-various-formats-mp4-mov-avi/"><u>ArtistDirect: How to Convert and Download Your Favorite Music Videos in Various Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/complete-guide-downloading-repubblica-tv-shows-in-multiple-formats-mp4-mov-avi/"><u>Complete Guide: Downloading Repubblica TV Shows in Multiple Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/stream-rtlxl-content-to-your-devices-with-easy-vid-downloader-for-windows-and-macos/"><u>Stream RTLXL Content to Your Devices with Easy Vid Downloader for Windows and macOS</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unlock-youtube-premium-benefits-at-no-cost-how-to-download-videos-ad-free/"><u>Unlock YouTube Premium Benefits at No Cost – How to Download Videos Ad-Free</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-instagram-wants-you-to-take-a-break-from-social-media/"><u>Why Instagram Wants You to Take a Break From Social Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-recommendation-best-websites-to-download-classical-ringtones/"><u>[New] 2024 Approved Recommendation Best Websites to Download Classical Ringtones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-trends-that-triumph-making-your-instagram-content-viral/"><u>[Updated] In 2024, Trends That Triumph Making Your Instagram Content Viral</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-proven-pathways-for-cutting-edge-obs-studio-edits/"><u>2024 Approved Proven Pathways for Cutting-Edge OBS Studio Edits</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-updating-logitech-mouse-for-win11-enthusiasts/"><u>Accelerate Updating Logitech Mouse for Win11 Enthusiasts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/boosting-job-application-success-with-standardized-interview-scripts-on-resumes/"><u>Boosting Job Application Success with Standardized Interview Scripts on Resumes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/control-data-row-dialog/"><u>Control Data Row Dialog.</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/customizable-pre-configured-database-access-interface/"><u>Customizable Pre-Configured Database Access Interface</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-techniques-for-eliminating-gridlines-in-your-photos-no-need-for-photoshop/"><u>Easy Techniques for Eliminating Gridlines in Your Photos - No Need for Photoshop!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effortless-guide-capturing-your-macs-display-in-el-capitan/"><u>Effortless Guide: Capturing Your Mac's Display in El Capitan</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/essential-details-tab-your-guide-to-key-information-at-a-glance/"><u>Essential Details Tab: Your Guide to Key Information at a Glance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-meme-makers-dream-toolkit/"><u>FREE Meme Makers' Dream Toolkit</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-connect-your-vm-profile-a-comprehensive-guide/"><u>How to Connect Your VM Profile: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-a24-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy A24 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/modify-styled-text-conversation-interface/"><u>Modify Styled Text Conversation Interface</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/order-matters-how-to-experience-the-full-storyline-of-the-iconic-superman-movies/"><u>Order Matters: How to Experience the Full Storyline of the Iconic 'Superman' Movies</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-capturing-screen-videos-using-screencast-o-matic/"><u>Step-by-Step Guide: Capturing Screen Videos Using Screencast-O-Matic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-windows-from-stopping-fix-error-2e/"><u>Stop Windows From Stopping, Fix Error 2E</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/wave-riders-picks-premium-action-cameras-2023/"><u>Wave Riders’ Picks Premium Action Cameras 2023</u></a></li>
 </ul></div>
 

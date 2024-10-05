@@ -1,7 +1,7 @@
 ---
 title: Expanded Real Estate Discovery Features
-date: 2024-09-29T07:45:20.958Z
-updated: 2024-09-30T08:54:36.423Z
+date: 2024-10-01T19:39:22.052Z
+updated: 2024-10-05T20:22:20.001Z
 tags:
   - user-guide
 categories:
@@ -82,14 +82,14 @@ The search operation is performed on the target machine only if the specified pr
 
 ![Extended search properties](https://cdn.advancedinstaller.com/img/ui/extended-search-properties.png "Extended search properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Search Type
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Criteria
 
@@ -110,6 +110,13 @@ When searching multiple criteria can be used:
 * Product Version (identify by Upgrade Code) - The search will be successful if a product with the specified Upgrade Code and the appropriate version number is installed.
 * Installed MSIX package version - The search will be successful if the MSIX package with the appropriate _Package Name_(and optionally_Architecture_ and _Publisher_) is installed on the target machine. . You can either manually fill in the _Package Name_ or use the[Select an MSIX Product Dialog](https://tools.techidaily.com/advancedinstaller/products/) by clicking on\[...\] button
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### File To Find/Registry Key or Value
 
 This is helper string used in various criteria. Depending on the used criteria it may contain a file path, registry key or value, product code, upgrade code, etc. 
@@ -120,28 +127,15 @@ In case of a file search the [Edit Search String Dialog](https://tools.techidail
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When searching for a file, if no path is specified, the search will be performed on all fix drives.
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Search Depth
 
  Specified how deep within the folder's subdirectories to search for a file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Search the 64-bit portion of the registry
@@ -149,6 +143,13 @@ In case of a file search the [Edit Search String Dialog](https://tools.techidail
 Check this if you want to search in the 64-bit registry section. The search will not be redirected to the 32-bit section, regardless of the [package type](https://tools.techidaily.com/advancedinstaller/products/).
 
 ## Required Versions
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Minimum
 
@@ -159,13 +160,6 @@ The minimum version necessary for the search to be successful.
 The maximum version necessary for the search to be successful.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you are using as criteria the version number extracted from a file or a registry value you can leave both fields blank. In this case, Advanced Installer will check only the presence of that file or registry value. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -205,24 +199,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-engaging-audiences-with-dynamic-and-attractive-snaps/"><u>[New] In 2024, Engaging Audiences with Dynamic and Attractive Snaps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits/"><u>[New] In 2024, From Concept to Cut-Tape IMovie Steps for Optimizing YouTube Edits</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-ace-advertising-and-analytics-youtubes-universal-monetization-techniques/"><u>2024 Approved Ace Advertising and Analytics YouTube's Universal Monetization Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-common-chatgpt-errors-and-their-fixes/"><u>6 Common ChatGPT Errors and Their Fixes</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/complete-tutorial-on-legally-obtaining-and-saving-your-favorite-tv-series-in-mp4-or-mov-format-using-pcmac-methods/"><u>Complete Tutorial on Legally Obtaining and Saving Your Favorite TV Series in MP4 or MOV Format Using PC/Mac Methods</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comprehensive-tutorial-for-downloading-free-content-from-open-culture-movies-courses-and-audiobooks-as-mp4-or-mp3-files/"><u>Comprehensive Tutorial for Downloading Free Content From Open Culture - Movies, Courses, and Audiobooks as MP4 or MP3 Files</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/convert-mlb-live-streams-and-on-demand-matches-into-mp4avimov-files-for-download/"><u>Convert MLB Live Streams & On-Demand Matches Into MP4/AVI/MOV Files for Download</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/convert-your-groove3-lessons-into-mp4-format-easy-steps/"><u>Convert Your Groove3 Lessons Into MP4 Format - Easy Steps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-your-sound-story-utilizing-auditions-fade-in/"><u>Crafting Your Sound Story Utilizing Audition's Fade In</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-adult-content-from-vporn-in-multiple-formats-mp4-mov-avi/"><u>Download Adult Content From Vporn in Multiple Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-and-play-ign-content-anywhere-easy-conversion-to-mp4avi-for-windows-and-mac-users/"><u>Download and Play IGN Content Anywhere: Easy Conversion to MP4/AVI for Windows & Mac Users</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-mylifetime-show-episodes-as-mp4-files-easy-guide-and-best-tools/"><u>Download MyLifetime Show Episodes as MP4 Files - Easy Guide & Best Tools</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-your-favorite-bbc-iplayer-shows-as-mp4-or-avi-files-with-our-top-downloading-tool/"><u>Download Your Favorite BBC iPlayer Shows as MP4 or AVI Files with Our Top Downloading Tool</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/efficient-media-converter-save-your-mediasite-files-as-mp4-mov-or-avi-with-ease/"><u>Efficient Media Converter: Save Your Mediasite Files as MP4, MOV or AVI with Ease</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-5-beginner-secrets-to-mastering-photoshop-edits/"><u>In 2024, 5 Beginner Secrets to Mastering Photoshop Edits</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-technology-trends-articles-and-reviews-by-toms-hardware-team/"><u>Navigating Technology Trends: Articles and Reviews by Tom's Hardware Team</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y36-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y36 Phone Pattern Lock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Review: Your Guide to the Latest in Computer Components and Gadgets</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-oneplus-nord-ce-3-lite-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 OnePlus Nord CE 3 Lite 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-drones-decoded-an-owners-primer-for-first-time-buyers/"><u>[New] 2024 Approved Drones Decoded An Owner's Primer for First-Time Buyers</u></a></li>
+<li><a href="https://solve-info.techidaily.com/abbyy-fur-den-schnellen-und-intelligenten-umgang-mit-belegdokumentation-expertise-in-der-dokumentenverarbeitungstechnologie/"><u>ABBYY Für Den Schnellen Und Intelligenten Umgang Mit Belegdokumentation - Expertise in Der Dokumentenverarbeitungstechnologie</u></a></li>
+<li><a href="https://win11.techidaily.com/achieve-crystal-clear-videos-tips-for-enhancing-visuals-and-ensuring-flawless-streaming/"><u>Achieve Crystal Clear Videos: Tips for Enhancing Visuals & Ensuring Flawless Streaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-better-emotional-skills-utilizing-chatgpt-for-personal-growth/"><u>Building Better Emotional Skills: Utilizing ChatGPT for Personal Growth</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-totmania-virus-elimination-steps-with-malwarefox/"><u>Comprehensive Guide: Totmania Virus Elimination Steps with MalwareFox</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effortlessly-shift-snapshots-android-to-mac-integration-guide/"><u>Effortlessly Shift Snapshots: Android to Mac Integration Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-unparalleled-clarity-with-the-sony-xbr-49x900f-a-comprehensive-4k-tv-analysis/"><u>Experience Unparalleled Clarity with the Sony XBR-49X900F: A Comprehensive 4K TV Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/heartfelt-gratitude-paidfree-creative-templates-for-2024/"><u>Heartfelt Gratitude Paid/Free Creative Templates for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-create-and-implement-your-own-vbscript-events-in-web-development/"><u>How to Create and Implement Your Own VBScript Events in Web Development</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-f04-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy F04 FRP Without Computer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/safeguarding-data-exchange-expert-strategies-to-shield-from-wpa2-krack-exploits/"><u>Safeguarding Data Exchange: Expert Strategies to Shield From WPA2 KRACK Exploits</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-selecting-the-finest-mac-compatible-ipod-film-editors/"><u>The Ultimate Guide to Selecting the Finest Mac-Compatible iPod Film Editors</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-guide-how-to-effortlessly-burn-a-cd-using-windows/"><u>Ultimate Guide: How to Effortlessly Burn a CD Using Windows</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unlocking-idefault-program-features-expert-tips-and-seo-strategies-for-maximum-efficiency/"><u>Unlocking iDefault Program Features: Expert Tips & SEO Strategies for Maximum Efficiency</u></a></li>
 </ul></div>
 

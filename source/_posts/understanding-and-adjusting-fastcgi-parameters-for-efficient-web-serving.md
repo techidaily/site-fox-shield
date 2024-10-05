@@ -1,7 +1,7 @@
 ---
 title: Understanding and Adjusting FastCGI Parameters for Efficient Web Serving
-date: 2024-09-25T16:21:33.408Z
-updated: 2024-09-29T17:21:38.883Z
+date: 2024-09-30T21:24:17.420Z
+updated: 2024-10-05T16:18:53.036Z
 tags:
   - user-guide
 categories:
@@ -102,10 +102,16 @@ This view allows advanced configuration for FastCGI application pool definitions
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only one pool will be added for all application mappings sharing the same **Script Processor**. To see all web sites using the pool, refer to the **Websites** column.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an element
@@ -113,10 +119,10 @@ This view allows advanced configuration for FastCGI application pool definitions
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected. The [FastCGI Properties dialog](https://tools.techidaily.com/advancedinstaller/products/) will be shown allowing you to configure an existing application pool definition along with its environment variables.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -159,22 +165,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-windows-sketchpad-selections-cost-free-and-premium-plans/"><u>[New] Best Windows Sketchpad Selections Cost-Free & Premium Plans</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-designing-multi-layered-photographic-illusions-for-2024/"><u>[New] Designing Multi-Layered Photographic Illusions for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-master-list-of-10-best-video-chat-programs-today/"><u>[Updated] Master List of 10 Best Video Chat Programs Today</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/compact-camera-champion-the-elph-190-review/"><u>Compact Camera Champion: The ELPH 190 Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-best-4k-tvs-top-ten-selection/"><u>In 2024, Best 4K TVs Top Ten Selection</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/over-43-unique-bootstrap-components-in-creative-tims-web-ui-toolkit/"><u>Over 43 Unique Bootstrap Components in Creative Tim's Web UI Toolkit</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/premium-flutter-app-blueprint-with-argon-pro-theme-by-creative-tim-ultimate-solution-for-iosandroid-development/"><u>Premium Flutter App Blueprint with Argon Pro Theme by Creative Tim: Ultimate Solution for iOS/Android Development</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/pro-level-efficiency-with-get-shtdone-pro-top-pick-premium-bootstrap-themes-by-creative-tim/"><u>Pro-Level Efficiency with Get Sh!tDone PRO: Top Pick Premium Bootstrap Themes by Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-pro-react-mui-soft-interface-premium-dashboard/"><u>Professional Pro-React MUI Soft Interface Premium Dashboard</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-react-admin-panel-with-material-ui-advanced-creative-tim-dashboard/"><u>Professional React Admin Panel with Material UI - Advanced Creative Tim Dashboard</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-website-prototypes-with-the-ghost-theme-by-creative-tim-based-on-googles-material-design-guidelnads/"><u>Professional Website Prototypes with the 'Ghost' Theme by Creative Tim, Based on Google’s Material Design Guidelnads</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/react-component-library-material-dashboard-complimentary-material-ui-framework-template-by-creative-tim/"><u>React Component Library Material Dashboard | Complimentary Material-UI Framework Template by Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/section-2a-understanding-the-uniform-commercial-code-ucc-and-article-2/"><u>Section 2A: Understanding the Uniform Commercial Code (UCC) and Article 2</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/seeking-optimal-video-player-vlc-meets-mx/"><u>Seeking Optimal Video Player VLC Meets MX</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-setting-up-your-virtual-private-network-vpn-on-microsofts-latest-operating-system-windows-11/"><u>Step-by-Step Instructions for Setting up Your Virtual Private Network (VPN) on Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-viral-traction-via-youtube-short-content-for-2024/"><u>Surge Viral Traction via YouTube Short Content for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-advice-expert-insights-on-computer-equipment/"><u>Tom's Tech Advice: Expert Insights on Computer Equipment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pro-filmmakers-guide-to-speedy-shot-techniques/"><u>[Updated] 2024 Approved Pro Filmmaker's Guide to Speedy Shot Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-dive-deep-into-stardews-heart-with-our-guide-to-ginger-isle-for-2024/"><u>[Updated] Dive Deep Into Stardew's Heart with Our Guide to Ginger Isle for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/best-2022-software-for-background-removal-in-mac-images-top-picks/"><u>Best 2022 Software for Background Removal in Mac Images: Top Picks</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/best-lock-screen-apps-for-windows-8-top-picks-and-feature-comparisons/"><u>Best Lock Screen Apps for Windows 8: Top Picks and Feature Comparisons</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-nokia-c300-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nokia C300? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/customize-your-experience-with-easy-steps-in-the-user-account-settings-section/"><u>Customize Your Experience with Easy Steps in the User Account Settings Section</u></a></li>
+<li><a href="https://win-unique.techidaily.com/easy-guide-to-converting-youtube-content-into-premium-wma-files/"><u>Easy Guide to Converting YouTube Content Into Premium WMA Files</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-lava-blaze-2-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Lava Blaze 2 Pro Phone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-rated-hd-recording-software-for-world-of-warcraft-a-comprehensive-guide/"><u>Top-Rated HD Recording Software for World of Warcraft: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlocking-viewership-growth-on-twitch-top-4-strategies/"><u>Unlocking Viewership Growth on Twitch Top 4 Strategies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Control Data Row Dialog.
-date: 2024-09-26T23:23:23.862Z
-updated: 2024-09-29T17:24:02.403Z
+date: 2024-09-29T16:57:32.255Z
+updated: 2024-10-05T21:37:31.903Z
 tags:
   - user-guide
 categories:
@@ -84,15 +84,29 @@ Table of Contents
 ## Control Data Row Dialog
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Values
 
 ![Control Data Row Dialog](https://cdn.advancedinstaller.com/img/dialog/control-data-row.png "Control Data Row Dialog")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Text
 
@@ -104,19 +118,6 @@ Specify item value.
 
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can insert a reference to a property.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Icon File
 
 Specify item icon. Use the \[... \] to select one.
@@ -124,17 +125,10 @@ Specify item icon. Use the \[... \] to select one.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option is available only for ListView controls.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Icon Preview
@@ -174,20 +168,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-quickcam-plus-audio-guide-integration-tool/"><u>[New] 2024 Approved QuickCam + Audio Guide Integration Tool</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-magic-vs-2-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor Magic Vs 2 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-clean-up-and-delete-hiberfilsys-in-windows-tenth-for-optimal-performance/"><u>How to Clean Up and Delete Hiberfil.sys in Windows Tenth for Optimal Performance</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-get-dekho-na-song-in-multiple-audio-quality-mp3-wma-wav-flac-and-aac/"><u>How To Get 'Dekho Na Song' In Multiple Audio Quality: MP3, WMA, WAV, FLAC, and AAC</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-save-your-favorite-cbc-shows-on-both-window-and-macos-systems/"><u>How To Save Your Favorite CBC Shows On Both Window & macOS Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-c50-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-the-chiefs-guide-to-superior-cloud-vaults/"><u>In 2024, The Chief's Guide to Superior Cloud Vaults</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-honor-90-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Honor 90 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/mp4-movie-downloads-from-bigflix-on-pcs-and-macs-a-step-by-step-guide/"><u>MP4 Movie Downloads From BIGFlix on PCs & Macs - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/overcome-savefrom-glitches-expert-guide-to-restoring-form-functionality-safely/"><u>Overcome ‘SaveFrom’ Glitches: Expert Guide to Restoring Form Functionality Safely</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fix-guide-for-common-bcm2045a0-driver-errors/"><u>Quick-Fix Guide for Common BCM2045A0 Driver Errors</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/record-live-parliament-sessions-videoaudio-download-tool-for-parliamentlivechannelcom/"><u>Record Live Parliament Sessions: VIDEO/AUDIO Download Tool for ParliamentLiveChannel.com</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/save-your-favorite-songs-from-aol-radio-as-various-file-types-such-as-wav-wma-or-flac-for-superior-sound-quality/"><u>Save Your Favorite Songs From AOL Radio as Various File Types Such as WAV, WMA, or FLAC for Superior Sound Quality</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-msi-afterburner-doesnt-recognize-your-gpu-on-windows-1011/"><u>Troubleshooting Steps When MSI Afterburner Doesn't Recognize Your GPU on Windows 10/11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-evolution-of-streaming-youtube-tv-in-focus/"><u>[New] 2024 Approved The Evolution of Streaming YouTube TV In Focus</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-boost-your-podcast-visibility-with-seo-tactics-for-2024/"><u>[New] Boost Your Podcast Visibility with SEO Tactics for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-soundbanks-access-anytime-anywhere/"><u>[Updated] FB Soundbanks Access Anytime, Anywhere</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-pro-monitor-snapshot-software-w10/"><u>[Updated] In 2024, Pro Monitor Snapshot Software W10</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-totmania-virus-elimination-steps-with-malwarefox/"><u>Comprehensive Guide: Totmania Virus Elimination Steps with MalwareFox</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/crafting-powerful-hashtags-for-fb-brand-identity/"><u>Crafting Powerful Hashtags for FB Brand Identity</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-world-of-internet-memes/"><u>Decoding the World of Internet Memes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-strategies-for-handling-edit-conflict-resolutions/"><u>Effective Strategies for Handling Edit Conflict Resolutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effortlessly-shift-snapshots-android-to-mac-integration-guide/"><u>Effortlessly Shift Snapshots: Android to Mac Integration Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cutting-edge-ps2-games-simulation-for-ios-users/"><u>In 2024, Cutting-Edge PS2 Games Simulation for iOS Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-latest-tech-insights-on-sonys-s3700-blu-ray/"><u>In 2024, Latest Tech Insights on Sony's S3700 Blu-Ray</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/stealthy-threats-understanding-how-malware-evades-task-manager-monitoring-expert-analysis-from-malwarefox/"><u>Stealthy Threats: Understanding How Malware Evades Task Manager Monitoring - Expert Analysis From MalwareFox</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-process-how-to-sync-iphone-se-with-windows-or-mac-osx/"><u>Step-by-Step Process: How to Sync iPhone SE with Windows or Mac OSX</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/the-top-10-leading-twitch-broadcast-tools-ranked-and-reviewed/"><u>The Top 10 Leading Twitch Broadcast Tools - Ranked and Reviewed</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-guide-how-to-effortlessly-burn-a-cd-using-windows/"><u>Ultimate Guide: How to Effortlessly Burn a CD Using Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-pc-potential-wisdom-from-toms-hardware-experts/"><u>Unleash Your PC Potential - Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unlocking-idefault-program-features-expert-tips-and-seo-strategies-for-maximum-efficiency/"><u>Unlocking iDefault Program Features: Expert Tips & SEO Strategies for Maximum Efficiency</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/verifying-database-connectivity-sql-server-connection-tutorials/"><u>Verifying Database Connectivity: SQL Server Connection Tutorials</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
 </ul></div>
 

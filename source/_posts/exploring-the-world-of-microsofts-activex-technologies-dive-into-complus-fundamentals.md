@@ -1,7 +1,7 @@
 ---
 title: Exploring the World of Microsoft's ActiveX Technologies - Dive Into COM+ Fundamentals
-date: 2024-09-23T07:56:12.762Z
-updated: 2024-09-29T16:12:38.685Z
+date: 2024-10-01T16:53:58.614Z
+updated: 2024-10-05T19:58:21.508Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,16 @@ This view allows you to specify the information needed to register a COM+.
 ![Com plus properties](https://cdn.advancedinstaller.com/img/ui/com-plus-properties.png "Com plus properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Files
@@ -96,17 +102,17 @@ Select the COM+'s files. Use the \[Add \] and\[Remove \] buttons to do that.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the files that form a COM+ must be placed in the same component.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Flags
@@ -146,19 +152,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-elevate-your-visuals-music-integration-for-vimeo-films/"><u>[Updated] In 2024, Elevate Your Visuals Music Integration for Vimeo Films</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-visualizing-time-the-hyperlapse-filmmakers-guide/"><u>2024 Approved Visualizing Time The Hyperlapse Filmmaker's Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/backup-your-customized-book-creation-preferences-in-flipbuilder-a-step-by-step-guide/"><u>Backup Your Customized Book Creation Preferences in FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/can-you-incorporate-js-scripts-into-your-digital-books-created-with-flipbuilder/"><u>Can You Incorporate JS Scripts Into Your Digital Books Created with FlipBuilder?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-to-using-flippdf-on-macos-unlocking-your-documents-potential/"><u>Comprehensive Guide to Using FlipPDF on macOS: Unlocking Your Document's Potential</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effective-techniques-for-organizing-and-tagging-office-documents-with-flipbuilder/"><u>Effective Techniques for Organizing and Tagging Office Documents with FlipBuilder</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-14-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi 14 Pro Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-blend-zoom-events-smoothly-into-phone-and-desktop-plans-efficiently/"><u>In 2024, Blend Zoom Events Smoothly Into Phone & Desktop Plans Efficiently</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safari-full-screen-photo-woes-discover-these-quick-fixes-to-capture-content-whole/"><u>Safari Full Screen Photo Woes? Discover These Quick Fixes to Capture Content Whole</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-when-you-cant-find-avcodecdll/"><u>Step-by-Step Troubleshooting: When You Can't Find avcodec.dll</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-best-note-taking-solutions-for-professionals-and-students-2024-edition/"><u>The Ultimate List: Best Note-Taking Solutions for Professionals and Students, 2024 Edition</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-issues-why-cant-you-access-flipbuilder-downloads-now/"><u>Troubleshooting Issues: Why Can't You Access FlipBuilder Downloads Now?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-resource-guide-mastering-flip-image-techniques-with-flipimagepro/"><u>Ultimate Resource Guide - Mastering Flip Image Techniques with FlipImagePro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-let-us-talk-about-the-famous-photoshop-and-most-commonly-used-glitch-effect-the-article-understudy-will-discuss-in-detail-about-photo-/"><u>Updated 2024 Approved Let Us Talk About the Famous Photoshop and Most Commonly Used Glitch Effect. The Article Understudy Will Discuss in Detail About Photo Glitch Effect</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-commanders-quest-the-ultimate-list-of-total-war-classics/"><u>[New] 2024 Approved Commanders’ Quest The Ultimate List of Total War Classics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716070161847-updated-2024-approved-capture-every-detail-on-mac-free/"><u>[Updated] 2024 Approved Capture Every Detail on Mac - Free!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-prevent-video-playback-issues-in-android-apps/"><u>[Updated] In 2024, Prevent Video Playback Issues in Android Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-sound-transformation-tools-magic-edition-included/"><u>[Updated] Leading Sound Transformation Tools, Magic Edition Included</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-band-live-streams/"><u>[Updated] Premier Band Live Streams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-overcoming-video-limitations-on-instagram-platform/"><u>2024 Approved Overcoming Video Limitations on Instagram Platform</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/adjusting-application-boot-parameters-through-the-setup-preferences-pane/"><u>Adjusting Application Boot Parameters Through the Setup Preferences Pane</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/best-substitute-software-for-foxit-reader-and-pdf-modification-tools/"><u>Best Substitute Software for Foxit Reader & PDF Modification Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beyond-the-hype-true-factors-in-mastering-languages/"><u>Beyond the Hype: True Factors in Mastering Languages</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-collaborative-folder-management-with-shared-access-feature/"><u>Easy Collaborative Folder Management with Shared Access Feature</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-save-iphone-calls-on-mac-or-windows-pc/"><u>How to Save iPhone Calls on Mac or Windows PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rhythm-in-reels-the-essentials-of-iphone-video-making/"><u>In 2024, Rhythm in Reels The Essentials of iPhone Video Making</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-5-under-100-gaming-keyboards-your-next-purchase/"><u>In 2024, Top 5 Under-$100 Gaming Keyboards – Your Next Purchase?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/leading-mobilerobo-options-explore-the-finest-similar-apps-for-your-smartphone/"><u>Leading MobileRobo Options: Explore the Finest Similar Apps for Your Smartphone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/navigating-the-preferences-pane-customizing-mac-os-x-system-controls/"><u>Navigating the Preferences Pane: Customizing Mac OS X System Controls</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quickres-speedy-format-factory-substitute-for-windows-and-mac-users/"><u>QuickRes: Speedy Format Factory Substitute for Windows & Mac Users</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/say-goodbye-to-annoying-pop-ups-a-guide-to-using-malwarefox-on-samsung-phones-and-tablets/"><u>Say Goodbye to Annoying Pop-Ups: A Guide to Using MalwareFox on Samsung Phones and Tablets</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-screen-mirroring-connect-your-huawei-p50-with-a-computer/"><u>Step-by-Screen Mirroring: Connect Your Huawei P50 with a Computer</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-art-of-visual-storytelling-ken-burns-effect-in-final-cut-pro-explained/"><u>Updated In 2024, The Art of Visual Storytelling Ken Burns Effect in Final Cut Pro Explained</u></a></li>
 </ul></div>
 

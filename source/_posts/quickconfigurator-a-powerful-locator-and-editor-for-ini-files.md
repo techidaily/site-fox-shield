@@ -1,7 +1,7 @@
 ---
 title: "QuickConfigurator: A Powerful Locator and Editor for INI Files"
-date: 2024-09-23T19:51:54.624Z
-updated: 2024-09-29T23:21:58.483Z
+date: 2024-09-30T20:32:12.744Z
+updated: 2024-10-05T18:06:39.582Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## ISearchIniLocator
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,10 +136,10 @@ Table of Contents
 ISearchIniLocator : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -147,10 +147,10 @@ ISearchIniLocator : IDispatch
 This interface is meant to edit search "ini" locator.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -170,10 +170,10 @@ This interface is meant to edit search "ini" locator.
 **uint Depth** \- Gets or sets how deep within the folder's subdirectories to search.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -215,22 +215,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-in-depth-review-samsungs-immersive-360-degree-camera/"><u>[Updated] In 2024, In-Depth Review Samsung's Immersive 360-Degree Camera</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-innovative-editing-youtube-studio-edition-insights/"><u>[Updated] In 2024, Innovative Editing YouTube Studio Edition Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-infusing-sound-into-your-photography/"><u>2024 Approved Infusing Sound Into Your Photography</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-download-multiple-file-types-of-msn-videos-including-avi-mp4-wmv-for-offline-viewing/"><u>How to Download Multiple File Types of MSN Videos Including AVI, MP4, WMV for Offline Viewing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-get-dekho-na-song-in-multiple-audio-quality-mp3-wma-wav-flac-and-aac/"><u>How To Get 'Dekho Na Song' In Multiple Audio Quality: MP3, WMA, WAV, FLAC, and AAC</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-save-your-favorite-cbc-shows-on-both-window-and-macos-systems/"><u>How To Save Your Favorite CBC Shows On Both Window & macOS Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-hot-40-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Hot 40</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-meetups-the-ultimate-friendly-list/"><u>In 2024, Metaverse Meetups The Ultimate Friendly List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-googles-text-conversion-service-a-detailed-walkthrough/"><u>Mastering Google's Text Conversion Service A Detailed Walkthrough</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/mp4-movie-downloads-from-bigflix-on-pcs-and-macs-a-step-by-step-guide/"><u>MP4 Movie Downloads From BIGFlix on PCs & Macs - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/overcome-savefrom-glitches-expert-guide-to-restoring-form-functionality-safely/"><u>Overcome ‘SaveFrom’ Glitches: Expert Guide to Restoring Form Functionality Safely</u></a></li>
-<li><a href="https://facebook.techidaily.com/portals-leap-into-mobility-with-go-update/"><u>Portal’s Leap Into Mobility with Go Update</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/record-live-parliament-sessions-videoaudio-download-tool-for-parliamentlivechannelcom/"><u>Record Live Parliament Sessions: VIDEO/AUDIO Download Tool for ParliamentLiveChannel.com</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/save-your-favorite-songs-from-aol-radio-as-various-file-types-such-as-wav-wma-or-flac-for-superior-sound-quality/"><u>Save Your Favorite Songs From AOL Radio as Various File Types Such as WAV, WMA, or FLAC for Superior Sound Quality</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/seamless-transition-from-youtube-videos-to-avi-format-top-downloads-and-tutorials-available/"><u>Seamless Transition From YouTube Videos to AVI Format - Top Downloads and Tutorials Available!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-travel-influencers-on-twitter-tips-trips-and-bargains-await/"><u>Ultimate Guide to the Best Travel Influencers on Twitter: Tips, Trips, and Bargains Await</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-note-50-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Note 50 Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-vidoetwitter-fetcher-gather-twitter-videos-effortlessly/"><u>[Updated] VidoeTwitter Fetcher Gather Twitter Videos Effortlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-access-to-trending-tiktok-backdrops/"><u>2024 Approved Quick Access to Trending TikTok Backdrops</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-leading-5-mirroring-applications-in-2316llands-tech-scene/"><u>Discover the Leading 5 Mirroring Applications in 2#316;Lland's Tech Scene</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/downloadable-mp4mp3-converter-app-seamlessly-change-video-files-into-music-format/"><u>Downloadable MP4/MP3 Converter App - Seamlessly Change Video Files Into Music Format</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-on-pcs-and-peripherals-by-toms-hardware-team/"><u>Expert Advice on PCs and Peripherals by Tom's Hardware Team</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-the-features-of-an-ixml-data-file-insights-and-best-practices/"><u>Exploring the Features of an iXML Data File: Insights and Best Practices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-set-up-a-license-server-a-comprehensive-guide/"><u>How to Set Up a License Server: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-v29-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo V29 Android SIM Unlock APK</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mastering-iphone-revival-effective-strategies-using-icloud-backup-tools/"><u>Mastering iPhone Revival: Effective Strategies Using iCloud Backup Tools</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-the-apowermonkey-app-troubleshooting-failure-to-recognize-your-iphone-or-ipad/"><u>Solving the 'Apowermonkey' App: Troubleshooting Failure to Recognize Your iPhone or iPad</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-methods-for-downloading-tiktok-content-without-a-watermark/"><u>Top Methods for Downloading TikTok Content without a Watermark</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-should-think-twice-before-integrating-ai-generated-content-into-messages/"><u>Why You Should Think Twice Before Integrating AI-Generated Content Into Messages</u></a></li>
 </ul></div>
 

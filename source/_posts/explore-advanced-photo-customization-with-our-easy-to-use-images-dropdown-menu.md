@@ -1,7 +1,7 @@
 ---
 title: Explore Advanced Photo Customization with Our Easy-to-Use Images Dropdown Menu
-date: 2024-09-28T16:56:05.760Z
-updated: 2024-09-29T19:56:44.469Z
+date: 2024-09-29T21:54:53.149Z
+updated: 2024-10-05T17:41:17.228Z
 tags:
   - user-guide
 categories:
@@ -73,10 +73,10 @@ Table of Contents
 This dialog allows you to edit the properties of a slideshow image. It can be showed by using the \[Edit \] button orSpace key in the [Slideshow](https://tools.techidaily.com/advancedinstaller/products/) tab.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Image
@@ -84,19 +84,19 @@ This dialog allows you to edit the properties of a slideshow image. It can be sh
 In this section you can use the \[... \] button to select an image file from disk. The image path cannot be edited manually.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Options
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display Time
@@ -104,10 +104,10 @@ In this section you can use the \[... \] button to select an image file from dis
 In this field you can specify the number of seconds during which the image is showed. The _minimum value is "1"_ and the _maximum value is "3600"_.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -147,17 +147,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-10-free-recorder-apps-for-slack-meetings-and-video-conferencing-for-2024/"><u>[New] 10 FREE Recorder Apps for Slack Meetings & Video Conferencing for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-lens-tricks-editing-secrets-to-photo-wonders/"><u>[New] Lens Tricks Editing Secrets to Photo Wonders</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-apps-androids-ultimate-cloud-keepsakes/"><u>[Updated] Pinnacle Apps Android's Ultimate Cloud Keepsakes</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-design-wizards-perfect-templates-for-gaming-channel-logos/"><u>2024 Approved Design Wizards Perfect Templates for Gaming Channel Logos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/complete-tutorial-on-legally-obtaining-and-saving-your-favorite-tv-series-in-mp4-or-mov-format-using-pcmac-methods/"><u>Complete Tutorial on Legally Obtaining and Saving Your Favorite TV Series in MP4 or MOV Format Using PC/Mac Methods</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comprehensive-tutorial-for-downloading-free-content-from-open-culture-movies-courses-and-audiobooks-as-mp4-or-mp3-files/"><u>Comprehensive Tutorial for Downloading Free Content From Open Culture - Movies, Courses, and Audiobooks as MP4 or MP3 Files</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/convert-mlb-live-streams-and-on-demand-matches-into-mp4avimov-files-for-download/"><u>Convert MLB Live Streams & On-Demand Matches Into MP4/AVI/MOV Files for Download</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/convert-your-groove3-lessons-into-mp4-format-easy-steps/"><u>Convert Your Groove3 Lessons Into MP4 Format - Easy Steps</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-adult-content-from-vporn-in-multiple-formats-mp4-mov-avi/"><u>Download Adult Content From Vporn in Multiple Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-fortnites-elite-status-the-ps5-approach/"><u>Securing Fortnite's Elite Status: The PS5 Approach</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-engagement-the-role-of-youtube-shorts-template-design/"><u>[Updated] 2024 Approved Building Engagement The Role of YouTube Shorts Template Design</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gamers-ultimate-guide-selecting-the-best-video-card-brands/"><u>[Updated] Gamer’s Ultimate Guide Selecting the Best Video Card Brands</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-from-play-to-record-the-fraps-verdict/"><u>2024 Approved From Play to Record The Fraps Verdict</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd8pc/"><u>無料DVDコンバータソフト8つ選び！PCに驚きの取り込み経由</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-tips-for-fully-erasing-files-from-an-iphone-6-and-iphone-6-plus/"><u>Comprehensive Tips for Fully Erasing Files From an iPhone 6 and iPhone 6 Plus</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/cross-platform-display-connect-and-share-your-iphone-screen-on-a-samsung-tv/"><u>Cross-Platform Display: Connect and Share Your iPhone Screen on a Samsung TV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-for-iphone-remote-control-app-problems-a-comprehensive-solution/"><u>Easy Fixes for iPhone Remote Control App Problems - A Comprehensive Solution</u></a></li>
+<li><a href="https://fox-within.techidaily.com/easy-ways-to-move-your-tunes-to-an-iphone-without-using-itunes/"><u>Easy Ways to Move Your Tunes to an iPhone Without Using iTunes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhance-your-social-media-presence-with-the-top-instagram-visual-editor-software-in-vectors-2020-edition/"><u>Enhance Your Social Media Presence with the Top Instagram Visual Editor Software in Vectors, 2020 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-0x80004005-explained-how-to-fix-the-unspecified-error-on-your-computer/"><u>Error Code 0X80004005 Explained - How to Fix the 'Unspecified Error' On Your Computer</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-turn-your-prezi-slideshow-into-videos-for-instant-sharing-top-3-methods-revealed/"><u>How to Turn Your Prezi Slideshow Into Videos for Instant Sharing - Top 3 Methods Revealed!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/insert-additional-pages-into-a-pdf-three-user-friendly-strategies/"><u>Insert Additional Pages Into a PDF: Three User-Friendly Strategies</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-to-securely-broadcast-live-events-on-facebook-your-ultimate-livestreaming-manual/"><u>Simple Steps to Securely Broadcast Live Events on Facebook: Your Ultimate Livestreaming Manual</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/techniques-for-effective-siri-voice-use-in-tiktok-for-2024/"><u>Techniques for Effective Siri Voice Use in TikTok for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/the-leading-mac-application-for-flawless-image-editing-with-powerful-background-erasing-features/"><u>The Leading Mac Application for Flawless Image Editing with Powerful Background Erasing Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/usb-c-alert-on-your-iphone-heres-how-you-can-fix-the-liquid-detected-issue/"><u>USB-C Alert on Your iPhone? Here’s How You Can Fix the 'Liquid Detected' Issue</u></a></li>
 </ul></div>
 

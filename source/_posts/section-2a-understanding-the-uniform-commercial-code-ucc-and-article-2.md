@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Understanding the Uniform Commercial Code (UCC) and Article 2"
-date: 2024-09-25T17:19:24.390Z
-updated: 2024-09-30T08:48:53.569Z
+date: 2024-09-28T19:27:55.488Z
+updated: 2024-10-05T20:22:46.344Z
 tags:
   - product
 categories:
@@ -20,19 +20,25 @@ thumbnail: https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,19 +60,22 @@ thumbnail: https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-hit-parade-the-top-10-songs-on-spotify/"><u>[New] Hit Parade The Top 10 Songs on Spotify</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-improving-professional-collaboration-with-strategic-office-planning/"><u>[New] Improving Professional Collaboration with Strategic Office Planning</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-direct-twitter-media-transfer-to-whatsapp/"><u>[Updated] Direct Twitter Media Transfer to WhatsApp</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-poco-x5-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Poco X5 Pro? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-your-favorite-bbc-iplayer-shows-as-mp4-or-avi-files-with-our-top-downloading-tool/"><u>Download Your Favorite BBC iPlayer Shows as MP4 or AVI Files with Our Top Downloading Tool</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/efficient-media-converter-save-your-mediasite-files-as-mp4-mov-or-avi-with-ease/"><u>Efficient Media Converter: Save Your Mediasite Files as MP4, MOV or AVI with Ease</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-the-leading-5-video-grabber-apps-for-both-mac-os-x-and-microsoft-windows-platforms/"><u>Exploring the Leading 5 Video Grabber Apps for Both Mac OS X and Microsoft Windows Platforms</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/free-art-lessons-comprehensive-downloads-of-annamasonartcom-courses-and-video-guides/"><u>Free Art Lessons: Comprehensive Downloads of AnnamasonArt.com Courses and Video Guides</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/free-downloads-ted-talks-and-episodes-on-macwindows-watch-now/"><u>Free Downloads: TED Talks & Episodes on Mac/Windows - Watch Now!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-download-multiple-file-types-of-msn-videos-including-avi-mp4-wmv-for-offline-viewing/"><u>How to Download Multiple File Types of MSN Videos Including AVI, MP4, WMV for Offline Viewing</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: Your Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nalign-studio/"><u>VisionAlign Studio</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-earning-on-snapchat-for-2024/"><u>[New] The Ultimate Guide to Earning on Snapchat for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pushing-boundaries-with-hps-next-gen-4k-display-envy-27-for-2024/"><u>[Updated] Pushing Boundaries with HP's Next Gen 4K Display, Envy 27 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-tier-emulators-for-gba-games-on-android/"><u>[Updated] Top-Tier Emulators for GBA Games on Android</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/aspects-instead-of-properties-and-rephrasing-to-highlight-key-ideas-such-as-placement-attributes-and-positioning/"><u>Aspects Instead of Properties and Rephrasing to Highlight Key Ideas Such as Placement, Attributes, and Positioning.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cinema-crafting-excellence-top-5-camera-skills-to-hone-for-2024/"><u>Cinema Crafting Excellence Top 5 Camera Skills to Hone for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-techniques-for-capturing-high-quality-voice-conversations/"><u>Effective Techniques for Capturing High-Quality Voice Conversations</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/elevate-your-videos-with-top-ranking-free-ai-editors/"><u>Elevate Your Videos with Top-Ranking Free AI Editors</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/explore-advanced-photo-customization-with-our-easy-to-use-images-dropdown-menu/"><u>Explore Advanced Photo Customization with Our Easy-to-Use Images Dropdown Menu</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-90-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor 90 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-motorola-moto-g14-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Motorola Moto G14 to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/maximizing-focus-zooming-in-msteams-for-2024/"><u>Maximizing Focus Zooming In MSTEAMS for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/navigating-url-modifications-with-advanced-edit-link-features/"><u>Navigating URL Modifications with Advanced Edit Link Features</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/optimizing-video-exposure-on-youtube-with-high-impact-channels/"><u>Optimizing Video Exposure on YouTube with High-Impact Channels</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/recognizing-and-guarding-against-fraudulent-technical-aid-schemes/"><u>Recognizing and Guarding Against Fraudulent Technical Aid Schemes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-transforming-jpeg-photos-to-pdf-documents-in-windows/"><u>Step-by-Step Tutorial: Transforming JPEG Photos to PDF Documents in Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-action-cam-battle-gopro-hero5-and-sj7-star-for-2024/"><u>Top Action Cam Battle GoPro Hero5 & SJ7 Star for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-various-methods-of-importing-project-structures/"><u>Understanding Various Methods of Importing Project Structures</u></a></li>
 </ul></div>
 

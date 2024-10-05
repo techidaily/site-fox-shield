@@ -1,7 +1,7 @@
 ---
 title: How to Setup the JSON Import Functionality in Your Application's Settings
-date: 2024-09-26T03:05:26.538Z
-updated: 2024-09-29T17:45:15.877Z
+date: 2024-10-03T18:24:35.893Z
+updated: 2024-10-05T17:09:44.306Z
 tags:
   - user-guide
 categories:
@@ -101,19 +101,6 @@ This section allows you to configure the JSON file's installation behavior.
 
 If the requested JSON file does not already exist on the target system, it will be generated using the specified configuration.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Remove file on uninstall
 
 If you wish to delete the JSON file from the target system during component uninstalling, use one of the following options:
@@ -124,10 +111,17 @@ If you wish to delete the JSON file from the target system during component unin
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If none of the two checkbox choices is selected, the file will not be deleted during the uninstall process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component
@@ -135,10 +129,10 @@ If you wish to delete the JSON file from the target system during component unin
 This field specifies the component whose install or removal will trigger the JSON update operation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Error Policy
@@ -156,16 +150,16 @@ Prior to the update procedure, a backup copy of the original JSON file will be g
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Due to the possibility of JSON file updates occurring during the uninstall process, a backup of the file will be made during the uninstall process as well. If during uninstall an error occurs, a backup of the file will be created (regardless of this option) and the uninstall process will continue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)It highly recommended that you leave this option **enabled**, because an unexpected error during the JSON update process may _corrupt_ parts of your existing JSON file.
 
 ## Common options
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Impersonate installing user
 
@@ -204,22 +198,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-maximize-engagement-with-ideal-video-dimensions-on-insta/"><u>[New] In 2024, Maximize Engagement with Ideal Video Dimensions on Insta</u></a></li>
-<li><a href="https://games-able.techidaily.com/499-for-virtual-thrills-mozas-full-package/"><u>$499 for Virtual Thrills - MOZA's Full Package</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/access-all-of-mixergys-educational-videos-with-easy-mixergy-download-tool/"><u>Access All of Mixergy's Educational Videos with Easy Mixergy Download Tool</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-guide-on-converting-gameking-downloads-to-compatible-formats-like-mp4-and-avi-for-better-playback/"><u>Expert Guide on Converting GameKing Downloads to Compatible Formats Like MP4 and AVI for Better Playback</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/get-your-game-review-fix-quick-link-to-download-metacritics-video-assessments-and-trailers-for-popular-titles/"><u>Get Your Game Review Fix - Quick Link to Download Metacritic's Video Assessments and Trailers for Popular Titles</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-realme-11-proplus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Realme 11 Pro+ Phones with/without a PC</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-transform-your-favorite-tunein-broadcasts-into-downloaded-tracks-in-multiple-audio-file-types/"><u>How to Transform Your Favorite TuneIn Broadcasts Into Downloaded Tracks in Multiple Audio File Types</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-high-quality-capture-with-obs-a-screencast-showcase/"><u>In 2024, High-Quality Capture with OBS A Screencast Showcase</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-x90s-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo X90S by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-rise-and-shine-wake-up-to-savings-with-our-filmora-easter-sale/"><u>In 2024, Rise and Shine Wake Up to Savings with Our Filmora Easter Sale</u></a></li>
-<li><a href="https://facebook.techidaily.com/securely-engage-with-friends-on-facebook-heres-how/"><u>Securely Engage with Friends on Facebook, Here’s How</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-microsoft-outlook-spelling-errors/"><u>Step-by-Step Solutions for Microsoft Outlook Spelling Errors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-complete-nvidia-screenshot-user-manual-for-2024/"><u>The Complete NVIDIA Screenshot User Manual for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/transferring-multimedia-files-between-pages-a-guide-using-flipbuilder/"><u>Transferring Multimedia Files Between Pages: A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/transform-your-pdf-files-into-engaging-flash-animations-with-flipbuilder-share-effortlessly/"><u>Transform Your PDF Files Into Engaging Flash Animations with FlipBuilder - Share Effortlessly!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-guide-to-creating-a-flip-image-library-with-flipbuilder/"><u>Ultimate Guide to Creating a Flip Image Library with FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/uploading-made-in-house-flipbooks-to-your-site-with-easy-steps-learn-from-flipbuilder-experts/"><u>Uploading Made-in-House Flipbooks to Your Site with Easy Steps - Learn From FlipBuilder Experts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/aspects-instead-of-properties-and-rephrasing-to-highlight-key-ideas-such-as-placement-attributes-and-positioning/"><u>Aspects Instead of Properties and Rephrasing to Highlight Key Ideas Such as Placement, Attributes, and Positioning.</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/explore-advanced-photo-customization-with-our-easy-to-use-images-dropdown-menu/"><u>Explore Advanced Photo Customization with Our Easy-to-Use Images Dropdown Menu</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-experts-pathway-transforming-sdr-footage-into-hdri/"><u>In 2024, The Expert's Pathway Transforming SDR Footage Into HDRI</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/navigating-url-modifications-with-advanced-edit-link-features/"><u>Navigating URL Modifications with Advanced Edit Link Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/next-level-gaming-rig-craft-your-mini-pc-with-a-high-speed-egpu-pcie-link-surpassing-traditional-thunderbolt-4-speeds/"><u>Next-Level Gaming Rig: Craft Your Mini PC with a High-Speed eGPU PCIe Link Surpassing Traditional Thunderbolt 4 Speeds</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-transforming-jpeg-photos-to-pdf-documents-in-windows/"><u>Step-by-Step Tutorial: Transforming JPEG Photos to PDF Documents in Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-oneplus-ace-3-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with OnePlus Ace 3? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-various-methods-of-importing-project-structures/"><u>Understanding Various Methods of Importing Project Structures</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-future-soundscape-pioneers-unveiling-the-top-8-2023-daws-for-hip-hop-production-excellence/"><u>Updated 2024 Approved Future Soundscape Pioneers Unveiling the Top 8 2023 DAWs for Hip-Hop Production Excellence</u></a></li>
 </ul></div>
 

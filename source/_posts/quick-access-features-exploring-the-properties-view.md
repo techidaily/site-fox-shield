@@ -1,7 +1,7 @@
 ---
 title: "Quick Access Features: Exploring the 'Properties' View"
-date: 2024-09-27T01:38:19.686Z
-updated: 2024-09-29T17:19:19.094Z
+date: 2024-10-02T17:29:12.279Z
+updated: 2024-10-05T21:26:47.940Z
 tags:
   - user-guide
 categories:
@@ -92,10 +92,10 @@ Table of Contents
 ![Shortcut Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/shortcut-properties.png "Shortcut Properties Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -123,19 +123,26 @@ Table of Contents
 For this specific reason Advanced Installer enforces asking the installing user for confirmation through the**PINTOTASKBAR property, which must be set to IDYES to pin to taskbar.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)On Windows 7 the shortcut will not be automatically added to the Start Menu > Recently Used section.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Arguments
@@ -151,13 +158,6 @@ This command line accepts, as input, the parameters (arguments) for the file ope
 * The directory where the shortcut will be placed. You can change it only at creation time using the \[Browse... \] button via the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 * Working Directory
 * The working directory of the file launched by the shortcut. The directory can be changed by using the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) or the[Property Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) through the \[Edit... \] button. When using a property, its value needs to be set to a valid path.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display
 
@@ -201,17 +201,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unraveling-video-dimensions-a-complete-approach-for-yt-content/"><u>[New] In 2024, Unraveling Video Dimensions A Complete Approach for YT Content</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ioss-top-5-ps2-simulators/"><u>[Updated] In 2024, IOS's Top 5 PS2 Simulators</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-video-ventures-youtube-shorts-or-tiktok/"><u>[Updated] In 2024, Video Ventures YouTube Shorts or TikTok?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-understanding-vr-headsets-an-overview-for-2024/"><u>[Updated] Understanding VR Headsets An Overview for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-gratis-bootstrap-5-theme-framework-effortless-and-modern-interface-crafting-at-creative-tim/"><u>1. Gratis Bootstrap 5 Theme Framework: Effortless & Modern Interface Crafting at Creative Tim</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-detailed-guide-to-minecraft-live-broadcasting/"><u>2024 Approved Detailed Guide to Minecraft Live Broadcasting</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-mirallis-assistance-dedicated-customer-care-solutions/"><u>Expert Mirallis Assistance: Dedicated Customer Care Solutions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/get-answers-fast-mirillis-mirroraction-guide-and-tutorials-for-screenshots-recordings-and-more/"><u>Get Answers Fast: Mirillis MirrorAction Guide & Tutorials for Screenshots, Recordings, and More</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-6s-plus-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone 6s Plus without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/sci-fis-virtual-quest-the-best-movies-to-discover-alien-universes-for-2024/"><u>Sci-Fi's Virtual Quest The Best Movies to Discover Alien Universes for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-mastering-export-and-upload-techniques-in-action/"><u>Step-by-Step Guide: Mastering Export & Upload Techniques in Action!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tomb-raiders-trap-steady-stream/"><u>Tomb Raider's Trap: Steady Stream?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-snapping-your-view-on-windows-devices/"><u>[New] In 2024, Snapping Your View on Windows Devices</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-path-from-twitter-video-to-fb-sharing/"><u>[New] In 2024, The Path From Twitter Video to FB Sharing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-openings-unveiled-scripted-appeals/"><u>[New] Podcast Openings Unveiled Scripted Appeals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reign-over-the-market-selecting-the-best-7-nft-enabling-services/"><u>[Updated] Reign Over the Market Selecting the Best 7 NFT-Enabling Services</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-ultimate-media-players-5-great-options-besides-flvto-for-seamless-video-streaming/"><u>Discover the Ultimate Media Players: 5 Great Options Besides FLVTO for Seamless Video Streaming</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/dynamic-picking-tools-dialogue-box/"><u>Dynamic Picking Tools Dialogue Box</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/explore-our-diverse-range-of-services/"><u>Explore Our Diverse Range of Services</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-key-real-estate-features-a-comprehensive-guide/"><u>Exploring Key Real Estate Features: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-amd-radeon-vega-64-up-to-date-download-and-install-drivers-easily-on-windows-pcs/"><u>Get Your AMD Radeon VEGA 64 Up to Date - Download & Install Drivers Easily on Windows PCs</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-effective-are-new-antivirus-programs-in-eliminating-pre-existing-computer-infections/"><u>How Effective Are New Antivirus Programs in Eliminating Pre-Existing Computer Infections?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-a34-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy A34 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keep-your-logitech-m50-mouse-running-smoothly-with-these-driver-upgrade-instructions/"><u>Keep Your Logitech M50 Mouse Running Smoothly with These Driver Upgrade Instructions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mastering-automation-with-powershell-script-files-an-introductory-tutorial/"><u>Mastering Automation with PowerShell Script Files: An Introductory Tutorial</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/must-try-mp3-transformers-superior-substitutes-for-mp3-rocket/"><u>Must-Try MP3 Transformers: Superior Substitutes for MP3 Rocket</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/pc-playthroughs-made-easy-a-guide-to-livestreaming-mobile-legends-gaming-sessions/"><u>PC Playthroughs Made Easy - A Guide to Livestreaming Mobile Legends Gaming Sessions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/personalized-color-schemes-setup-for-picture-frames/"><u>Personalized Color Schemes Setup for Picture Frames</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchat-savvy-elevating-your-photographic-style-with-app-edits-for-2024/"><u>Snapchat Savvy Elevating Your Photographic Style with App Edits for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-peak-gaming-potential-with-these-windows-11-tweaks/"><u>Unlock Peak Gaming Potential with These Windows 11 Tweaks</u></a></li>
 </ul></div>
 

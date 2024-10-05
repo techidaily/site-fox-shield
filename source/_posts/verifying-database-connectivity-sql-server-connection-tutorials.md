@@ -1,7 +1,7 @@
 ---
 title: "Verifying Database Connectivity: SQL Server Connection Tutorials"
-date: 2024-09-24T04:21:29.064Z
-updated: 2024-09-29T19:57:15.021Z
+date: 2024-10-03T21:43:16.873Z
+updated: 2024-10-05T19:34:24.729Z
 tags:
   - user-guide
 categories:
@@ -82,6 +82,13 @@ This feature enables the user to test if the ODBC connection works.
 
 ## General
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Connection String
 
 In this field an SQL Connection field could be entered.
@@ -93,16 +100,10 @@ In this field an SQL Connection field could be entered.
 Check this option to test connection against a 64-bit ODBC driver.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Login timeout (sec)
@@ -110,10 +111,16 @@ Check this option to test connection against a 64-bit ODBC driver.
 **Optionally**, you can specify a connection timeout (_in seconds_) for this test. The default is **60 seconds**. The timeout can be specified through the Windows Installer [property](https://tools.techidaily.com/advancedinstaller/products/) SqlConnectionTimeout. You can set this property_statically_ (from [Properties Page](https://tools.techidaily.com/advancedinstaller/products/)) or _dynamically_ (from the [installer UI](https://tools.techidaily.com/advancedinstaller/products/) \- associated with an [Edit Control](https://tools.techidaily.com/advancedinstaller/products/) or with a [Set installer property value](https://tools.techidaily.com/advancedinstaller/products/) Control Event).
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Verbose
@@ -121,26 +128,19 @@ Check this option to test connection against a 64-bit ODBC driver.
 In this section you can choose to display the "Please wait.." message box.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Output
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Property
 
@@ -183,16 +183,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevate-content-appeal-with-these-essential-5-tiktok-caption-techniques/"><u>[Updated] Elevate Content Appeal with These Essential 5 TikTok Caption Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-visual-mastery-the-ultimate-list-of-the-best-photo-editing-displays/"><u>[Updated] In 2024, Visual Mastery - The Ultimate List of the Best Photo Editing Displays</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unlimited-hd-videostreaming-on-your-device-for-2024/"><u>[Updated] Unlimited HD Videostreaming on Your Device for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/a-complete-guide-to-translate-video-with-google-for-2024/"><u>A Complete Guide To Translate Video With Google for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/creative-templates-in-flutter-using-argon-pro-for-elite-uiux-download-now/"><u>Creative Templates in Flutter Using Argon Pro for Elite UI/UX - Download Now!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/creative-tims-hipster-f-card-designs-innovative-snaps-from-creative-tim/"><u>Creative Tim's Hipster F-Card Designs: Innovative Snaps From Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/creative-tims-laravel-paper-admin-ui-top-rated-and-free-bootstrap-framework-compatible-dashboard/"><u>Creative Tim's Laravel Paper Admin UI: Top-Rated & FREE Bootstrap Framework Compatible Dashboard</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/creative-tims-pro-level-easy-to-navigate-soft-ui-dashboard-in-tall-design-featuring-updivision-collaboration/"><u>Creative Tim's Pro-Level, Easy-to-Navigate Soft UI Dashboard in TALL Design - Featuring UPDIVISION Collaboration</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x6-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco X6 Phone without PIN</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-c51-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme C51 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-blocked-app-notification-in-windows/"><u>Troubleshooting Blocked App Notification in Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unlock-the-power-of-free-screen-recording-in-win11/"><u>[New] Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-add-custom-thumbnails-to-your-youtube-videos/"><u>[Updated] 2024 Approved How To Add Custom Thumbnails to Your YouTube Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-dive-into-sound-design-focus-on-auditions-fade-in/"><u>[Updated] Dive Into Sound Design Focus on Audition's Fade In</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/advanced-techniques-in-managing-data-storage-systems/"><u>Advanced Techniques in Managing Data Storage Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cable-free-connectivity-guide-on-accessing-the-web-without-traditional-services/"><u>Cable-Free Connectivity: Guide on Accessing the Web without Traditional Services</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-to-various-java-development-models/"><u>Comprehensive Guide to Various Java Development Models</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-infinix-note-30-vip-racing-edition-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Infinix Note 30 VIP Racing Edition by Name | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/navigating-the-preferences-pane-customizing-mac-os-x-system-controls/"><u>Navigating the Preferences Pane: Customizing Mac OS X System Controls</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-s-leading-text-motion-capture-tools/"><u>New 2024 Approved S Leading Text Motion Capture Tools</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quickconfigurator-a-powerful-locator-and-editor-for-ini-files/"><u>QuickConfigurator: A Powerful Locator and Editor for INI Files</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quickres-speedy-format-factory-substitute-for-windows-and-mac-users/"><u>QuickRes: Speedy Format Factory Substitute for Windows & Mac Users</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/say-goodbye-to-annoying-pop-ups-a-guide-to-using-malwarefox-on-samsung-phones-and-tablets/"><u>Say Goodbye to Annoying Pop-Ups: A Guide to Using MalwareFox on Samsung Phones and Tablets</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-adding-srt-captions-to-your-avi-videos-with-ease/"><u>Simple Steps: Adding SRT Captions to Your AVI Videos with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-reddit-presence-with-these-tactics-for-2024/"><u>Transform Your Reddit Presence with These Tactics for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-improve-gpu-performance-against-dwm-overuse-with-these-5-solutions-for-windows-11/"><u>Troubleshoot and Improve GPU Performance Against DWM Overuse with These 5 Solutions for Windows 11</u></a></li>
 </ul></div>
 

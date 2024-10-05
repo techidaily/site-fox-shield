@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Workflow: Mastering Component & Group Modifications"
-date: 2024-09-23T02:34:13.450Z
-updated: 2024-09-29T19:41:45.644Z
+date: 2024-10-01T19:10:33.157Z
+updated: 2024-10-05T17:11:22.330Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ The Edit Qualified Components dialog allows you to specify the qualified propert
 ![Edit Qualified Components Dialog](https://cdn.advancedinstaller.com/img/dialog/qualified-component.png "Edit Qualified Components Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Category GUID
@@ -93,10 +93,10 @@ The Edit Qualified Components dialog allows you to specify the qualified propert
 Specify a GUID for the category of components being grouped together. Use the drop-down list to choose an existing category or create another
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Qualifier
@@ -104,10 +104,10 @@ Specify a GUID for the category of components being grouped together. Use the dr
 Specify a qualifier for the component. This string is used to distinguish components from the same category.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -115,10 +115,16 @@ Specify a qualifier for the component. This string is used to distinguish compon
 Specify a description for the qualified component. The content of this field is [localizable](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -158,22 +164,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-the-art-of-financial-forecasting-a-deep-dive-into-budgeting-strategies/"><u>[New] In 2024, Mastering the Art of Financial Forecasting A Deep Dive Into Budgeting Strategies</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unleash-music-without-spending-a-penny/"><u>[Updated] Unleash Music, Without Spending a Penny</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-effortless-dvd-to-mp4-conversion-with-winx-free-ripper-hassle-free-backup-software-for-windows-11/"><u>1. Effortless DVD to MP4 Conversion with WinX Free Ripper - Hassle-Free Backup Software for Windows 11</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/backup-your-customized-book-creation-preferences-in-flipbuilder-a-step-by-step-guide/"><u>Backup Your Customized Book Creation Preferences in FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/can-you-incorporate-js-scripts-into-your-digital-books-created-with-flipbuilder/"><u>Can You Incorporate JS Scripts Into Your Digital Books Created with FlipBuilder?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-to-using-flippdf-on-macos-unlocking-your-documents-potential/"><u>Comprehensive Guide to Using FlipPDF on macOS: Unlocking Your Document's Potential</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/deciphering-the-block-code-on-snapchat-for-2024/"><u>Deciphering the Block Code on Snapchat for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effective-techniques-for-organizing-and-tagging-office-documents-with-flipbuilder/"><u>Effective Techniques for Organizing and Tagging Office Documents with FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effective-utilization-of-page-number-features-in-flipbuilder-the-ultimate-tutorial/"><u>Effective Utilization of Page Number Features in FlipBuilder: The Ultimate Tutorial</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effortlessly-transform-your-microsoft-word-documents-into-interactive-e-books-with-flipbook-builder/"><u>Effortlessly Transform Your Microsoft Word Documents Into Interactive E-Books with FlipBook Builder</u></a></li>
-<li><a href="https://driver-install.techidaily.com/eradicating-windows-printer-issues-for-hp-1020/"><u>Eradicating Window's Printer Issues for HP 1020</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-basics-to-bots-understanding-openais-api-strengths/"><u>From Basics to Bots: Understanding OpenAI’s API Strengths</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-do-you-nullify-windows-hello-in-win11/"><u>How Do You Nullify Windows Hello in Win11?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/liberar-el-audio-de-tu-musica-flac-para-reproducir-en-mp3-gratis-usando-movavi/"><u>Liberar El Audio De Tu Música FLAC Para Reproducir en MP3 Gratis Usando Movavi</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-issues-why-cant-you-access-flipbuilder-downloads-now/"><u>Troubleshooting Issues: Why Can't You Access FlipBuilder Downloads Now?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-resource-guide-mastering-flip-image-techniques-with-flipimagepro/"><u>Ultimate Resource Guide - Mastering Flip Image Techniques with FlipImagePro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-capturing-seconds-extended-a-comprehensive-review-of-slomo-2024/"><u>[New] Capturing Seconds Extended A Comprehensive Review of SloMo, 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-clear-audio-crystal-clear-view-premium-webcams-for-podcasts/"><u>[New] Clear Audio, Crystal-Clear View Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-navigating-audacity-setup-on-chrome-os-devices-for-beginners/"><u>2024 Approved Navigating Audacity Setup on Chrome OS Devices for Beginners</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-audio-upgrades-for-your-computer-selecting-the-right-sound-card/"><u>2024'S Top Audio Upgrades for Your Computer: Selecting the Right Sound Card</u></a></li>
+<li><a href="https://fox-info.techidaily.com/audio-experts-choice-best-6-microphone-picks-for-online-broadcasting-for-2024/"><u>Audio Experts' Choice Best 6 Microphone Picks for Online Broadcasting for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/complete-guide-uninstalling-webdiscover-browser-due-to-security-concerns-expert-tips/"><u>Complete Guide: Uninstalling WebDiscover Browser Due to Security Concerns – Expert Tips</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-ultimate-media-players-5-great-options-besides-flvto-for-seamless-video-streaming/"><u>Discover the Ultimate Media Players: 5 Great Options Besides FLVTO for Seamless Video Streaming</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-huawei-nova-y91-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Huawei Nova Y91 to Protect Your Individual Information</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-amplify-your-fb-video-content-a-complete-music-integration-tutorial/"><u>In 2024, Amplify Your FB Video Content A Complete Music Integration Tutorial</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/key-conditions-to-fulfill-before-launching-a-new-software-product/"><u>Key Conditions to Fulfill Before Launching a New Software Product</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/must-try-mp3-transformers-superior-substitutes-for-mp3-rocket/"><u>Must-Try MP3 Transformers: Superior Substitutes for MP3 Rocket</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/optimizing-user-experience-with-single-vs-multiple-pages/"><u>Optimizing User Experience with Single Vs. Multiple Pages</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/pc-playthroughs-made-easy-a-guide-to-livestreaming-mobile-legends-gaming-sessions/"><u>PC Playthroughs Made Easy - A Guide to Livestreaming Mobile Legends Gaming Sessions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/personalized-color-schemes-setup-for-picture-frames/"><u>Personalized Color Schemes Setup for Picture Frames</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-9-live-game-streaming-platform-you-should-know-for-2024/"><u>Top 9 Live Game Streaming Platform You Should Know for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-methods-for-transferring-vcf-contacts-seamlessly-onto-your-android-device/"><u>Top Methods for Transferring VCF Contacts Seamlessly Onto Your Android Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029154516-dvd/"><u>オンラインストレージで DVDのバックアップを作成するための詳細なガイド</u></a></li>
 </ul></div>
 

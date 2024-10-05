@@ -1,7 +1,7 @@
 ---
 title: App Upgrade Now - Update Your Target Application Today
-date: 2024-09-27T10:13:18.653Z
-updated: 2024-09-29T18:35:00.733Z
+date: 2024-09-28T20:48:36.963Z
+updated: 2024-10-05T17:49:44.845Z
 tags:
   - user-guide
 categories:
@@ -124,10 +124,10 @@ Table of Contents
 ## IUpdateTargetApp
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -135,10 +135,16 @@ Table of Contents
 IUpdateTargetApp : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -146,10 +152,10 @@ IUpdateTargetApp : IDispatch
 This interface is meant to specify the versions of the application for which the update is valid
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -165,10 +171,10 @@ This interface is meant to specify the versions of the application for which the
 **Bool MaxVersionIncluded** \- Gets or sets the option that specifies if the maximum version is included. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -210,19 +216,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-best-facebook-video-downloader-and-addons-for-firefox-for-2024/"><u>[New] Best Facebook Video Downloader And Addons for Firefox for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-meme-craft-kinemasters-role/"><u>[New] Mastering the Meme Craft KineMaster's Role</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-list-iphone-video-recording-hacks/"><u>[Updated] A-List iPhone Video Recording Hacks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-your-ultimate-guide-to-accessing-facebook-content-on-applemedia-hub/"><u>[Updated] Your Ultimate Guide to Accessing Facebook Content on AppleMedia Hub</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/discover-top-tier-full-stack-javascript-solutions-explore-3-elegant-nodejs-premium-themes-and-templates-from-creative-tim/"><u>Discover Top-Tier Full-Stack JavaScript Solutions: Explore 3 Elegant NodeJS Premium Themes & Templates From Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhanced-django-admin-experience-using-softui-and-bootstrap-nix-a-creatively-timed-solution/"><u>Enhanced Django Admin Experience Using SoftUI and Bootstrap Nix | A Creatively Timed Solution</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhanced-nuxt-admin-experience-for-developers-next-level-security-pro-addons-and-larval-compatibility/"><u>Enhanced Nuxt Admin Experience for Developers: Next Level Security, Pro Addons, and Larval Compatibility</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exclusive-selection-of-premier-svelte-designs-by-creative-tim-unveiled/"><u>Exclusive Selection of Premier Svelte Designs by Creative Tim Unveiled</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/free-full-stack-development-with-vue-and-laravel-comprehensive-ui-dashboard-kit-created-by-creative-tim/"><u>Free Full-Stack Development with Vue and Laravel - Comprehensive UI Dashboard Kit | Created by Creative Tim</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-text-to-audio-the-revolutionary-use-of-chatgpt-in-writing-my-latest-podcast-episode/"><u>From Text to Audio: The Revolutionary Use of ChatGPT in Writing My Latest Podcast Episode</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nubia-z50s-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nubia Z50S Pro FRP Locks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A23 5G</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-structuring-stimulating-podcast-trailers/"><u>In 2024, Structuring Stimulating Podcast Trailers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-how-to-record-and-save-youtube-videos-without-spending-a-penny-for-2024/"><u>The Ultimate Guide How To Record and Save YouTube Videos without Spending a Penny for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamlined-strategies-for-powerpoint-recordings/"><u>[New] 2024 Approved Streamlined Strategies for PowerPoint Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-guide-to-mobizens-screen-capture-tool-for-2024/"><u>[Updated] Ultimate Guide to Mobizen's Screen Capture Tool for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-comprehensive-guide-to-no-cost-meme-magic/"><u>2024 Approved The Comprehensive Guide to No-Cost Meme Magic</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/a-comprehensive-guide-to-understanding-flac-audio-files/"><u>A Comprehensive Guide to Understanding FLAC Audio Files</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-understanding-the-multi-file-attributes-table/"><u>Comprehensive Guide: Understanding the Multi-File Attributes Table</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/create-unique-mobile-ringtones-from-youtube-songs-a-simple-guide/"><u>Create Unique Mobile Ringtones From YouTube Songs – A Simple Guide!</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-and-streamlining-windows-based-discord-searches/"><u>Enhancing and Streamlining Windows-Based Discord Searches</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-find-x6-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo Find X6 Pro Is Unlocked</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-speed-up-or-slow-down-a-comprehensive-camtasia-video-guide/"><u>New In 2024, Speed Up or Slow Down A Comprehensive Camtasia Video Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/proven-strategies-to-control-the-tempo-of-your-videos/"><u>Proven Strategies to Control the Tempo of Your Videos</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/stay-updated-latest-updates-on-trending-topics/"><u>Stay Updated: Latest Updates on Trending Topics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-cheat-sheet-for-inserting-songs-into-youtube-clips-for-2024/"><u>The Ultimate Cheat Sheet for Inserting Songs Into YouTube Clips for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-devices-keyboard-issues-on-iphone-and-ipad-discover-6-effective-techniques/"><u>Troubleshooting Your Device's Keyboard Issues on iPhone and iPad - Discover 6 Effective Techniques</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-tutorial-on-rearranging-sequence-of-pdf-document-pages/"><u>Ultimate Tutorial on Rearranging Sequence of PDF Document Pages</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-and-adjusting-fastcgi-parameters-for-efficient-web-serving/"><u>Understanding and Adjusting FastCGI Parameters for Efficient Web Serving</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-new-possibilities-configuring-windows-11-on-cpus-not-officially-supported/"><u>Unlocking New Possibilities: Configuring Windows 11 on CPUs Not Officially Supported</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing IIS Functionality with Powerful ISAPI Filters Explained
-date: 2024-09-28T12:40:03.520Z
-updated: 2024-09-30T10:07:29.039Z
+date: 2024-09-30T17:21:13.757Z
+updated: 2024-10-05T21:15:15.499Z
 tags:
   - user-guide
 categories:
@@ -101,10 +101,10 @@ This view allows you to add, edit or remove ISAPI Filters on the target IIS serv
 ![Isapi filters](https://cdn.advancedinstaller.com/img/ui/isapi-filters.png "Isapi filters")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new ISAPI filter
@@ -112,10 +112,10 @@ This view allows you to add, edit or remove ISAPI Filters on the target IIS serv
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list control is focused. The[ISAPI Filter Properties Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be shown allowing you to add a new ISAPI filter.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an ISAPI filter
@@ -123,10 +123,10 @@ Use the \[New... \] button, the “New...” context menu item or press theInser
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected. The [ISAPI Filter Properties Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be shown allowing you to edit an existing ISAPI filter.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an ISAPI filter
@@ -134,10 +134,16 @@ Use the \[Edit... \] button, the “Edit...” context menu item or press theSpa
 Use the \[Remove \] button, the “Remove” context menu item or press theDelete key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -178,17 +184,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-perfect-online-shopping-picks-for-one-of-a-kind-box-packaging/"><u>[New] In 2024, Perfect Online Shopping Picks for One-of-a-Kind Box Packaging</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-tips-for-easy-documentation-of-youtube-videos/"><u>[New] In 2024, Tips for Easy Documentation of YouTube Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-guide-for-high-definition-enthusiasts-on-purchasing-a-monitor/"><u>[Updated] 2024 Approved The Ultimate Guide for High-Definition Enthusiasts on Purchasing a Monitor</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-viral-watches-amazon-primes-hot-series-in-twittersphere/"><u>[Updated] 2024 Approved Viral Watches Amazon Prime's Hot Series in Twittersphere</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-boost-your-brand-accrue-1k-ig-friendsmonthly/"><u>[Updated] Boost Your Brand Accrue 1K IG Friends/Monthly</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-and-unlimited-methods-for-converting-avi-files-to-mpeg-format-online/"><u>Easy and Unlimited Methods for Converting AVI Files to MPEG Format Online</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/react-component-library-material-dashboard-complimentary-material-ui-framework-template-by-creative-tim/"><u>React Component Library Material Dashboard | Complimentary Material-UI Framework Template by Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/section-2a-understanding-the-uniform-commercial-code-ucc-and-article-2/"><u>Section 2A: Understanding the Uniform Commercial Code (UCC) and Article 2</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unlock-ultimate-productivity-professional-vuesofts-premium-vuejs-3-bootstrap-edashboard-creative-tims-innovative-solution/"><u>Unlock Ultimate Productivity: Professional VueSoft's Premium VueJS 3 / Bootstrap eDashboard – Creative Tim’s Innovative Solution</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unlocking-creative-potential-with-tims-in-depth-uiux-toolkit-for-professionals-aged-27plus/"><u>Unlocking Creative Potential with Tim's In-Depth UI/UX Toolkit for Professionals Aged 27+</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visuals-vault-uploading-to-ig/"><u>Visuals Vault Uploading to IG</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-expressing-emotionally-using-emojis-for-yt-comments-for-2024/"><u>[New] Expressing Emotionally Using Emojis for YT Comments for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-affordable-digital-screen-recorders-reviewed-and-rated/"><u>[New] In 2024, Affordable Digital Screen Recorders Reviewed & Rated</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-superior-5-cameras-for-extended-time-lapses-for-2024/"><u>[New] Superior 5 Cameras for Extended Time-Lapses for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-discover-the-power-of-sonic-content-for-insta-stories/"><u>[Updated] In 2024, Discover the Power of Sonic Content for Insta Stories</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-surviving-the-social-shunning-fbs-invisible-rules-unveiled/"><u>[Updated] In 2024, Surviving the Social Shunning FB's Invisible Rules Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-sprint-to-stunning-photos-in-win-11-edition-for-2024/"><u>[Updated] Sprint to Stunning Photos in Win 11 Edition for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-screenshots-programs-ranked-1-8-for-2024/"><u>Best Screenshots Programs Ranked #1-8 for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-leading-5-mirroring-applications-in-2316llands-tech-scene/"><u>Discover the Leading 5 Mirroring Applications in 2#316;Lland's Tech Scene</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhancing-workflow-efficiency-through-powershells-attached-script-features/"><u>Enhancing Workflow Efficiency Through PowerShell's Attached Script Features</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/expert-tips-and-techniques-for-flawless-google-voice-call-recording-setup/"><u>Expert Tips and Techniques for Flawless Google Voice Call Recording Setup</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-the-features-of-an-ixml-data-file-insights-and-best-practices/"><u>Exploring the Features of an iXML Data File: Insights and Best Practices</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/free-software-for-ipod-video-format-changeover-easy-mp4-video-download/"><u>Free Software for iPod Video Format Changeover - Easy MP4 Video Download</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-set-up-a-license-server-a-comprehensive-guide/"><u>How to Set Up a License Server: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-12r-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus 12R Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-navigating-video-conferencing-with-ease-on-your-win10-pc/"><u>In 2024, Navigating Video Conferencing with Ease on Your Win10 PC</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/protect-your-microsoft-edge-experience-with-the-ultimate-list-of-malwarefoxs-premier-ad-blockers/"><u>Protect Your Microsoft Edge Experience with the Ultimate List of MalwareFox's Premier Ad Blockers!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-guide-to-resolving-iphone-airplay-problems-on-ios-12/"><u>Ultimate Guide to Resolving iPhone AirPlay Problems on iOS 12</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-syma-107g-hobby-quadcopter-a-complete-review-for-enthusiasts/"><u>Unboxing and Testing the Syma 107G Hobby Quadcopter: A Complete Review for Enthusiasts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unraveling-file-characteristics-a-deep-dive-into-the-multiple-files-properties-tab/"><u>Unraveling File Characteristics: A Deep Dive Into the Multiple Files Properties Tab</u></a></li>
 </ul></div>
 

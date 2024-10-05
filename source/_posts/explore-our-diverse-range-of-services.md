@@ -1,7 +1,7 @@
 ---
 title: Explore Our Diverse Range of Services
-date: 2024-09-23T10:44:06.198Z
-updated: 2024-09-30T12:15:00.297Z
+date: 2024-10-03T19:58:47.255Z
+updated: 2024-10-05T21:37:46.616Z
 tags:
   - user-guide
 categories:
@@ -92,31 +92,24 @@ In the left-side pane you can see a tree with four branches:
 
 In the right-side pane you can see the [properties of a service](https://tools.techidaily.com/advancedinstaller/products/) (if a service is selected in the left-side pane) or the parameters of a control operation (if a control operation is selected in the left-side pane).
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a service to install
 
 ![New Service](https://cdn.advancedinstaller.com/img/toolbar/service-new.png "New Service") Use the \[New Service... \] toolbar button, the “New Service Installation...” context menu item or press the Insert key while the “Install and Control” panel is focused. The [File Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear and you can select the file containing the service. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To install a .NET service you must use a [.NET Installer Class action](https://tools.techidaily.com/advancedinstaller/products/) predefined custom action.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a service control operation
@@ -127,25 +120,25 @@ In the right-side pane you can see the [properties of a service](https://tools.t
 
 ![New Service Configure Operation](https://cdn.advancedinstaller.com/img/toolbar/service-config-new.png "New Service Configure Operation") Use the \[New Configure Operation \] toolbar button, the “New Configure Operation...” context menu item. This will add a service configure operation with default parameters.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a service failure operation
 
 ![New Service Failure Operation](https://cdn.advancedinstaller.com/img/toolbar/service-failure-new.png "New Service Failure Operation") Use the \[New Failure Operation \] toolbar button, the “New Failure Operation...” context menu item. This will add a service failure operation with default parameters.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Configure and failure operations requires **Windows Installer 5.0** and they will have no effect on systems which have Windows Installer 4.5 or earlier.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Locating the attached component for a service or a control operation
 
@@ -154,6 +147,13 @@ In the right-side pane you can see the [properties of a service](https://tools.t
 ### Removing a service or an operation action
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while the element is selected. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -199,17 +199,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-shield.techidaily.com/y-3/"><u> [ Y = -3 </u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-youtube-shorts-excellence/"><u>[Updated] 2024 Approved A Step-by-Step Guide to YouTube Shorts Excellence</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-optimize-your-online-presence-with-linked-fb-stories-for-2024/"><u>[Updated] Optimize Your Online Presence with Linked FB Stories for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/critical-tactics-to-address-launch-delays-and-save-your-startup-an-expert-guide/"><u>Critical Tactics to Address Launch Delays and Save Your Startup : An Expert Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-mm-2-the-ultimate-solution-for-non-provisioned-sim-card-alerts/"><u>Fixing MM 2: The Ultimate Solution for Non-Provisioned SIM Card Alerts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterclasses-on-procuring-photo-and-video-borders/"><u>In 2024, Masterclasses on Procuring Photo & Video Borders</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/section-2a-understanding-the-uniform-commercial-code-ucc-and-article-2/"><u>Section 2A: Understanding the Uniform Commercial Code (UCC) and Article 2</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/sharing-tweets-with-facebook-friends/"><u>Sharing Tweets with Facebook Friends</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unlock-ultimate-productivity-professional-vuesofts-premium-vuejs-3-bootstrap-edashboard-creative-tims-innovative-solution/"><u>Unlock Ultimate Productivity: Professional VueSoft's Premium VueJS 3 / Bootstrap eDashboard – Creative Tim’s Innovative Solution</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unlocking-creative-potential-with-tims-in-depth-uiux-toolkit-for-professionals-aged-27plus/"><u>Unlocking Creative Potential with Tim's In-Depth UI/UX Toolkit for Professionals Aged 27+</u></a></li>
-<li><a href="https://driver-install.techidaily.com/y470-laptop-integrated-drivers-for-w7-systems/"><u>Y470 Laptop - Integrated Drivers for W7 Systems</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/zero-cost-comprehensive-vue3-and-laravel-api-integration-project-by-creative-tim/"><u>Zero-Cost Comprehensive Vue3 & Laravel API Integration Project by Creative Tim</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-consciousness-proven-techniques-for-documenting-virtual-play-for-2024/"><u>[Updated] Capturing Consciousness Proven Techniques for Documenting Virtual Play for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminate-your-images-adding-life-with-illustrator-motion/"><u>2024 Approved Illuminate Your Images Adding Life with Illustrator Motion</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/app-upgrade-now-update-your-target-application-today/"><u>App Upgrade Now - Update Your Target Application Today</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhancing-iis-functionality-with-powerful-isapi-filters-explained/"><u>Enhancing IIS Functionality with Powerful ISAPI Filters Explained</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhancing-workflow-efficiency-through-powershells-attached-script-features/"><u>Enhancing Workflow Efficiency Through PowerShell's Attached Script Features</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/expert-tips-and-techniques-for-flawless-google-voice-call-recording-setup/"><u>Expert Tips and Techniques for Flawless Google Voice Call Recording Setup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-steer-clear-of-common-blunders-when-using-chatgpt-for-generating-articles/"><u>How to Steer Clear of Common Blunders When Using ChatGPT for Generating Articles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-steps-in-using-streamlabs-obs-successfully/"><u>In 2024, Essential Steps in Using Streamlabs OBS Successfully</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-play-8t-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Play 8T? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-x50-gt-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor X50 GT</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unraveling-file-characteristics-a-deep-dive-into-the-multiple-files-properties-tab/"><u>Unraveling File Characteristics: A Deep Dive Into the Multiple Files Properties Tab</u></a></li>
 </ul></div>
 

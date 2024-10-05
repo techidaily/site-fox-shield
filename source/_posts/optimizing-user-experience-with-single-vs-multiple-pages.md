@@ -1,7 +1,7 @@
 ---
 title: Optimizing User Experience with Single Vs. Multiple Pages
-date: 2024-09-28T09:05:27.828Z
-updated: 2024-09-30T04:07:58.330Z
+date: 2024-10-02T20:53:37.902Z
+updated: 2024-10-05T17:39:05.678Z
 tags:
   - user-guide
 categories:
@@ -88,6 +88,13 @@ The instances are uniquely distinguished by a new**ProductCode** and additionall
 
  Advanced Installer uses the name of an instance from “Instance IDs” pane as the InstanceId property value for the corresponding instance. The InstanceId property **will not** be resolved outside the Multiple Instances page.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new instance
 
  Use the “New Instance” command from the context menu or press the Insert key while the “Instance IDs” panel is selected, in order to create a new instance.
@@ -96,28 +103,15 @@ The instances are uniquely distinguished by a new**ProductCode** and additionall
 
  Use the “Rename” command from the context menu or press the F2 key while an element is selected, to rename an instance.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing an instance
 
  Use the “Delete” command from the context menu, or press the Delete key while an element is selected, to remove an instance.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Specifying the instances' installation order
@@ -129,10 +123,10 @@ Use the “Move Up” / “Move Down” context menu item or press the Shift+Up 
 This option enables generating custom name instances at install time for the selected build. It implies loosing all previously created instances.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Build major upgrades for multiple instances
@@ -142,10 +136,10 @@ The package is built with major upgrades support. This option has effect only af
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)You cannot author major upgrades and generate instances at install time. The two options above are not compatible.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -188,19 +182,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-captivating-animations-creating-gifs-from-your-favorite-youtube-videos/"><u>[New] In 2024, Crafting Captivating Animations Creating GIFs From Your Favorite YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unlocking-success-with-instagrams-business-platform/"><u>2024 Approved Unlocking Success with Instagram's Business Platform</u></a></li>
-<li><a href="https://driver-error.techidaily.com/acemagic-commemorates-may-4th-with-a-special-edition-x-wing-themed-gaming-pc-for-enthusiasts/"><u>AceMagic Commemorates May 4Th with a Special Edition X-Wing Themed Gaming PC for Enthusiasts</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-mylifetime-show-episodes-as-mp4-files-easy-guide-and-best-tools/"><u>Download MyLifetime Show Episodes as MP4 Files - Easy Guide & Best Tools</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-your-favorite-bbc-iplayer-shows-as-mp4-or-avi-files-with-our-top-downloading-tool/"><u>Download Your Favorite BBC iPlayer Shows as MP4 or AVI Files with Our Top Downloading Tool</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/efficient-media-converter-save-your-mediasite-files-as-mp4-mov-or-avi-with-ease/"><u>Efficient Media Converter: Save Your Mediasite Files as MP4, MOV or AVI with Ease</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-the-leading-5-video-grabber-apps-for-both-mac-os-x-and-microsoft-windows-platforms/"><u>Exploring the Leading 5 Video Grabber Apps for Both Mac OS X and Microsoft Windows Platforms</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/free-art-lessons-comprehensive-downloads-of-annamasonartcom-courses-and-video-guides/"><u>Free Art Lessons: Comprehensive Downloads of AnnamasonArt.com Courses and Video Guides</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/free-downloads-ted-talks-and-episodes-on-macwindows-watch-now/"><u>Free Downloads: TED Talks & Episodes on Mac/Windows - Watch Now!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-redmi-note-12-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Redmi Note 12 5G?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Note 30 VIP Racing Edition?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-resolve-the-integration-difficulty-of-chatgpt-with-plugin-services/"><u>How To Resolve the Integration Difficulty of ChatGPT with Plugin Services</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-huion-h420-upgrading-for-windows-users/"><u>Maximize Huion H420: Upgrading for Windows Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/trendy-themes-cool-wallpapers-for-your-desktop/"><u>Trendy Themes Cool Wallpapers for Your Desktop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-arcade-over-a-hundred-game-channels/"><u>[New] 2024 Approved Digital Arcade Over a Hundred Game Channels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unleashing-creativity-essential-lenses-for-youtube-vloggers/"><u>[New] 2024 Approved Unleashing Creativity Essential Lenses for YouTube Vloggers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-syncopated-shots-picking-the-best-music-for-social-media/"><u>[New] In 2024, Syncopated Shots Picking the Best Music for Social Media</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[New] PC Games Memory - Freeze and Capture 6 Ways to Win</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/aspects-instead-of-properties-and-rephrasing-to-highlight-key-ideas-such-as-placement-attributes-and-positioning/"><u>Aspects Instead of Properties and Rephrasing to Highlight Key Ideas Such as Placement, Attributes, and Positioning.</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-essentials-of-iprogid-in-programming/"><u>Discover the Essentials of IProgID in Programming</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-techniques-for-capturing-high-quality-voice-conversations/"><u>Effective Techniques for Capturing High-Quality Voice Conversations</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/elevate-your-videos-with-top-ranking-free-ai-editors/"><u>Elevate Your Videos with Top-Ranking Free AI Editors</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/explore-advanced-photo-customization-with-our-easy-to-use-images-dropdown-menu/"><u>Explore Advanced Photo Customization with Our Easy-to-Use Images Dropdown Menu</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715859771485-in-2024-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>In 2024, How to Minimize Stress in iPad Screen Recordings? Here's a Way!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-quoras-ai-landscape-how-to-engage-with-chatbots-and-llms-via-poe/"><u>Navigating Quora's AI Landscape: How to Engage with Chatbots and LLMs via Poe</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/navigating-url-modifications-with-advanced-edit-link-features/"><u>Navigating URL Modifications with Advanced Edit Link Features</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/recognizing-and-guarding-against-fraudulent-technical-aid-schemes/"><u>Recognizing and Guarding Against Fraudulent Technical Aid Schemes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-transforming-jpeg-photos-to-pdf-documents-in-windows/"><u>Step-by-Step Tutorial: Transforming JPEG Photos to PDF Documents in Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-little-giant-of-gaming-laptops-razers-book-13-in-focus/"><u>The Little Giant of Gaming Laptops - Razer's Book 13 in Focus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-premiere-pro-template-guide-no-cost/"><u>Ultimate Premiere Pro Template Guide - No Cost</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-dts-play-fi-the-basics-explained/"><u>Understanding DTS Play-Fi: The Basics Explained</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-various-methods-of-importing-project-structures/"><u>Understanding Various Methods of Importing Project Structures</u></a></li>
 </ul></div>
 

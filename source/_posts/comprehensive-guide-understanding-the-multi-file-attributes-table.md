@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Understanding the Multi-File Attributes Table"
-date: 2024-09-22T19:05:58.308Z
-updated: 2024-09-29T17:35:04.639Z
+date: 2024-10-03T20:29:18.489Z
+updated: 2024-10-05T16:05:53.543Z
 tags:
   - user-guide
 categories:
@@ -99,13 +99,20 @@ In this dialog, you can mark the selected files for auto registration, register 
 ![Multiple Files Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/multiple-files-properties.png "Multiple Files Properties Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Flags
 
@@ -117,37 +124,30 @@ When loading the attributes for multiple files, the checkboxes can be in one of 
 * Unchecked - none of the selected files have that attribute.
 * Undecided - only a part of the selected files have that attribute.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Signature
 
  Specify whether you want to [digitally sign](https://tools.techidaily.com/advancedinstaller/products/) the selected files. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Version
 
 Clicking on the "Version" tab will allow you to set the [version](https://tools.techidaily.com/advancedinstaller/products/) for the selected files.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Registration
 
 Based on the type of the selected files, this tab might appear or might not. This tab will display all the available [Registration](https://tools.techidaily.com/advancedinstaller/products/) options based on the selected files' type. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Permissions
@@ -187,24 +187,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-guide-to-selecting-peak-performance-lipo-tech/"><u>[New] A Guide to Selecting Peak-Performance LiPo Tech</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-ultimate-guide-top-8k-tvs-and-in-depth-comparisons/"><u>[New] In 2024, Ultimate Guide Top 8K TVs & In-Depth Comparisons</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-no-amd-graphics-driver-is-installed-on-windows-1110/"><u>[SOLVED] No AMD Graphics Driver Is Installed on Windows 11/10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-media-flexibility-in-vlc-through-mp4-conversions/"><u>[Updated] Maximizing Media Flexibility in VLC Through MP4 Conversions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/access-all-of-mixergys-educational-videos-with-easy-mixergy-download-tool/"><u>Access All of Mixergy's Educational Videos with Easy Mixergy Download Tool</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/best-virtual-reality-bike-adventures-listed-here-for-2024/"><u>Best Virtual Reality Bike Adventures Listed Here for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-guide-on-converting-gameking-downloads-to-compatible-formats-like-mp4-and-avi-for-better-playback/"><u>Expert Guide on Converting GameKing Downloads to Compatible Formats Like MP4 and AVI for Better Playback</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/get-your-game-review-fix-quick-link-to-download-metacritics-video-assessments-and-trailers-for-popular-titles/"><u>Get Your Game Review Fix - Quick Link to Download Metacritic's Video Assessments and Trailers for Popular Titles</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-vrr-makes-gaming-smoother-by-fixing-screen-flickers-on-your-display/"><u>How VRR Makes Gaming Smoother by Fixing Screen Flickers on Your Display.</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-black-screen-errors-for-call-of-duty-wwii-on-pc-with-windows-a-comprehvewled-guide/"><u>Resolving Black Screen Errors for Call of Duty: WWII on PC with Windows - A Comprehvewled Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-motorola-edgeplus-2023-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Motorola Edge+ (2023) Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-sending-your-created-ebooks-via-email-on-flipbuilder/"><u>Step-by-Step Guide: Sending Your Created eBooks via Email on FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-creating-stunning-button-typography-with-flipoffice-pro-software/"><u>Step-by-Step Tutorial on Creating Stunning Button Typography with FlipOffice Pro Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c32-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C32 Device</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/transferring-multimedia-files-between-pages-a-guide-using-flipbuilder/"><u>Transferring Multimedia Files Between Pages: A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/transform-your-pdf-files-into-engaging-flash-animations-with-flipbuilder-share-effortlessly/"><u>Transform Your PDF Files Into Engaging Flash Animations with FlipBuilder - Share Effortlessly!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-guide-to-creating-a-flip-image-library-with-flipbuilder/"><u>Ultimate Guide to Creating a Flip Image Library with FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/uploading-made-in-house-flipbooks-to-your-site-with-easy-steps-learn-from-flipbuilder-experts/"><u>Uploading Made-in-House Flipbooks to Your Site with Easy Steps - Learn From FlipBuilder Experts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-convert-youtube-videos-to-gifs/"><u>[New] 2024 Approved How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-premium-quality-computers-at-your-desk/"><u>[New] In 2024, Premium Quality Computers at Your Desk</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-gain-command-over-youtubes-video-playback-speed/"><u>2024 Approved Gain Command Over YouTube's Video Playback Speed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-the-fundamentals-of-animated-communication/"><u>2024 Approved Grasping the Fundamentals of Animated Communication</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unseen-yet-seen-how-to-conceal-faces-and-objects-digitally/"><u>2024 Approved Unseen Yet Seen How to Conceal Faces and Objects Digitally</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-techniques-for-transforming-webm-files-into-compatible-avi-video-files/"><u>Easy Techniques for Transforming WebM Files Into Compatible AVI Video Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-microphone-failures-in-zoom-meetings-on-desktop-computers/"><u>Expert Tips to Overcome Microphone Failures in Zoom Meetings on Desktop Computers</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/expertise-in-action-top-tier-professional-i-services-at-your-fingertips/"><u>Expertise in Action: Top-Tier Professional I Services at Your Fingertips</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-optimize-your-virtual-folder-configuration-for-maximum-seo-benefit/"><u>How to Optimize Your Virtual Folder Configuration for Maximum SEO Benefit</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2022) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-cutting-edge-professional-guide-to-youtube-editing/"><u>In 2024, Cutting Edge Professional Guide to YouTube Editing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quick-guide-top-techniques-for-capturing-a-quicktime-screen-shot/"><u>Quick Guide: Top Techniques for Capturing a QuickTime Screen Shot</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-to-switch-from-android-contacts-to-iphone-effortlessly/"><u>Simple Steps to Switch From Android Contacts to iPhone Effortlessly</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-deleting-your-itunes-backup-files-on-pc-or-mac/"><u>Step-by-Step Guide: Deleting Your iTunes Backup Files on PC or Mac</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-guide-top-ranking-photo-techniques-for-e-commerce-in-2n23/"><u>Ultimate Guide: Top-Ranking Photo Techniques for E-Commerce in 2N23</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/yamaha-mcr-b020bl-micro-component-system-review/"><u>Yamaha MCR-B020BL Micro Component System Review</u></a></li>
 </ul></div>
 

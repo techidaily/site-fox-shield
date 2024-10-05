@@ -1,7 +1,7 @@
 ---
 title: "Customizing Your Project: The Essential Guide to 'Build' Tabs"
-date: 2024-09-27T03:47:01.644Z
-updated: 2024-09-30T07:25:38.716Z
+date: 2024-10-03T21:33:21.438Z
+updated: 2024-10-05T20:09:23.455Z
 tags:
   - user-guide
 categories:
@@ -82,19 +82,19 @@ This tab allows you to specify the builds which will contain a prerequisite. You
 ![Specify builds dialog](https://cdn.advancedinstaller.com/img/ui/prerequisites-builds-tab.png "Specify builds dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Builds
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Include prerequisites in all builds
@@ -102,10 +102,10 @@ This tab allows you to specify the builds which will contain a prerequisite. You
 Include the prerequisite in all the builds contained by your project
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Include the prerequisite only in the selected builds
@@ -145,19 +145,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-propel-your-presence-on-tiktok-strategic-application-of-template-videos/"><u>[New] 2024 Approved Propel Your Presence on TikTok Strategic Application of Template Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-quick-start-applying-discord-spoilers-correctly/"><u>[New] In 2024, Quick Start Applying Discord Spoilers Correctly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-9-superior-editing-platforms-for-every-drone-operators-level/"><u>[Updated] 9 Superior Editing Platforms for Every Drone Operator's Level</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-role-of-alternate-footage/"><u>2024 Approved Mastering the Role of Alternate Footage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/desktop-snapchatting-made-easy-tips-and-tricks-for-using-the-app-on-a-pc/"><u>Desktop Snapchatting Made Easy: Tips and Tricks for Using the App on a PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-x8b-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor X8b For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/increase-visits-to-your-site-from-flipbooks-with-effective-lead-generation-techniques-flipbuildercom/"><u>Increase Visits to Your Site From Flipbooks with Effective Lead Generation Techniques [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/is-it-possible-to-hyperlink-text-within-publications-crafted-using-flipbuilders-platform/"><u>Is It Possible to Hyperlink Text Within Publications Crafted Using FlipBuilder's Platform?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/mastering-scene-creation-with-flipprograms-a-comprehensive-guide-to-features-and-constraints/"><u>Mastering Scene Creation with FlipPrograms: A Comprehensive Guide to Features and Constraints</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/maximize-page-quality-on-your-site-using-flipbuilder-techniques-expert-advice/"><u>Maximize Page Quality on Your Site Using FlipBuilder Techniques - Expert Advice!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-pathway-of-earning-through-bug-hunting-at-openai/"><u>Navigating the Pathway of Earning Through Bug Hunting at OpenAI</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/simple-steps-to-transform-your-pdf-into-stunning-flip-books-with-flipbuilder/"><u>Simple Steps to Transform Your PDF Into Stunning Flip Books with FlipBuilder</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-image-stabilization-in-action-cams/"><u>Superior Image Stabilization in Action Cams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-affordable-cameras-where-to-buy-economical-gopros/"><u>[New] 2024 Approved Affordable Cameras Where to Buy Economical GoPros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-websites-your-gateway-to-youtube-branded-content/"><u>[Updated] 2024 Approved Discover Websites Your Gateway to YouTube Branded Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehending-drone-systems-mechanics-and-applications-explained-for-2024/"><u>Comprehending Drone Systems Mechanics and Applications Explained for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-listing-leading-8-4k-ultra-hd-players-for-2024/"><u>Exclusive Listing Leading 8 4K Ultra HD Players for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/find-your-ideal-registry-service-the-ultimate-locator-guide/"><u>Find Your Ideal Registry Service: The Ultimate Locator Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-x100-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo X100 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-download-music-from-jango-player-as-high-quality-mp3-tracks-a-step-by-step-guide/"><u>How to Download Music From Jango Player as High-Quality MP3 Tracks: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-effortlessly-stream-your-iphone-screen-to-any-television-without-an-apple-tv/"><u>How to Effortlessly Stream Your iPhone Screen to Any Television Without an Apple TV</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-for-embedding-youtube-clips-into-powerpoint-presentations-20102013/"><u>Simple Steps for Embedding YouTube Clips Into PowerPoint Presentations (2010/2013)</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/sql-query-editor-enhance-your-database-management/"><u>SQL Query Editor: Enhance Your Database Management</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-smartphones-rumored-specs-and-release-info-for-the-google-pixel-9/"><u>The Future of Smartphones: Rumored Specs and Release Info for the Google Pixel 9</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-msvcrtdll-errors-on-your-pc/"><u>The Ultimate Solution to MSVCRT.DLL Errors on Your PC</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-json-data-format-and-file-handling/"><u>Understanding JSON Data Format and File Handling</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unveiling-the-methods-of-malware-propagation-through-spam-a-deep-dive/"><u>Unveiling the Methods of Malware Propagation Through Spam: A Deep Dive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/utilizing-film-content-a-strategy-for-teachers/"><u>Utilizing Film Content A Strategy for Teachers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-charging-techniques-for-when-youre-out-of-juice-and-without-a-charger/"><u>Wireless Charging Techniques for When You're Out of Juice and Without a Charger</u></a></li>
 </ul></div>
 

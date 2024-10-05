@@ -1,7 +1,7 @@
 ---
 title: Customize Your Experience with Easy Steps in the User Account Settings Section
-date: 2024-09-26T23:58:53.365Z
-updated: 2024-09-29T22:09:58.775Z
+date: 2024-10-04T21:57:56.415Z
+updated: 2024-10-05T17:26:30.605Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ Table of Contents
 ![Task Account](https://cdn.advancedinstaller.com/img/dialog/tasks-account.png "Task Account")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## User Account
@@ -97,10 +97,16 @@ For "Property based user" type you can specify the**account** name or the SID of
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Groups or groups' SIDs are supported only for [scheduled tasks configured for](https://tools.techidaily.com/advancedinstaller/products/) Windows Vista or above.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Run only if user is logged in
@@ -108,22 +114,15 @@ For "Property based user" type you can specify the**account** name or the SID of
 Sets the task to run only when the user is logged on. In this case you don't need to specify a password.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Run with highest privileges
 
 Runs the task with the highest privileges the user has. For example if the user is administrator, the task can run with elevated privileges.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Password
 
@@ -133,6 +132,13 @@ If the target account for the task is present on the target computer you must su
 * Use a property
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can not schedule a task to run under user accounts that are not password protected. Also, if you want the task to run under the "System Account" leave the "User" and "Password" fields empty.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -167,18 +173,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/cool-down-your-game-the-ultimate-review-on-the-havit-5-high-performance-laptop-cooler-with-five-precision-fans/"><u>Cool Down Your Game: The Ultimate Review on the HAVIT #5 High-Performance Laptop Cooler with Five Precision Fans</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-mirallis-assistance-dedicated-customer-care-solutions/"><u>Expert Mirallis Assistance: Dedicated Customer Care Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy S23+</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-achieving-video-greatness-on-tiktok-with-smart-use-of-pre-made-templates/"><u>In 2024, Achieving Video Greatness on TikTok with Smart Use of Pre-Made Templates</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-clicks-big-smiles-crafting-memes-easily/"><u>In 2024, Quick Clicks, Big Smiles Crafting Memes Easily</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/innovazione-in-cattolica-assicurazioni-con-elaborazione-documentale-intelligente-per-un-miglioramento-dei-servizi/"><u>Innovazione in Cattolica Assicurazioni Con Elaborazione Documentale Intelligente per Un Miglioramento Dei Servizi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-disk-read-error-challenge-in-windows-11-effective-techniques-explored/"><u>Overcoming the 'Disk Read Error' Challenge in Windows 11 – Effective Techniques Explored</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/south-park-season-19-20-complete-collection-mp4-downloads-available/"><u>South Park Season 19-20 Complete Collection - MP4 Downloads Available</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-acquiring-multiformat-video-copies-of-cisco-live-sessions/"><u>Step-by-Step Tutorial on Acquiring Multiformat Video Copies of Cisco Live Sessions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-saving-content-from-watchboxde-platforms/"><u>Step-by-Step Tutorial on Saving Content From watchbox.de Platforms</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-securely-saving-humor-from-siez-with-a-reliable-downloader-tool/"><u>Step-by-Step Tutorial on Securely Saving Humor From ˈsiːɡəz with a Reliable Downloader Tool</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-list-top-10-glitch-video-editing-apps-for-mobile-creatives/"><u>Updated In 2024, The Ultimate List Top 10 Glitch Video Editing Apps for Mobile Creatives</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/viki-saves-quick-tips-for-downloading-your-favorite-subbed-shows-and-movies/"><u>Viki Saves: Quick Tips for Downloading Your Favorite Subbed Shows and Movies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-obs-camera-not-working-problem-solved/"><u>[New] In 2024, OBS Camera Not Working Problem [Solved]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-reno-10-pro-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo Reno 10 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-the-strength-of-cookiebot-to-boost-online-success/"><u>Harnessing the Strength of Cookiebot to Boost Online Success</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-effortlessly-stream-your-iphone-screen-to-any-television-without-an-apple-tv/"><u>How to Effortlessly Stream Your iPhone Screen to Any Television Without an Apple TV</u></a></li>
+<li><a href="https://os-tips.techidaily.com/illuminate-your-night-with-ease-the-ultimate-trick-to-enable-iphone-flashlight-via-backside-pressure/"><u>Illuminate Your Night with Ease: The Ultimate Trick to Enable iPhone Flashlight via Backside Pressure</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-13-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 13 SIM Lock?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/maximizing-your-iphones-longenity-expert-strategies-to-extend-battery-life/"><u>Maximizing Your iPhone's Longenity: Expert Strategies to Extend Battery Life</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-2022-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2022) Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-for-embedding-youtube-clips-into-powerpoint-presentations-20102013/"><u>Simple Steps for Embedding YouTube Clips Into PowerPoint Presentations (2010/2013)</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/sql-query-editor-enhance-your-database-management/"><u>SQL Query Editor: Enhance Your Database Management</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-json-data-format-and-file-handling/"><u>Understanding JSON Data Format and File Handling</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-potential-from-esd-to-iso-file-transformation/"><u>Unlocking Windows' Potential: From ESD to ISO File Transformation</u></a></li>
 </ul></div>
 

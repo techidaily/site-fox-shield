@@ -1,7 +1,7 @@
 ---
 title: Top Translation Component Library for Enhanced IT Projects
-date: 2024-09-25T03:17:51.552Z
-updated: 2024-09-30T10:46:16.203Z
+date: 2024-09-29T18:40:37.675Z
+updated: 2024-10-05T20:22:08.200Z
 tags:
   - user-guide
 categories:
@@ -110,43 +110,37 @@ Table of Contents
 ## ITranslationsComponent
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 ITranslationsComponent : IDispatch
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This interface is meant to get interfaces for languages and languages options. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
 
 **ILanguagesOptions** LanguagesOptions - Gets the interface for language options. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -155,10 +149,10 @@ This interface is meant to get interfaces for languages and languages options.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)LangId is a specified language id as detailed in the [Microsoft documentation](https://learn.microsoft.com/en-us/openspecs/office%5Fstandards/ms-oe376/6c085406-a698-4e12-9d4d-c3b0ee3dbc4a "Microsoft documentation").
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **RemoveLanguageAllBuilds(Int LangId)** \- Removes a specified language from all builds in the project. 
@@ -211,14 +205,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-guide-to-fade-out-music-in-premiere-pro-for-2024/"><u>[New] Guide To Fade Out Music In Premiere Pro for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-shots-discover-the-best-camera-angles-for-iphones/"><u>[New] The Art of Shots Discover the Best Camera Angles for iPhones</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-leading-10-audio-boost-tools-for-diverse-systems-for-2024/"><u>[Updated] Leading 10 Audio Boost Tools for Diverse Systems for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-saving-space-with-efficient-hd-video-downloads-from-fb/"><u>2024 Approved Saving Space with Efficient HD Video Downloads From FB</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-guide-to-the-nokia-e34-ideal-first-smartphone-experience/"><u>Essential Guide to the Nokia E3.4 - Ideal First Smartphone Experience</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-for-embedding-company-logo-watermarks-on-flipbook-pages-using-flipbuilder/"><u>Step-by-Step Guide for Embedding Company Logo Watermarks on Flipbook Pages Using FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-rotating-multiple-photos-using-flipbuilder-tool/"><u>Step-by-Step Guide: Rotating Multiple Photos Using FlipBuilder Tool</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-sending-your-created-ebooks-via-email-on-flipbuilder/"><u>Step-by-Step Guide: Sending Your Created eBooks via Email on FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-creating-stunning-button-typography-with-flipoffice-pro-software/"><u>Step-by-Step Tutorial on Creating Stunning Button Typography with FlipOffice Pro Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-comprehensive-guide-to-precision-screen-capture/"><u>[New] 2024 Approved The Comprehensive Guide to Precision Screen Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ps4-broadcast-simplified-detailed-steps-using-obs/"><u>2024 Approved PS4 Broadcast Simplified Detailed Steps Using OBS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-step-by-step-how-to-convert-and-download-vids-from-social-media-to-mp3s/"><u>2024 Approved Step-by-Step How to Convert and Download Vids From Social Media to MP3s</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/detailed-examination-how-the-newest-echo-generation-redefines-smart-home-tech/"><u>Detailed Examination: How the Newest Echo Generation Redefines Smart Home Tech</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-essentials-of-iprogid-in-programming/"><u>Discover the Essentials of IProgID in Programming</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-techniques-for-capturing-high-quality-voice-conversations/"><u>Effective Techniques for Capturing High-Quality Voice Conversations</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/elevate-your-videos-with-top-ranking-free-ai-editors/"><u>Elevate Your Videos with Top-Ranking Free AI Editors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopros-latest-camera-face-off/"><u>GoPro's Latest Camera Face-Off</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-melodicmeasurement-reaction-to-tunes/"><u>In 2024, MelodicMeasurement Reaction to Tunes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/recognizing-and-guarding-against-fraudulent-technical-aid-schemes/"><u>Recognizing and Guarding Against Fraudulent Technical Aid Schemes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/wish-to-look-at-all-my-contacts-media-shared-in-chats-for-2024/"><u>Wish to Look at All My Contacts' Media Shared in Chats for 2024</u></a></li>
 </ul></div>
 

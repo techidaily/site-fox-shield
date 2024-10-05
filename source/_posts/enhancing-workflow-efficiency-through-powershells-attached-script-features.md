@@ -1,7 +1,7 @@
 ---
 title: Enhancing Workflow Efficiency Through PowerShell's Attached Script Features
-date: 2024-09-24T00:21:01.637Z
-updated: 2024-09-30T01:56:44.771Z
+date: 2024-10-04T17:24:33.671Z
+updated: 2024-10-05T18:39:34.854Z
 tags:
   - user-guide
 categories:
@@ -125,15 +125,28 @@ Table of Contents
 
 ## IPowershellAttachedScriptFile
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IPowershellAttachedScriptFile : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -141,10 +154,10 @@ IPowershellAttachedScriptFile : ICustomAction
 This interface facilitates editing custom action that allows launching an attached Powershell script file into execution.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -154,13 +167,6 @@ This interface facilitates editing custom action that allows launching an attach
 **Bool Is32Bit** \- Gets or sets the property of the custom action to run the 32-bit PowerShell executable. If Is64Bit value is also “true” then runs the Operating System bitness PowerShell executable (32-bit on x86 operating systems, 64-bit on x64).
 
 **Bool Is64Bit** \- Gets or sets the property of the custom action to run the 32-bit PowerShell executable. If Is32Bit value is also “true” then runs the Operating System bitness PowerShell executable (32-bit on x86 operating systems, 64-bit on x64).
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Examples
 
@@ -175,10 +181,10 @@ $custAct.Is64Bit = $true
     Copy
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -220,24 +226,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-tech-savvy-tips-for-recording-video-calls/"><u>[New] In 2024, Tech-Savvy Tips for Recording Video Calls</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-streaming-fb-content-on-apple-tv-a-step-by-step-guide/"><u>[New] Streaming FB Content on Apple TV A Step-by-Step Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-digital-presence-with-vimeo-sharing/"><u>[Updated] In 2024, Enhancing Digital Presence with Vimeo Sharing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-inauguration-setting-up-a-twitter-profile-for-2024/"><u>[Updated] Inauguration Setting Up a Twitter Profile for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/backup-your-customized-book-creation-preferences-in-flipbuilder-a-step-by-step-guide/"><u>Backup Your Customized Book Creation Preferences in FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/can-you-incorporate-js-scripts-into-your-digital-books-created-with-flipbuilder/"><u>Can You Incorporate JS Scripts Into Your Digital Books Created with FlipBuilder?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-to-using-flippdf-on-macos-unlocking-your-documents-potential/"><u>Comprehensive Guide to Using FlipPDF on macOS: Unlocking Your Document's Potential</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dvddvd-dvd/"><u>DVD化ツール「DVDフリック」の利用ガイド - 日本語ストリーミングをダウンロードし、ビデオからDVDへ変換方法</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effective-techniques-for-organizing-and-tagging-office-documents-with-flipbuilder/"><u>Effective Techniques for Organizing and Tagging Office Documents with FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effective-utilization-of-page-number-features-in-flipbuilder-the-ultimate-tutorial/"><u>Effective Utilization of Page Number Features in FlipBuilder: The Ultimate Tutorial</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effortlessly-transform-your-microsoft-word-documents-into-interactive-e-books-with-flipbook-builder/"><u>Effortlessly Transform Your Microsoft Word Documents Into Interactive E-Books with FlipBook Builder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/experience-enhanced-designs-free-animated-thumbnails-and-zoom-bar-included-in-our-customizable-templates-flipbuildercom/"><u>Experience Enhanced Designs: Free, Animated Thumbnails and Zoom Bar Included in Our Customizable Templates [FlipBuilder.com]</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt/"><u>In 2024, How to Clear the Clutter Blurring Backgrounds for Engaging YT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-upcoming-google-pixel-watch-anticipated-costs-launch-timeline-and-features/"><u>Inside Scoop on the Upcoming Google Pixel Watch - Anticipated Costs, Launch Timeline & Features</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-obstacle-fixing-c1900101-error-during-setup/"><u>Overcoming Obstacle: Fixing C1900101 Error During Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-connecting-your-microsoft-wireless-display-adapter-with-windows-10-a-comprehensive-guide/"><u>Resolved! Connecting Your Microsoft Wireless Display Adapter With Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-on-your-game-setup-with-alienwares-curved-masterpiece-secure-100-off-the-aw3225qf-stunning-4k-gaming-qd-oled-quality-and-ultra-fast-240-hz-refresh61/"><u>Score Big on Your Game Setup with Alienware's Curved Masterpiece: Secure $100 Off the AW3225QF - Stunning 4K Gaming, QD-OLED Quality & Ultra Fast 240 Hz Refresh Rate</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-issues-why-cant-you-access-flipbuilder-downloads-now/"><u>Troubleshooting Issues: Why Can't You Access FlipBuilder Downloads Now?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-resource-guide-mastering-flip-image-techniques-with-flipimagepro/"><u>Ultimate Resource Guide - Mastering Flip Image Techniques with FlipImagePro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-best-free-no-money-tools-for-digital-video-cutting/"><u>[New] The Best Free, No-Money Tools for Digital Video Cutting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom-for-2024/"><u>[Updated] Elevating Your Podcast Game Mastering Video and Audio Techniques on Zoom for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-expert-tips-for-adding-youtube-images-in-slide-decks/"><u>[Updated] Expert Tips for Adding YouTube Images in Slide Decks</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/cross-platform-display-connect-and-share-your-iphone-screen-on-a-samsung-tv/"><u>Cross-Platform Display: Connect and Share Your iPhone Screen on a Samsung TV</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/customizable-pre-configured-database-access-interface/"><u>Customizable Pre-Configured Database Access Interface</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-techniques-for-eliminating-gridlines-in-your-photos-no-need-for-photoshop/"><u>Easy Techniques for Eliminating Gridlines in Your Photos - No Need for Photoshop!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-connect-your-vm-profile-a-comprehensive-guide/"><u>How to Connect Your VM Profile: A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximize-home-internet-speeds-with-our-comprehensive-review-of-the-netgear-nighthawk-x10-ad7200/"><u>Maximize Home Internet Speeds with Our Comprehensive Review of the Netgear Nighthawk X1^0 (AD7200)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-best-html5-video-player-landscape/"><u>Navigating the Best HTML5 Video Player Landscape</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/speedy-steps-to-save-slideshows-for-2024/"><u>Speedy Steps to Save Slideshows for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-capturing-screen-videos-using-screencast-o-matic/"><u>Step-by-Step Guide: Capturing Screen Videos Using Screencast-O-Matic</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-driver-issues-in-windows-10-7-and-81-solved/"><u>USBasp Driver Issues in Windows 10, 7 and 8.1 [SOLVED]</u></a></li>
 </ul></div>
 

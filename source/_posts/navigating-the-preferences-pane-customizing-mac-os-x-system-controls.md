@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Preferences Pane: Customizing Mac OS X System Controls"
-date: 2024-09-27T00:29:08.290Z
-updated: 2024-09-29T22:47:08.688Z
+date: 2024-10-02T20:02:34.039Z
+updated: 2024-10-05T20:21:21.982Z
 tags:
   - user-guide
 categories:
@@ -93,13 +93,6 @@ In this page you can specify the settings for the [Mac OS X package.](https://to
 
  This option allows you to choose whether the product will be added or not to the Mac OS build. 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Files and Folders
 
 This section allows you to add resources to the Mac OS X package.
@@ -121,16 +114,16 @@ Use the \[Add Folder... \] button or “Add Folder...” context menu option.
 
 Use the \[Add Files... \] button or “Add Files...” context menu option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing files or folders
 
 Use the \[Remove \] button, the “Remove” list context menu item or press the Delete key while an element from the tree is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Copying files and folders between sections
 
@@ -143,19 +136,19 @@ Drag and drop resources between sections or use the “Move to Product Section/M
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The resources must be dropped over the other section's root item.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When copying or moving resources between components they will be added with their full path.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Settings
@@ -171,16 +164,16 @@ Additional features available for Oracle VM:
 * Splash screen support
 * Support for user defined Java Application Launcher
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Product Version
 
 This the version that presented to the user into the application about panel, but is not interpreted by the system. If no value is specified in this field then the java product name and the package version will be used instead. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Required OS X Version
 
@@ -193,15 +186,22 @@ This is the minimum required OS version for your application.
 This field identifies the file containing the icon for the bundle. The icon file will be looked up in the Resources directory of the bundle.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Signature
 
 The value for this field is a string containing a four-letter code which is specific to the bundle. For example, the signature for the TextEdit application is txt.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bundle Identifier
 
@@ -211,13 +211,6 @@ This is a unique identifier string for the bundle. This identifier should be in 
 
 Change the application's description which is displayed in the Info window. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### No Dock icon and no Menu Bar interaction
 
 This option specifies that the application will run as an agent. Agent applications are not displayed in the Dock, in the Force Quit window or in the Menu Bar. Usually they are background applications but they can come to the foreground to present a user interface if desired.
@@ -226,6 +219,19 @@ This option specifies that the application will run as an agent. Agent applicati
 
 This option is useful if you are using SWT in your application in order to fix various problems.
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### More Options
 
 To specify any other Mac OS X application properties you must use the [MacOS Java Launcher Properties](https://tools.techidaily.com/advancedinstaller/products/) dialog.
@@ -233,10 +239,10 @@ To specify any other Mac OS X application properties you must use the [MacOS Jav
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For details on how to localize a Mac OS X package please go to [Java Product Localization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -277,22 +283,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigate-through-windows-10s-media-importation-elegantly/"><u>[Updated] Navigate Through Windows 10'S Media Importation Elegantly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamline-webcam-use-on-modern-devices/"><u>2024 Approved Streamline Webcam Use on Modern Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/discover-top-tier-full-stack-javascript-solutions-explore-3-elegant-nodejs-premium-themes-and-templates-from-creative-tim/"><u>Discover Top-Tier Full-Stack JavaScript Solutions: Explore 3 Elegant NodeJS Premium Themes & Templates From Creative Tim</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dominating-trade-wars-in-offworld-trading-company-a-strategic-empire-guide/"><u>Dominating Trade Wars in Offworld Trading Company: A Strategic Empire Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhanced-django-admin-experience-using-softui-and-bootstrap-nix-a-creatively-timed-solution/"><u>Enhanced Django Admin Experience Using SoftUI and Bootstrap Nix | A Creatively Timed Solution</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhanced-nuxt-admin-experience-for-developers-next-level-security-pro-addons-and-larval-compatibility/"><u>Enhanced Nuxt Admin Experience for Developers: Next Level Security, Pro Addons, and Larval Compatibility</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exclusive-selection-of-premier-svelte-designs-by-creative-tim-unveiled/"><u>Exclusive Selection of Premier Svelte Designs by Creative Tim Unveiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expand-your-instagram-community-with-these-simple-tips/"><u>Expand Your Instagram Community with These Simple Tips</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/free-full-stack-development-with-vue-and-laravel-comprehensive-ui-dashboard-kit-created-by-creative-tim/"><u>Free Full-Stack Development with Vue and Laravel - Comprehensive UI Dashboard Kit | Created by Creative Tim</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-the-crash-in-star-wars-squadrons-solution-guide/"><u>How To Fix The Crash In Star Wars Squadrons - Solution Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XR without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-z-fold-5-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy Z Fold 5 Phone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/over-43-unique-bootstrap-components-in-creative-tims-web-ui-toolkit/"><u>Over 43 Unique Bootstrap Components in Creative Tim's Web UI Toolkit</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/premium-flutter-app-blueprint-with-argon-pro-theme-by-creative-tim-ultimate-solution-for-iosandroid-development/"><u>Premium Flutter App Blueprint with Argon Pro Theme by Creative Tim: Ultimate Solution for iOS/Android Development</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/pro-level-efficiency-with-get-shtdone-pro-top-pick-premium-bootstrap-themes-by-creative-tim/"><u>Pro-Level Efficiency with Get Sh!tDone PRO: Top Pick Premium Bootstrap Themes by Creative Tim</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unleash-the-magic-of-time-lapse-photography-on-samsung-gear/"><u>Unleash the Magic of Time-Lapse Photography on Samsung Gear</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-post-extended-clip-on-youtube-per-your-request/"><u>[New] Post Extended Clip on YouTube Per Your Request</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-navigating-tiktok-on-both-mac-and-windows-devices/"><u>[Updated] In 2024, Navigating TikTok on Both Mac & Windows Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-premium-innovation-best-desktop-computers-for-2024/"><u>[Updated] Premium Innovation Best Desktop Computers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-tools-every-new-creator-needs/"><u>[Updated] The Essential Tools Every New Creator Needs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-digital-humor-designer-tool/"><u>2024 Approved Digital Humor Designer Tool</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/cross-platform-display-connect-and-share-your-iphone-screen-on-a-samsung-tv/"><u>Cross-Platform Display: Connect and Share Your iPhone Screen on a Samsung TV</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/customizable-pre-configured-database-access-interface/"><u>Customizable Pre-Configured Database Access Interface</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-techniques-for-eliminating-gridlines-in-your-photos-no-need-for-photoshop/"><u>Easy Techniques for Eliminating Gridlines in Your Photos - No Need for Photoshop!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhance-your-social-media-presence-with-the-top-instagram-visual-editor-software-in-vectors-2020-edition/"><u>Enhance Your Social Media Presence with the Top Instagram Visual Editor Software in Vectors, 2020 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/epic-game-viewing-spots-1-9/"><u>Epic Game Viewing Spots #1-#9</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-connect-your-vm-profile-a-comprehensive-guide/"><u>How to Connect Your VM Profile: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-turn-your-prezi-slideshow-into-videos-for-instant-sharing-top-3-methods-revealed/"><u>How to Turn Your Prezi Slideshow Into Videos for Instant Sharing - Top 3 Methods Revealed!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-inside-out-mastering-io-screen-recording-tech/"><u>In 2024, Inside Out Mastering IO Screen Recording Tech</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/modify-styled-text-conversation-interface/"><u>Modify Styled Text Conversation Interface</u></a></li>
+<li><a href="https://driver-download.techidaily.com/msis-updated-bluetooth-driver-version-now-supporting-windows-11-and-10-download-here/"><u>MSI's Updated Bluetooth Driver Version Now Supporting Windows 11 and 10 – Download Here</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-capturing-screen-videos-using-screencast-o-matic/"><u>Step-by-Step Guide: Capturing Screen Videos Using Screencast-O-Matic</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/the-leading-mac-application-for-flawless-image-editing-with-powerful-background-erasing-features/"><u>The Leading Mac Application for Flawless Image Editing with Powerful Background Erasing Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y36-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y36 Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-screenplay-scribblers-hub/"><u>Top Screenplay Scribblers Hub</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unraveling File Characteristics: A Deep Dive Into the Multiple Files Properties Tab"
-date: 2024-09-23T01:17:35.601Z
-updated: 2024-09-29T23:08:37.851Z
+date: 2024-10-04T17:58:47.639Z
+updated: 2024-10-05T17:46:31.218Z
 tags:
   - user-guide
 categories:
@@ -99,25 +99,19 @@ In this dialog, you can mark the selected files for auto registration, register 
 ![Multiple Files Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/multiple-files-properties.png "Multiple Files Properties Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Flags
@@ -130,33 +124,27 @@ When loading the attributes for multiple files, the checkboxes can be in one of 
 * Unchecked - none of the selected files have that attribute.
 * Undecided - only a part of the selected files have that attribute.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Signature
 
  Specify whether you want to [digitally sign](https://tools.techidaily.com/advancedinstaller/products/) the selected files. 
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Version
 
 Clicking on the "Version" tab will allow you to set the [version](https://tools.techidaily.com/advancedinstaller/products/) for the selected files.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Registration
 
@@ -199,20 +187,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-shield.techidaily.com/y-3/"><u> [ Y = -3 </u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-beginners-path-to-screen-casting-with-apple-devices-for-2024/"><u>[New] Beginner’s Path to Screen Casting with Apple Devices for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-iphones-in-action-capturing-and-altering-slow-motion-content/"><u>[New] IPhones in Action Capturing & Altering Slow Motion Content</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-utilizing-open-source-for-broadcasting-workshops/"><u>2024 Approved Utilizing Open-Source for Broadcasting Workshops</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/build-and-distribute-ipad-ready-ebooks-with-flippdf-pro-mac-compatible-a-simple-guide-to-digital-book-design/"><u>Build & Distribute iPad-Ready eBooks with FlipPDF Pro (Mac Compatible) - A Simple Guide to Digital Book Design</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/creating-black-and-white-previews-with-flippingbook-a-step-by-step-guide/"><u>Creating Black and White Previews with FlippingBook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/doubling-up-your-pdf-content-space-with-flipbuilder-easy-guide/"><u>Doubling Up Your PDF Content Space with FlipBuilder - Easy Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhance-your-reading-experience-with-crystal-clear-flipbooks-on-flipbuilder/"><u>Enhance Your Reading Experience with Crystal-Clear Flipbooks on FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-create-a-flash-flipping-book-with-flipbuilder-can-individual-pages-be-transformed/"><u>How to Create a Flash Flipping Book with FlipBuilder - Can Individual Pages Be Transformed?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-razr-40-ultra-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola Razr 40 Ultra FRP Without Computer</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>New 2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restoring-flexible-monitor-resolution-now-solved/"><u>Restoring Flexible Monitor Resolution - Now Solved</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-your-device-from-heating-up-troubleshooting-ipads-and-iphones/"><u>Stop Your Device From Heating Up: Troubleshooting iPads & iPhones</u></a></li>
-<li><a href="https://driver-download.techidaily.com/tutorial-for-refreshing-your-windows-os-and-microsoft-mouse-driver-at-once/"><u>Tutorial for Refreshing Your Windows OS and Microsoft Mouse Driver at Once</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/zero-cost-comprehensive-vue3-and-laravel-api-integration-project-by-creative-tim/"><u>Zero-Cost Comprehensive Vue3 & Laravel API Integration Project by Creative Tim</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-fb-discovering-shared-video-content/"><u>[New] In 2024, Navigating FB Discovering Shared Video Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-strategies-for-adding-value-youtubes-card-system/"><u>[New] Strategies for Adding Value YouTube's Card System</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamline-your-vlogs-sound-with-effective-tips/"><u>[Updated] In 2024, Streamline Your Vlog's Sound with Effective Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-panzoid-framework-assemblage/"><u>[Updated] Ultimate Panzoid Framework Assemblage</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/app-upgrade-now-update-your-target-application-today/"><u>App Upgrade Now - Update Your Target Application Today</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-gopro-tools-for-deep-sea-cinematography-for-2024/"><u>Best Gopro Tools for Deep-Sea Cinematography for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/boosting-job-application-success-with-standardized-interview-scripts-on-resumes/"><u>Boosting Job Application Success with Standardized Interview Scripts on Resumes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/control-data-row-dialog/"><u>Control Data Row Dialog.</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effortless-guide-capturing-your-macs-display-in-el-capitan/"><u>Effortless Guide: Capturing Your Mac's Display in El Capitan</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/essential-details-tab-your-guide-to-key-information-at-a-glance/"><u>Essential Details Tab: Your Guide to Key Information at a Glance</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/modify-styled-text-conversation-interface/"><u>Modify Styled Text Conversation Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/power-up-notifications-ensuring-a-fully-charged-battery-on-win11/"><u>Power-Up Notifications: Ensuring a Fully Charged Battery on Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-computer-speakers-fast-fixes-for-sound-problems/"><u>Revive Your Computer Speakers: Fast Fixes for Sound Problems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranking-computer-audio-cards-the-ultimate-guide-for-2/"><u>Top-Ranking Computer Audio Cards - The Ultimate Guide for 2</u></a></li>
 </ul></div>
 

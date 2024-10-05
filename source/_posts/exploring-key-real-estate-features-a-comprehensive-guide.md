@@ -1,7 +1,7 @@
 ---
 title: "Exploring Key Real Estate Features: A Comprehensive Guide"
-date: 2024-09-24T05:08:52.298Z
-updated: 2024-09-30T06:20:20.371Z
+date: 2024-09-30T19:55:54.774Z
+updated: 2024-10-05T21:05:45.211Z
 tags:
   - user-guide
 categories:
@@ -76,6 +76,13 @@ Table of Contents
 
 ## Feature Properties
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## General
 
 ![Feature properties](https://cdn.advancedinstaller.com/img/ui/feature-properties.png "Feature properties")  
@@ -87,22 +94,15 @@ Table of Contents
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When changing a feature's identifier, all the conditions and properties that refer to this identifier must be updated accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
 
  This text will appear in the Customize Dialog when the feature is selected in the features tree. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Feature Tree
 
@@ -115,15 +115,22 @@ Table of Contents
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The state of "collapsed" or "expanded" makes sense only if the feature has sub-features.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Directory
 
 The directory that can be configured in CustomizeDlg dialog when this feature is selected in the features tree. This must be a user-defined directory that has an uppercase identifier.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Icon
 
@@ -133,15 +140,28 @@ The feature will have the selected icon prepended in the [Quick Selection List](
 
 All the components from the feature are marked as 64-bit components.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mark components in this feature as "Do not register with Windows Installer"
 
 If this option is selected all the components from the feature will have an empty GUID, and thus it will not be registered. This means that the components cannot be removed, repaired or patched by the installer. This might be useful if you intend to service/uninstall the components yourself (using a custom action, for instance).
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mark System components in this feature as "permanent"
@@ -166,17 +186,10 @@ You can set install levels other than Installed, Not Installed and Disable in th
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)“Installation Behavior“ fields should not contain conditions based on a feature's or component's state because the expressions in these fields are evaluated before the installer checks the state of features and components. The expressions will always return false due to this fact.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Settings
@@ -190,22 +203,22 @@ The components of this feature that are not marked for local installation will b
 * Always install the feature  
  The User Interface of Windows Installer does not display an option to change the feature's state. The "Entire feature will be unavailable" option will not be available for this feature in "CustomizeDlg."
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Advertise Settings
 
 Configure the settings available from a feature's context menu in the CustomizeDlg dialog during installation.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Allow advertise
 
@@ -223,13 +236,6 @@ The feature is not allowed to be advertised.
 ## Builds
 
 In case you have defined more that one build in the [Builds](https://tools.techidaily.com/advancedinstaller/products/) page, you can choose to remove the feature from some builds. If a feature is removed from a build, all other resources that demand that feature (components, component members, class entries, type libraries...) will also be removed from the build.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Include feature in all builds
 
@@ -277,24 +283,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-recommendation-best-websites-to-download-classical-ringtones/"><u>[New] 2024 Approved Recommendation Best Websites to Download Classical Ringtones</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-facebooks-real-time-media-watch-guide-2023-for-2024/"><u>[New] Facebook's Real-Time Media Watch Guide, 2023 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-vdl-pro-recorder-summary-detailed-breakdown-for-2024/"><u>[New] VDL Pro Recorder Summary Detailed Breakdown for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-gratis-bootstrap-5-theme-framework-effortless-and-modern-interface-crafting-at-creative-tim/"><u>1. Gratis Bootstrap 5 Theme Framework: Effortless & Modern Interface Crafting at Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/advanced-bootstrapvueargon-pro-dashboard-enhanced-vuejs-and-bootstrapvue-administration-panel-by-creative-tim/"><u>Advanced BootstrapVue/Argon Pro Dashboard - Enhanced Vue.js & BootstrapVue Administration Panel by Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-mirallis-assistance-dedicated-customer-care-solutions/"><u>Expert Mirallis Assistance: Dedicated Customer Care Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-on-getting-your-msi-graphics-driver-and-center-back-online/"><u>Expert Tips on Getting Your MSI Graphics Driver and Center Back Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-issue-of-non-responsive-search-in-windows-11-top-tips/"><u>Fixing the Issue of Non-Responsive Search in Windows 11 – Top Tips</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/get-answers-fast-mirillis-mirroraction-guide-and-tutorials-for-screenshots-recordings-and-more/"><u>Get Answers Fast: Mirillis MirrorAction Guide & Tutorials for Screenshots, Recordings, and More</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-motorola-g24-power-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-videos-direct-and-alternative-saves-for-2024/"><u>Mastering Instagram Videos Direct & Alternative Saves for 2024</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/seamless-conversion-experience-via-ai-driven-analytics-the-power-of-cookiebot/"><u>Seamless Conversion Experience via AI-Driven Analytics - The Power of Cookiebot</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-bootmgr-not-found-a-step-by-step-guide/"><u>Solving the Mystery of 'BOOTMGR Not Found': A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-mastering-export-and-upload-techniques-in-action/"><u>Step-by-Step Guide: Mastering Export & Upload Techniques in Action!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-acquiring-multiformat-video-copies-of-cisco-live-sessions/"><u>Step-by-Step Tutorial on Acquiring Multiformat Video Copies of Cisco Live Sessions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-saving-content-from-watchboxde-platforms/"><u>Step-by-Step Tutorial on Saving Content From watchbox.de Platforms</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-securely-saving-humor-from-siez-with-a-reliable-downloader-tool/"><u>Step-by-Step Tutorial on Securely Saving Humor From ˈsiːɡəz with a Reliable Downloader Tool</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/sx530-review-unveiling-a-beginner-friendly-camera-marvel/"><u>SX530 Review: Unveiling a Beginner-Friendly Camera Marvel</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/viki-saves-quick-tips-for-downloading-your-favorite-subbed-shows-and-movies/"><u>Viki Saves: Quick Tips for Downloading Your Favorite Subbed Shows and Movies</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-gap-between-reality-and-imagination-discover-8-astonishing-ways-ai-achieves-this-feat/"><u>Bridging the Gap Between Reality and Imagination: Discover 8 Astonishing Ways AI Achieves This Feat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-made-better-in-chrome-discover-our-top-7-fixes/"><u>ChatGPT Made Better in Chrome: Discover Our Top 7 Fixes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-understanding-the-multi-file-attributes-table/"><u>Comprehensive Guide: Understanding the Multi-File Attributes Table</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-setup-the-json-import-functionality-in-your-applications-settings/"><u>How to Setup the JSON Import Functionality in Your Application's Settings</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/proven-strategies-to-control-the-tempo-of-your-videos/"><u>Proven Strategies to Control the Tempo of Your Videos</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quick-guide-to-seamlessly-download-4k-content-without-hitches/"><u>Quick Guide to Seamlessly Download 4K Content Without Hitches</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/stay-updated-latest-updates-on-trending-topics/"><u>Stay Updated: Latest Updates on Trending Topics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/step-by-step-techniques-for-computer-based-photo-filtering/"><u>Step-By-Step Techniques for Computer-Based Photo Filtering</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-artificial-intelligence-in-shaping-future-mental-health-solutions-beneficial-advancement-or-dangerous-development/"><u>The Role of Artificial Intelligence in Shaping Future Mental Health Solutions: Beneficial Advancement or Dangerous Development?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/the-ultimate-guide-to-coolest-id-photo-changers/"><u>The Ultimate Guide to Coolest ID Photo Changers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/top-3-tactics-converting-pins-to-audio-clips-for-2024/"><u>Top 3 Tactics Converting Pins to Audio Clips for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-translation-component-library-for-enhanced-it-projects/"><u>Top Translation Component Library for Enhanced IT Projects</u></a></li>
+<li><a href="https://win-top.techidaily.com/transformez-vos-chansons-wma-ou-wav-en-mp3-gratuitement-depannage-and-faq-sur-movavi/"><u>Transformez Vos Chansons WMA Ou WAV en MP3 Gratuitement - Dépannage & FAQ Sur Movavi</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-tutorial-on-rearranging-sequence-of-pdf-document-pages/"><u>Ultimate Tutorial on Rearranging Sequence of PDF Document Pages</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-and-adjusting-fastcgi-parameters-for-efficient-web-serving/"><u>Understanding and Adjusting FastCGI Parameters for Efficient Web Serving</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-v30t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme V30T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/winning-the-battle-against-windows-11-bluetooth-driver-glitches-expert-tips-and-tricks/"><u>Winning the Battle Against Windows 11 Bluetooth Driver Glitches: Expert Tips & Tricks</u></a></li>
 </ul></div>
 

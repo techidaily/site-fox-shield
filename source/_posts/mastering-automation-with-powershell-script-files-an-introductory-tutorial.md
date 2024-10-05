@@ -1,7 +1,7 @@
 ---
 title: "Mastering Automation with PowerShell Script Files: An Introductory Tutorial"
-date: 2024-09-24T03:43:30.853Z
-updated: 2024-09-30T05:42:58.529Z
+date: 2024-10-02T21:35:39.168Z
+updated: 2024-10-05T21:37:02.980Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IPowershellScriptFile
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IPowershellScriptFile : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,10 @@ IPowershellScriptFile : ICustomAction
 This interface facilitates editing custom action that allows launching a Powershell script file into execution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +163,10 @@ This interface facilitates editing custom action that allows launching a Powersh
 **Bool Is64Bit** \- Gets or sets the property of the custom action to run the 32-bit PowerShell executable. If Is32Bit value is also “true” then runs the Operating System bitness PowerShell executable (32-bit on x86 operating systems, 64-bit on x64).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,21 +208,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-discover-the-power-of-pixlr-25-must-use-tips-and-tricks-for-2024/"><u>[New] Discover the Power of Pixlr 25 Must-Use Tips and Tricks for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-the-echoes-of-yesteryears-scanning-and-storing-vintage-prints/"><u>[Updated] Capturing the Echoes of Yesteryears Scanning and Storing Vintage Prints</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-evaluating-the-latest-in-camcorders-and-live-streaming-tech/"><u>[Updated] In 2024, Evaluating the Latest in Camcorders and Live Streaming Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-drivers-ultimate-guide-for-nvidia-geforce-gtx-1660-super/"><u>Download and Update Drivers: Ultimate Guide for NVIDIA GeForce GTX 1660 Super</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-oppo-f23-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Oppo F23 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unraveling-the-mysteries-of-stardew-valley-with-an-insiders-look-at-its-most-hidden-gem-ginger-isle/"><u>In 2024, Unraveling the Mysteries of Stardew Valley with an Insider's Look at Its Most Hidden Gem – Ginger Isle</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-electronics-with-tom-expert-hardware-analysis/"><u>Navigating Electronics with Tom - Expert Hardware Analysis</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/over-43-unique-bootstrap-components-in-creative-tims-web-ui-toolkit/"><u>Over 43 Unique Bootstrap Components in Creative Tim's Web UI Toolkit</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/premium-flutter-app-blueprint-with-argon-pro-theme-by-creative-tim-ultimate-solution-for-iosandroid-development/"><u>Premium Flutter App Blueprint with Argon Pro Theme by Creative Tim: Ultimate Solution for iOS/Android Development</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/pro-level-efficiency-with-get-shtdone-pro-top-pick-premium-bootstrap-themes-by-creative-tim/"><u>Pro-Level Efficiency with Get Sh!tDone PRO: Top Pick Premium Bootstrap Themes by Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-pro-react-mui-soft-interface-premium-dashboard/"><u>Professional Pro-React MUI Soft Interface Premium Dashboard</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-react-admin-panel-with-material-ui-advanced-creative-tim-dashboard/"><u>Professional React Admin Panel with Material UI - Advanced Creative Tim Dashboard</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-website-prototypes-with-the-ghost-theme-by-creative-tim-based-on-googles-material-design-guidelnads/"><u>Professional Website Prototypes with the 'Ghost' Theme by Creative Tim, Based on Google’s Material Design Guidelnads</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/react-component-library-material-dashboard-complimentary-material-ui-framework-template-by-creative-tim/"><u>React Component Library Material Dashboard | Complimentary Material-UI Framework Template by Creative Tim</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/selfie-to-world-stage-mastering-the-art-of-instagram-captions/"><u>Selfie to World Stage Mastering the Art of Instagram Captions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-13-pro-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone 13 Pro Is Unlocked</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-leading-5-mirroring-applications-in-2316llands-tech-scene/"><u>Discover the Leading 5 Mirroring Applications in 2#316;Lland's Tech Scene</u></a></li>
+<li><a href="https://fox-access.techidaily.com/educational-visuals-expertise-in-video-cutting-for-2024/"><u>Educational Visuals Expertise in Video Cutting for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-the-features-of-an-ixml-data-file-insights-and-best-practices/"><u>Exploring the Features of an iXML Data File: Insights and Best Practices</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/free-software-for-ipod-video-format-changeover-easy-mp4-video-download/"><u>Free Software for iPod Video Format Changeover - Easy MP4 Video Download</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-set-up-a-license-server-a-comprehensive-guide/"><u>How to Set Up a License Server: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>In 2024, Unleashing Creativity Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-secure-to-use-third-party-chatgpt-addons-and-plugins/"><u>Is It Secure to Use Third-Party ChatGPT Addons & Plugins?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/protect-your-microsoft-edge-experience-with-the-ultimate-list-of-malwarefoxs-premier-ad-blockers/"><u>Protect Your Microsoft Edge Experience with the Ultimate List of MalwareFox's Premier Ad Blockers!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-volume-is-dirty-error-code-0x80071ac3-in-windows/"><u>Resolving the 'Volume Is Dirty' Error (Code 0X80071AC3) in Windows</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-the-apowermonkey-app-troubleshooting-failure-to-recognize-your-iphone-or-ipad/"><u>Solving the 'Apowermonkey' App: Troubleshooting Failure to Recognize Your iPhone or iPad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-navigating-facebooks-advanced-image-search-features/"><u>Step-by-Step Tutorial: Navigating Facebook's Advanced Image Search Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-corporate-space-for-storage/"><u>Superior Corporate Space for Storage</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-methods-for-downloading-tiktok-content-without-a-watermark/"><u>Top Methods for Downloading TikTok Content without a Watermark</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-astro-a50s-microphone-issues-quick-guide/"><u>Troubleshoot Your Astro A50's Microphone Issues - Quick Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-guide-to-resolving-iphone-airplay-problems-on-ios-12/"><u>Ultimate Guide to Resolving iPhone AirPlay Problems on iOS 12</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-realme-12-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Realme 12 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

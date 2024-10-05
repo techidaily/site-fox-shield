@@ -1,7 +1,7 @@
 ---
 title: Understanding and Customizing Excel's Edit Trigger Prompt Box
-date: 2024-09-22T17:40:17.393Z
-updated: 2024-09-29T20:22:54.890Z
+date: 2024-10-04T20:26:26.417Z
+updated: 2024-10-05T19:39:02.163Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ Table of Contents
 ![Task Schedule](https://cdn.advancedinstaller.com/img/dialog/edit-trigger-dialog.png "Task Schedule")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Schedule Task
@@ -110,40 +110,46 @@ Specify conditions that will trigger the task. Multiple conditions can be used. 
 
 Configure custom settings for each of the above condition types.
 
-## Advanced Settings
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Advanced Settings
 
 ### Repeat task.
 
 Enable the repeat settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Every
 
 The task will run, wait for the time interval specified, and then run again.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Duration
 
 This cycle will continue until the duration time is met.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Indefinitely
 
@@ -192,19 +198,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-ai-thats-revolutionizing-video-content-crafting/"><u>ChatGPT: The AI That's Revolutionizing Video Content Crafting</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/convert-your-groove3-lessons-into-mp4-format-easy-steps/"><u>Convert Your Groove3 Lessons Into MP4 Format - Easy Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-microsoft-family-safety-functions/"><u>Demystifying Microsoft Family Safety Functions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-adult-content-from-vporn-in-multiple-formats-mp4-mov-avi/"><u>Download Adult Content From Vporn in Multiple Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-and-play-ign-content-anywhere-easy-conversion-to-mp4avi-for-windows-and-mac-users/"><u>Download and Play IGN Content Anywhere: Easy Conversion to MP4/AVI for Windows & Mac Users</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-mylifetime-show-episodes-as-mp4-files-easy-guide-and-best-tools/"><u>Download MyLifetime Show Episodes as MP4 Files - Easy Guide & Best Tools</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-your-favorite-bbc-iplayer-shows-as-mp4-or-avi-files-with-our-top-downloading-tool/"><u>Download Your Favorite BBC iPlayer Shows as MP4 or AVI Files with Our Top Downloading Tool</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/drone-buying-101-essential-info-to-make-an-informed-choice/"><u>Drone Buying 101 Essential Info to Make an Informed Choice</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/efficient-media-converter-save-your-mediasite-files-as-mp4-mov-or-avi-with-ease/"><u>Efficient Media Converter: Save Your Mediasite Files as MP4, MOV or AVI with Ease</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-guide-implementing-time-loops-in-obs/"><u>Expert Guide Implementing Time Loops in OBS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/integrating-zoom-into-vision-pro-the-future-of-virtual-meetings-zdnet-insights/"><u>Integrating Zoom Into Vision Pro: The Future of Virtual Meetings | ZDNet Insights</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlocking-the-power-of-full-hd-on-a-budget-exploring-the-lenovo-tab-m10s-display-brilliance-2020-model/"><u>Unlocking the Power of Full HD on a Budget - Exploring the Lenovo Tab M10's Display Brilliance (2020 Model)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/wi-fi-woes-8-proven-ways-to-connect-your-iphoneipad-successfully/"><u>Wi-Fi Woes? 8 Proven Ways to Connect Your iPhone/iPad Successfully</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone-for-2024/"><u>[New] Best 10 YouTube Volume Boosters for Windows, macOS, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-essence-of-online-video-success-keywords-on-youtube/"><u>[New] The Essence of Online Video Success Keywords on YouTube</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-the-ultimate-encyclopedia-reacting-effectively-on-youtube-vids/"><u>[New] The Ultimate Encyclopedia Reacting Effectively on YouTube Vids</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-seamless-guide-projecting-your-android-devices-display-onto-a-mac/"><u>1. Seamless Guide: Projecting Your Android Device's Display Onto a Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-effective-ways-to-overcome-charging-hold-glitch-on-iphones/"><u>8 Effective Ways to Overcome 'Charging Hold' Glitch on iPhones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aumenta-la-qualita-del-tuo-video-con-winxvideo-ai-una-guida-completa/"><u>Aumenta La Qualità Del Tuo Video Con Winxvideo AI: Una Guida Completa</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-to-detecting-and-eliminating-viruses-on-roblox-a-three-part-solution/"><u>Comprehensive Guide to Detecting and Eliminating Viruses on Roblox - A Three-Part Solution!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-correcting-the-could-not-find-cwindowssystem32d3d9dll-error/"><u>Expert Tips: Correcting the 'Could Not Find c: Windows System32 d3d9.dll' Error</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlighting-progress-in-photo-shooting-algorithms-for-2024/"><u>Highlighting Progress in Photo Shooting Algorithms for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-windows-soundmax-device-drivers-easily-and-securely-step-by-step-tutorial/"><u>Installing Windows SoundMAX Device Drivers Easily and Securely – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/key-conditions-to-fulfill-before-launching-a-new-software-product/"><u>Key Conditions to Fulfill Before Launching a New Software Product</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/optimizing-user-experience-with-single-vs-multiple-pages/"><u>Optimizing User Experience with Single Vs. Multiple Pages</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quick-access-features-exploring-the-properties-view/"><u>Quick Access Features: Exploring the 'Properties' View</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-tricks-how-to-transform-your-f4v-files-into-mp4-format/"><u>Simple Tricks: How to Transform Your F4V Files Into MP4 Format</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-editing-and-altering-the-background-hue-of-your-pdfs-in-windows-using-free-or-premium-tools/"><u>Step-by-Step Guide: Editing and Altering the Background Hue of Your PDFs in Windows Using Free or Premium Tools</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-opening-and-changing-json-data-files/"><u>Step-by-Step Guide: Opening and Changing JSON Data Files</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-methods-for-transferring-vcf-contacts-seamlessly-onto-your-android-device/"><u>Top Methods for Transferring VCF Contacts Seamlessly Onto Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-tips-resolving-chrome-profiles-failures/"><u>Winning Tips: Resolving Chrome Profiles Failures</u></a></li>
 </ul></div>
 

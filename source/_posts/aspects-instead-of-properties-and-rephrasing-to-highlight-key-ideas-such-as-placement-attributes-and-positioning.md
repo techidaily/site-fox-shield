@@ -1,7 +1,7 @@
 ---
 title: Aspects Instead of Properties and Rephrasing to Highlight Key Ideas Such as Placement, Attributes, and Positioning.
-date: 2024-09-25T02:52:42.151Z
-updated: 2024-09-29T17:19:48.453Z
+date: 2024-09-30T21:22:48.844Z
+updated: 2024-10-05T18:01:17.447Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 This type of search will try to find the component you want, retrieve its Key Path (or Key Member) and interpret it as a file or a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### GUID
@@ -91,10 +91,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
  The searched component's Globally Unique Identifier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type
@@ -104,10 +104,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * ComponentId
@@ -116,10 +116,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -155,22 +155,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-cheats.techidaily.com/1-how-to-integrate-clickable-links-in-flipbook-designs-a-comprehensive-guide/"><u>1. How to Integrate Clickable Links in FlipBook Designs: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-exceptional-appraisal-and-other-choices/"><u>2024 Approved Exceptional Appraisal & Other Choices</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/access-all-of-mixergys-educational-videos-with-easy-mixergy-download-tool/"><u>Access All of Mixergy's Educational Videos with Easy Mixergy Download Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/deletion-dilemma-is-removing-pagefilesys-advisable/"><u>Deletion Dilemma: Is Removing Pagefile.sys Advisable?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-guide-on-converting-gameking-downloads-to-compatible-formats-like-mp4-and-avi-for-better-playback/"><u>Expert Guide on Converting GameKing Downloads to Compatible Formats Like MP4 and AVI for Better Playback</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-xcover-7-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy XCover 7 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-moto-g-stylus-2023-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Moto G Stylus (2023)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-craft-individual-humor-masterpieces-online/"><u>In 2024, Craft Individual Humor Masterpieces Online</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-pitch-modulation-techniques-in-free-fire/"><u>In 2024, Pitch Modulation Techniques in Free Fire</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/skills-for-photo-manipulation-mastery-for-2024/"><u>Skills for Photo Manipulation Mastery for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-sending-your-created-ebooks-via-email-on-flipbuilder/"><u>Step-by-Step Guide: Sending Your Created eBooks via Email on FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-creating-stunning-button-typography-with-flipoffice-pro-software/"><u>Step-by-Step Tutorial on Creating Stunning Button Typography with FlipOffice Pro Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/transferring-multimedia-files-between-pages-a-guide-using-flipbuilder/"><u>Transferring Multimedia Files Between Pages: A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/transform-your-pdf-files-into-engaging-flash-animations-with-flipbuilder-share-effortlessly/"><u>Transform Your PDF Files Into Engaging Flash Animations with FlipBuilder - Share Effortlessly!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-guide-to-creating-a-flip-image-library-with-flipbuilder/"><u>Ultimate Guide to Creating a Flip Image Library with FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/uploading-made-in-house-flipbooks-to-your-site-with-easy-steps-learn-from-flipbuilder-experts/"><u>Uploading Made-in-House Flipbooks to Your Site with Easy Steps - Learn From FlipBuilder Experts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-twitter-video-converters-to-upload-a-video-for-twitter/"><u>[New] Best Twitter Video Converters to Upload a Video for Twitter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-effective-ways-how-to-block-facebook-video-ads-for-2024/"><u>[New] Effective Ways | How to Block Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplifying-your-content-free-techniques-to-boost-youtube-views/"><u>[New] In 2024, Amplifying Your Content Free Techniques to Boost YouTube Views</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insta-photography-enhancement-hacks-for-professionals/"><u>[New] In 2024, Insta-Photography Enhancement Hacks for Professionals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-practices-when-integrating-chatgpt-into-your-freelance-workflow/"><u>Best Practices When Integrating ChatGPT Into Your Freelance Workflow</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/demystifying-gopro-video-capture-with-burst-mode/"><u>Demystifying GoPro Video Capture with Burst Mode</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-leading-5-mirroring-applications-in-2316llands-tech-scene/"><u>Discover the Leading 5 Mirroring Applications in 2#316;Lland's Tech Scene</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhancing-workflow-efficiency-through-powershells-attached-script-features/"><u>Enhancing Workflow Efficiency Through PowerShell's Attached Script Features</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-the-features-of-an-ixml-data-file-insights-and-best-practices/"><u>Exploring the Features of an iXML Data File: Insights and Best Practices</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/free-software-for-ipod-video-format-changeover-easy-mp4-video-download/"><u>Free Software for iPod Video Format Changeover - Easy MP4 Video Download</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-set-up-a-license-server-a-comprehensive-guide/"><u>How to Set Up a License Server: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-your-online-presence-discover-the-ultimate-live-broadcast-software-manycam-pro-features-guide/"><u>Master Your Online Presence: Discover the Ultimate Live Broadcast Software - ManyCam Pro Features Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/protect-your-microsoft-edge-experience-with-the-ultimate-list-of-malwarefoxs-premier-ad-blockers/"><u>Protect Your Microsoft Edge Experience with the Ultimate List of MalwareFox's Premier Ad Blockers!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-to-restore-missing-bluetooth-in-windows-10-devices/"><u>Quick Solutions to Restore Missing Bluetooth in Windows 10 Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-highlights-from-ces-2024-expert-insights-and-editor-favorites-zdnet-review/"><u>Top Highlights From CES 2024: Expert Insights and Editor Favorites - ZDNet Review</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-guide-to-resolving-iphone-airplay-problems-on-ios-12/"><u>Ultimate Guide to Resolving iPhone AirPlay Problems on iOS 12</u></a></li>
 </ul></div>
 

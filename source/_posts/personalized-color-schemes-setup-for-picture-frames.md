@@ -1,7 +1,7 @@
 ---
 title: Personalized Color Schemes Setup for Picture Frames
-date: 2024-09-27T20:46:11.498Z
-updated: 2024-09-30T03:11:21.351Z
+date: 2024-10-04T21:23:18.943Z
+updated: 2024-10-05T18:51:36.721Z
 tags:
   - user-guide
 categories:
@@ -85,25 +85,11 @@ Table of Contents
 
 Advanced color customization for the custom frame can be achieved using the following MSI properties: 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Frame Base Color property
 
 **AI\_CF\_FRAME\_BASE\_COLOR**
 
  The base color from which frame all colors are derived and used to generate the custom frame colors. It is encoded in HTML format #RRGGBB.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Minimize and Close buttons properties
 
@@ -115,11 +101,32 @@ The base color from which minimize button colors are derived. Color is encoded i
 
 The base color from which close button colors are derived. Color is encoded in HTML format #RRGGBB. If not specified, a default color will be used.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detailed customization
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If _FlatCaption_ is defined in [AI\_CF\_FRAME\_STYLE](https://tools.techidaily.com/advancedinstaller/products/), the detailed customization will be ignored and the caption will be drawn with the base color (no gradients).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If _FlatBorder_ is defined in [AI\_CF\_FRAME\_STYLE](https://tools.techidaily.com/advancedinstaller/products/), the detailed customization will be ignored and the border will be drawn with a single color derived from the base one.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **AI\_CF\_FRAME\_BASE\_INACTIVE\_COLOR**
 
@@ -225,19 +232,6 @@ Copy
 
 System buttons (min, close) border width (can be 1, 2 etc). If not set border width is 1 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI\_CF\_FRAME\_METRICS
 
  Custom frame metrics. Note: Used only if AI\_CF\_FRAME\_BASE\_COLOR is not empty. If empty, the custom frame metrics are set from custom frame images.
@@ -259,10 +253,10 @@ Copy
  Sizes are in pixels and 96 DPI. They are automatically scaled when loaded if DPI is not 96\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI\_CF\_FRAME\_STYLE
@@ -312,24 +306,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-best-practices-for-using-vimeo-in-instagram-shots-for-2024/"><u>[New] Best Practices for Using Vimeo in Instagram Shots for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-determining-top-video-player-vlcs-face-off-with-mx/"><u>[New] Determining Top Video Player VLC's Face-Off With MX</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-asmrs-influence-on-your-life/"><u>[Updated] Navigating ASMR’s Influence on Your Life</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-guide-cut-off-youtube-shorts-link/"><u>[Updated] Step-by-Step Guide Cut Off YouTube Shorts Link</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieve-epic-results-the-ultimate-guide-to-gopro-time-lapses-for-2024/"><u>Achieve Epic Results The Ultimate Guide to GoPro Time-Lapses for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-seamless-compatibility-download-logitech-g920-drivers-now-supports-windows-11-10-8-and-windows-7-platform/"><u>Ensure Seamless Compatibility: Download Logitech G920 Drivers Now - Supports Windows 11, 10, 8 and Windows 7 Platform</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-football-info-youtube-trend-infographics-for-2024/"><u>Essential Football Info YouTube Trend Infographics for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-brilliance-redefined-with-taotronics-latest-design-the-tt-dl16-lamp-reviewed/"><u>Experience Brilliance Redefined with TaoTronics' Latest Design - The TT-DL16 Lamp Reviewed!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/increase-visits-to-your-site-from-flipbooks-with-effective-lead-generation-techniques-flipbuildercom/"><u>Increase Visits to Your Site From Flipbooks with Effective Lead Generation Techniques [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/is-it-possible-to-hyperlink-text-within-publications-crafted-using-flipbuilders-platform/"><u>Is It Possible to Hyperlink Text Within Publications Crafted Using FlipBuilder's Platform?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/mastering-scene-creation-with-flipprograms-a-comprehensive-guide-to-features-and-constraints/"><u>Mastering Scene Creation with FlipPrograms: A Comprehensive Guide to Features and Constraints</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/maximize-page-quality-on-your-site-using-flipbuilder-techniques-expert-advice/"><u>Maximize Page Quality on Your Site Using FlipBuilder Techniques - Expert Advice!</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-a58-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A58 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/simple-steps-to-transform-your-pdf-into-stunning-flip-books-with-flipbuilder/"><u>Simple Steps to Transform Your PDF Into Stunning Flip Books with FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-for-embedding-company-logo-watermarks-on-flipbook-pages-using-flipbuilder/"><u>Step-by-Step Guide for Embedding Company Logo Watermarks on Flipbook Pages Using FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-rotating-multiple-photos-using-flipbuilder-tool/"><u>Step-by-Step Guide: Rotating Multiple Photos Using FlipBuilder Tool</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-sending-your-created-ebooks-via-email-on-flipbuilder/"><u>Step-by-Step Guide: Sending Your Created eBooks via Email on FlipBuilder</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-creating-stunning-button-typography-with-flipoffice-pro-software/"><u>Step-by-Step Tutorial on Creating Stunning Button Typography with FlipOffice Pro Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001315914-stop-paladins-from-crashing-once-and-for-all-proven-solutions-for-gamers-in-202ebuilders-how-to-resolve-crashing-issues-on-various-devices/"><u>Stop Paladins From Crashing Once & For All - Proven Solutions for Gamers in 202Ebuilders, How to Resolve Crashing Issues on Various Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/15-recommended-stop-motion-films-of-all-time/"><u>15 Recommended Stop Motion Films of All Time</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlined-converting-top-six-free-ios-apps-for-youtube-to-mp3/"><u>2024 Approved Streamlined Converting Top Six Free iOS Apps for YouTube-to-MP3</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726029193000-asf/"><u>ASFファイルの容易な処理と変換手順</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/best-2022-software-for-background-removal-in-mac-images-top-picks/"><u>Best 2022 Software for Background Removal in Mac Images: Top Picks</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/best-lock-screen-apps-for-windows-8-top-picks-and-feature-comparisons/"><u>Best Lock Screen Apps for Windows 8: Top Picks and Feature Comparisons</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/best-substitute-software-for-foxit-reader-and-pdf-modification-tools/"><u>Best Substitute Software for Foxit Reader & PDF Modification Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-travel-friendly-wifi-routers-to-enhance-your-journey/"><u>Best Travel-Friendly WiFi Routers to Enhance Your Journey</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/customize-your-experience-with-easy-steps-in-the-user-account-settings-section/"><u>Customize Your Experience with Easy Steps in the User Account Settings Section</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y55s-5g-2023-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y55s 5G (2023) Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mastering-data-integration-using-the-excel-connection-setup-prompt-effectively/"><u>Mastering Data Integration: Using the Excel Connection Setup Prompt Effectively</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/pinnacle-video-recovery-software-online/"><u>Pinnacle Video Recovery Software Online</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-screen-mirroring-connect-your-huawei-p50-with-a-computer/"><u>Step-by-Screen Mirroring: Connect Your Huawei P50 with a Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-instantly-update-or-download-canon-drivers-on-windows/"><u>Step-by-Step Tutorial: Instantly Update or Download Canon Drivers on Windows</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-rated-hd-recording-software-for-world-of-warcraft-a-comprehensive-guide/"><u>Top-Rated HD Recording Software for World of Warcraft: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-and-customizing-excels-edit-trigger-prompt-box/"><u>Understanding and Customizing Excel's Edit Trigger Prompt Box</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-10-cache-purge-tutorial-for-enhanced-performance/"><u>Windows 10 Cache Purge Tutorial for Enhanced Performance</u></a></li>
 </ul></div>
 

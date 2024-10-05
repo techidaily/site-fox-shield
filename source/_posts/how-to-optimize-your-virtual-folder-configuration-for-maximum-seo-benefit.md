@@ -1,7 +1,7 @@
 ---
 title: How to Optimize Your Virtual Folder Configuration for Maximum SEO Benefit
-date: 2024-09-28T09:35:54.594Z
-updated: 2024-09-29T17:48:21.755Z
+date: 2024-10-01T19:14:27.782Z
+updated: 2024-10-05T18:48:12.253Z
 tags:
   - user-guide
 categories:
@@ -99,19 +99,6 @@ This view allows you to properly install and [configure a Virtual Directory](htt
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is redundant to add a virtual directory to a web site if the virtual directory's physical location is a sub-folder of the web site root.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General
 
 ### Name
@@ -130,24 +117,24 @@ You can set a condition for the installation of this virtual directory. The cond
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Use the following _recommended condition_ so that virtual directories can get removed or installed during maintenance depending on how the user sets their feature states:
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 (!VirtualDirectoryFeature = 3 AND &VirtualDirectoryFeature <> 2) OR (&VirtualDirectoryFeature = 3)
 
 Copy
 
 Where VirtualDirectoryFeature is the[identifier](https://tools.techidaily.com/advancedinstaller/products/) of the feature containing the virtual directory's resources.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Web Application
 
@@ -156,10 +143,16 @@ Where VirtualDirectoryFeature is the[identifier](https://tools.techidaily.com/ad
 If the virtual directory added has dynamic content (scripts) it needs an associated web application.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enable pre-loading
@@ -176,14 +169,14 @@ Depending on the type of dynamic web application installed on this virtual direc
 * Medium - Pooled Web Application.(Default)
 * High - Isolated Web Application. (mission-critical applications that should be run outside of both core IIS and pooled processes)
 
-## Error Policy
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Error Policy
 
 ### Action if duplicate
 
@@ -195,6 +188,13 @@ Select the IIS configuration tool's desired behavior when a duplicate Virtual Di
 * **Prompt user to overwrite item or rollback installation** \- when a duplicate Virtual Directory is found the user will be prompted to choose whether to continue the installation **overwriting** that item or to abort.
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The **overwrite** operation cannot be undone by_uninstall_ or _rollback_ !
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -229,19 +229,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>[New] 'VidVault' Screen Recording Review for 2Efficiency Seekers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-and-its-pitfalls-discovering-6-important-concerns-to-consider/"><u>Artificial Intelligence and Its Pitfalls - Discovering 6 Important Concerns to Consider</u></a></li>
-<li><a href="https://win11.techidaily.com/designed-with-the-educator-in-mind-asus-s15-review-revealed/"><u>Designed with the Educator in Mind: ASUS S15 Review Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-setup-instructions-for-linking-bluetooth-audio-devices-to-computers/"><u>Easy Setup Instructions for Linking Bluetooth Audio Devices to Computers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/entendiendo-el-fenomeno-del-tiempo-lapsado-y-sus-diferentes-metodos-para-crearlo/"><u>Entendiendo El Fenómeno Del Tiempo Lapsado Y Sus Diferentes Métodos Para Crearlo</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/free-full-stack-development-with-vue-and-laravel-comprehensive-ui-dashboard-kit-created-by-creative-tim/"><u>Free Full-Stack Development with Vue and Laravel - Comprehensive UI Dashboard Kit | Created by Creative Tim</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-moto-g84-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Moto G84 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-tailor-made-video-cuts-macs-top-mp4-slicers-revealed/"><u>In 2024, Tailor-Made Video Cuts Mac's Top MP4 Slicers Revealed</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/over-43-unique-bootstrap-components-in-creative-tims-web-ui-toolkit/"><u>Over 43 Unique Bootstrap Components in Creative Tim's Web UI Toolkit</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/premium-flutter-app-blueprint-with-argon-pro-theme-by-creative-tim-ultimate-solution-for-iosandroid-development/"><u>Premium Flutter App Blueprint with Argon Pro Theme by Creative Tim: Ultimate Solution for iOS/Android Development</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/pro-level-efficiency-with-get-shtdone-pro-top-pick-premium-bootstrap-themes-by-creative-tim/"><u>Pro-Level Efficiency with Get Sh!tDone PRO: Top Pick Premium Bootstrap Themes by Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-pro-react-mui-soft-interface-premium-dashboard/"><u>Professional Pro-React MUI Soft Interface Premium Dashboard</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/eling-revenue-how-much-do-creators-make-on-youtube-adverts-for-2024/"><u>Unraveling Revenue How Much Do Creators Make on Youtube Adverts for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-practices-in-digital-media-capturing/"><u>[Updated] 2024 Approved Best Practices in Digital Media Capturing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-best-practices-for-sensational-video-loops/"><u>2024 Approved Instagram's Best Practices for Sensational Video Loops</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-strategies-for-handling-edit-conflict-resolutions/"><u>Effective Strategies for Handling Edit Conflict Resolutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effortlessly-shift-snapshots-android-to-mac-integration-guide/"><u>Effortlessly Shift Snapshots: Android to Mac Integration Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-tips-for-dealing-with-youtube-copyright-notifications/"><u>In 2024, Expert Tips for Dealing With YouTube Copyright Notifications</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-fiasco-getting-back-to-social-networking/"><u>In 2024, Facebook Fiasco? Getting Back to Social Networking</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/salvaging-previously-inaccessible-movies/"><u>Salvaging Previously Inaccessible Movies</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/the-top-10-leading-twitch-broadcast-tools-ranked-and-reviewed/"><u>The Top 10 Leading Twitch Broadcast Tools - Ranked and Reviewed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-world-of-vtubers-entry-point-and-career-scope-explored/"><u>The World of Vtubers Entry Point & Career Scope Explored</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-guide-how-to-effortlessly-burn-a-cd-using-windows/"><u>Ultimate Guide: How to Effortlessly Burn a CD Using Windows</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unlocking-idefault-program-features-expert-tips-and-seo-strategies-for-maximum-efficiency/"><u>Unlocking iDefault Program Features: Expert Tips & SEO Strategies for Maximum Efficiency</u></a></li>
 </ul></div>
 

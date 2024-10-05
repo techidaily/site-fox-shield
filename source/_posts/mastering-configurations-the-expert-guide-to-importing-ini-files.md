@@ -1,7 +1,7 @@
 ---
 title: "Mastering Configurations: The Expert Guide to Importing INI Files"
-date: 2024-09-24T08:13:29.079Z
-updated: 2024-09-30T04:47:40.181Z
+date: 2024-10-01T20:40:16.221Z
+updated: 2024-10-05T22:15:07.226Z
 tags:
   - user-guide
 categories:
@@ -92,16 +92,10 @@ The **Add INI files** dialog is used to import one or multiple INI files to your
 ![Import ini](https://cdn.advancedinstaller.com/img/dialog/import-ini.png "Import ini")  
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## INI Files
@@ -109,10 +103,10 @@ The **Add INI files** dialog is used to import one or multiple INI files to your
 Choose what INI files you want to import by using the**Add** and **Remove** buttons. Multiple files can be selected for both operations. If multiple files are added, they are merged into a single INI file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Files Content
@@ -124,10 +118,10 @@ Displays the content of the INI files you added in the INI files section. The fi
 **Keep formatted references** \- Enable/disable the ability to escape formatted references.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Component
@@ -169,16 +163,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-vimeo-video-editing-top-5-techniques-for-cuts-and-trimming/"><u>[New] 2024 Approved Mastering Vimeo Video Editing Top 5 Techniques for Cuts & Trimming</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/xcellent-video-and-picture-capture-for-iphones-and-androids-here-for-2024/"><u>[New] Excellent Video & Picture Capture for iPhones & Androids Here for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-innovative-approaches-to-online-collaboration-4/"><u>[Updated] 2024 Approved Innovative Approaches to Online Collaboration (#4)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-witness-humor-with-hearts-on-instagram-top-10-memes-to-admire/"><u>[Updated] In 2024, Witness Humor with Hearts on Instagram Top 10 Memes to Admire</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-next-level-creativity-celebrating-top-6-nft-innovators/"><u>2024 Approved Next-Level Creativity Celebrating Top 6 NFT Innovators</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/backup-your-customized-book-creation-preferences-in-flipbuilder-a-step-by-step-guide/"><u>Backup Your Customized Book Creation Preferences in FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banishing-the-abrupt-termination-of-wow-error-132-on-win11/"><u>Banishing The Abrupt Termination of WoW (Error 132) on Win11</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/can-you-incorporate-js-scripts-into-your-digital-books-created-with-flipbuilder/"><u>Can You Incorporate JS Scripts Into Your Digital Books Created with FlipBuilder?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-to-using-flippdf-on-macos-unlocking-your-documents-potential/"><u>Comprehensive Guide to Using FlipPDF on macOS: Unlocking Your Document's Potential</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effective-techniques-for-organizing-and-tagging-office-documents-with-flipbuilder/"><u>Effective Techniques for Organizing and Tagging Office Documents with FlipBuilder</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-downloading-and-updating-of-hid-keyboard-drivers-get-started-now/"><u>Effortless Downloading & Updating of HID Keyboard Drivers - Get Started Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas/"><u>[Updated] The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-your-youtube-earnings-adsense-payments-per-thousand-viewer/"><u>2024 Approved Understanding Your Youtube Earnings AdSense Payments per Thousand Viewer</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/converting-video-file-formats-from-mpeg-to-crisp-mp3-soundtracks/"><u>Converting Video File Formats: From MPEG to Crisp MP3 Soundtracks</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-techniques-for-transforming-webm-files-into-compatible-avi-video-files/"><u>Easy Techniques for Transforming WebM Files Into Compatible AVI Video Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effective-strategies-for-mastering-slug-line-formats/"><u>Effective Strategies for Mastering Slug Line Formats</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/expertise-in-action-top-tier-professional-i-services-at-your-fingertips/"><u>Expertise in Action: Top-Tier Professional I Services at Your Fingertips</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-setup-the-json-import-functionality-in-your-applications-settings/"><u>How to Setup the JSON Import Functionality in Your Application's Settings</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-note-50-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme Note 50</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-arrival-insights-free-of-charge-cutting-edge-functions-and-fresh-developments-unveiled/"><u>IOS 18 Arrival Insights: Free of Charge, Cutting-Edge Functions, and Fresh Developments Unveiled</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quick-guide-to-seamlessly-download-4k-content-without-hitches/"><u>Quick Guide to Seamlessly Download 4K Content Without Hitches</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quick-guide-top-techniques-for-capturing-a-quicktime-screen-shot/"><u>Quick Guide: Top Techniques for Capturing a QuickTime Screen Shot</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-to-switch-from-android-contacts-to-iphone-effortlessly/"><u>Simple Steps to Switch From Android Contacts to iPhone Effortlessly</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-deleting-your-itunes-backup-files-on-pc-or-mac/"><u>Step-by-Step Guide: Deleting Your iTunes Backup Files on PC or Mac</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-8-3d-websites-with-stunning-gold-text-visuals-for-2024/"><u>Top 8 3D Websites with Stunning Gold Text Visuals for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-translation-component-library-for-enhanced-it-projects/"><u>Top Translation Component Library for Enhanced IT Projects</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-guide-top-ranking-photo-techniques-for-e-commerce-in-2n23/"><u>Ultimate Guide: Top-Ranking Photo Techniques for E-Commerce in 2N23</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-more-potential-with-chatgpt-desktop-a-look-at-its-enhanced-capabilities-compared-to-web-version/"><u>Unlocking More Potential with ChatGPT Desktop: A Look at Its Enhanced Capabilities Compared to Web Version</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding JSON Data Format and File Handling
-date: 2024-09-27T21:19:03.718Z
-updated: 2024-09-30T08:09:30.445Z
+date: 2024-09-30T19:18:26.307Z
+updated: 2024-10-05T19:22:00.312Z
 tags:
   - user-guide
 categories:
@@ -101,16 +101,10 @@ The JSON File functionality allows you to achieve the following installation tas
 The JSON file support can be used for configuring JSON files that are part of the installation package or that are already present on the target system. This feature is very useful if you are deploying an application which requires user specific information, like username or password. The information must be collected during install and must be store in the same JSON file installed by the package. Another case scenario is when an application is upgraded and one or more JSON files must be updated as well, without the need to delete and copy their newer version.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Update files that are part of the installation package
@@ -123,16 +117,16 @@ In this case the JSON file is present on the target machine. Simply add the JSON
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When the JSON Files are used to configure a file from the installation package, use the "New JSON File" option to create a new JSON update with the same name and installation directory.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating new JSON Files
 
 ![New JSON File](https://cdn.advancedinstaller.com/img/toolbar/json-new.png "New JSON File")Use the \[New JSON File \] toolbar button or the “New JSON File” tree/list context menu item.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Editing an existing JSON File
 
@@ -141,17 +135,17 @@ In this case the JSON file is present on the target machine. Simply add the JSON
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)JSON files can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -192,17 +186,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-free-facebook-linker-top-8-options-available-online-for-2024/"><u>[New] Free Facebook Linker Top 8 Options Available Online for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/access-all-of-mixergys-educational-videos-with-easy-mixergy-download-tool/"><u>Access All of Mixergy's Educational Videos with Easy Mixergy Download Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/compatible-tablet-apps-winning-selections-on-windows/"><u>Compatible Tablet Apps: Winning Selections on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-a-dead-microphone-on-your-steelseries-arctis-99x-headset-success-stories-and-tips/"><u>DIY Fixes for a Dead Microphone on Your SteelSeries Arctis 9/9X Headset - Success Stories and Tips</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-guide-on-converting-gameking-downloads-to-compatible-formats-like-mp4-and-avi-for-better-playback/"><u>Expert Guide on Converting GameKing Downloads to Compatible Formats Like MP4 and AVI for Better Playback</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/get-your-game-review-fix-quick-link-to-download-metacritics-video-assessments-and-trailers-for-popular-titles/"><u>Get Your Game Review Fix - Quick Link to Download Metacritic's Video Assessments and Trailers for Popular Titles</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-transform-your-favorite-tunein-broadcasts-into-downloaded-tracks-in-multiple-audio-file-types/"><u>How to Transform Your Favorite TuneIn Broadcasts Into Downloaded Tracks in Multiple Audio File Types</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-reno-8t-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Reno 8T Phone? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y100i-power-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y100i Power 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quickly-integrate-hdvision-530-update/"><u>Quickly Integrate HDVision 530 Update</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-seamlessly-integrate-chatgpt-into-your-linux-system/"><u>Ultimate Guide: Seamlessly Integrate ChatGPT Into Your Linux System</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/uploading-made-in-house-flipbooks-to-your-site-with-easy-steps-learn-from-flipbuilder-experts/"><u>Uploading Made-in-House Flipbooks to Your Site with Easy Steps - Learn From FlipBuilder Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unraveling-the-best-mac-mp4-software-a-comprehensive-guide/"><u>[New] Unraveling the Best Mac MP4 Software A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimal-conclusion-to-vr-journeys/"><u>[Updated] Optimal Conclusion to VR Journeys</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-10-best-free-video-conferencing-tools-for-business-and-education/"><u>2024 Approved 10 Best Free Video Conferencing Tools for Business and Education</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-steps-for-editing-attributes-in-xml-interactive-dialog-tutorial/"><u>Easy Steps for Editing Attributes in XML - Interactive Dialog Tutorial</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/find-your-ideal-registry-service-the-ultimate-locator-guide/"><u>Find Your Ideal Registry Service: The Ultimate Locator Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-download-music-from-jango-player-as-high-quality-mp3-tracks-a-step-by-step-guide/"><u>How to Download Music From Jango Player as High-Quality MP3 Tracks: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-effortlessly-stream-your-iphone-screen-to-any-television-without-an-apple-tv/"><u>How to Effortlessly Stream Your iPhone Screen to Any Television Without an Apple TV</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-12-pro-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 12 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-videos-to-viral-guide-for-computer-and-phone-upload-of-youtube-shorts/"><u>In 2024, Videos to Viral Guide for Computer & Phone Upload of YouTube Shorts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quick-and-easy-methods-for-offline-free-mkv-to-mp4-file-conversion/"><u>Quick & Easy Methods for Offline-Free MKV to MP4 File Conversion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revealing-hidden-aspects-in-minecraft/"><u>Revealing Hidden Aspects in Minecraft</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-htc-u23-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For HTC U23 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unveiling-the-methods-of-malware-propagation-through-spam-a-deep-dive/"><u>Unveiling the Methods of Malware Propagation Through Spam: A Deep Dive</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/verifying-database-connectivity-sql-server-connection-tutorials/"><u>Verifying Database Connectivity: SQL Server Connection Tutorials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vida-a-comprehensive-look-at-our-editing-tool/"><u>Vida A Comprehensive Look at Our Editing Tool</u></a></li>
 </ul></div>
 

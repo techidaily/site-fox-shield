@@ -1,7 +1,7 @@
 ---
 title: Key Features and Attributes in Driver Selection
-date: 2024-09-23T07:51:19.387Z
-updated: 2024-09-30T12:15:41.351Z
+date: 2024-10-02T20:50:56.670Z
+updated: 2024-10-05T19:22:49.910Z
 tags:
   - user-guide
 categories:
@@ -78,43 +78,37 @@ Table of Contents
 ![Driver properties](https://cdn.advancedinstaller.com/img/ui/driver-properties.png "Driver properties")  
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Driver Name
 
  The name displayed in the available drivers list on the target machine (in ODBC Data Source Administrator). This name must be unique and it will also be displayed in the “Drivers” tree folder. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### File
 
  The path to the driver file. This file must be already included in your project. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setup File
 
  The DLL file that installs the above driver on the target machine. The setup file may be absent and in this case it is considered that the DLL driver file embeds the functionality of a driver setup file as well. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Attributes
 
@@ -127,10 +121,10 @@ Table of Contents
 In the [Edit Attribute Dialog](https://tools.techidaily.com/advancedinstaller/products/) you can modify the attribute name and value.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -171,18 +165,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-leading-free-software-for-quality-desktop-recording/"><u>[New] 2024 Approved The Leading Free Software for Quality Desktop Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-secrets-to-proficient-mobile-and-desktop-film-recording/"><u>[Updated] 2024 Approved Secrets to Proficient Mobile and Desktop Film Recording</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-supreme-boundless-data-depot/"><u>[Updated] Supreme Boundless Data Depot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-benefits-against-risks-of-chatgpt/"><u>Balancing Benefits Against Risks of ChatGPT</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/discover-top-tier-full-stack-javascript-solutions-explore-3-elegant-nodejs-premium-themes-and-templates-from-creative-tim/"><u>Discover Top-Tier Full-Stack JavaScript Solutions: Explore 3 Elegant NodeJS Premium Themes & Templates From Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhanced-django-admin-experience-using-softui-and-bootstrap-nix-a-creatively-timed-solution/"><u>Enhanced Django Admin Experience Using SoftUI and Bootstrap Nix | A Creatively Timed Solution</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhanced-nuxt-admin-experience-for-developers-next-level-security-pro-addons-and-larval-compatibility/"><u>Enhanced Nuxt Admin Experience for Developers: Next Level Security, Pro Addons, and Larval Compatibility</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exclusive-selection-of-premier-svelte-designs-by-creative-tim-unveiled/"><u>Exclusive Selection of Premier Svelte Designs by Creative Tim Unveiled</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/free-full-stack-development-with-vue-and-laravel-comprehensive-ui-dashboard-kit-created-by-creative-tim/"><u>Free Full-Stack Development with Vue and Laravel - Comprehensive UI Dashboard Kit | Created by Creative Tim</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-7-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 7 Passcode without a Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/next-gen-powerhouse-amds-flagship-zen-5-processor-dominates-rendering-tests-outshining-ryzen-9-7950x-by-24/"><u>Next-Gen Powerhouse: AMD’s Flagship Zen 5 Processor Dominates Rendering Tests, Outshining Ryzen 9 7950X by 24%</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/over-43-unique-bootstrap-components-in-creative-tims-web-ui-toolkit/"><u>Over 43 Unique Bootstrap Components in Creative Tim's Web UI Toolkit</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-win-7-setup-new-gaming-mouse-driver-installed/"><u>Update Your Win 7 Setup: New Gaming Mouse Driver Installed</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-seamless-computer-based-tiktok-live-broadcast-setup/"><u>[New] Seamless Computer-Based TikTok LIVE Broadcast Setup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-top-5-instagram-strategies-for-aspiring-influencers-real-success-stories/"><u>[New] Top 5 Instagram Strategies for Aspiring Influencers Real Success Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-essentials-of-capturing-free-visual-display-vids/"><u>[Updated] 2024 Approved Essentials of Capturing Free Visual Display Vids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-video-tools-working-across-systems-seamlessly/"><u>[Updated] Free VIDEO Tools Working Across Systems Seamlessly</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-seamless-guide-projecting-your-android-devices-display-onto-a-mac/"><u>1. Seamless Guide: Projecting Your Android Device's Display Onto a Mac</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/complete-guide-uninstalling-webdiscover-browser-due-to-security-concerns-expert-tips/"><u>Complete Guide: Uninstalling WebDiscover Browser Due to Security Concerns – Expert Tips</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-to-detecting-and-eliminating-viruses-on-roblox-a-three-part-solution/"><u>Comprehensive Guide to Detecting and Eliminating Viruses on Roblox - A Three-Part Solution!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-infinites-black-screen-troubleshooting-solutions-revealed/"><u>Halo Infinite's Black Screen Troubleshooting - Solutions Revealed!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/key-conditions-to-fulfill-before-launching-a-new-software-product/"><u>Key Conditions to Fulfill Before Launching a New Software Product</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-english-a-collection-of-9-key-grammar-techniques/"><u>Mastering English: A Collection of 9 Key Grammar Techniques</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/optimizing-user-experience-with-single-vs-multiple-pages/"><u>Optimizing User Experience with Single Vs. Multiple Pages</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/personalized-color-schemes-setup-for-picture-frames/"><u>Personalized Color Schemes Setup for Picture Frames</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-methods-for-transferring-vcf-contacts-seamlessly-onto-your-android-device/"><u>Top Methods for Transferring VCF Contacts Seamlessly Onto Your Android Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-walkthrough-for-burning-dvd-content-directly-to-your-portable-usb-device-windowsmac/"><u>Ultimate Walkthrough for Burning DVD Content Directly to Your Portable USB Device (Windows/Mac)</u></a></li>
 </ul></div>
 
