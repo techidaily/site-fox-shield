@@ -1,7 +1,7 @@
 ---
 title: Recognizing and Guarding Against Fraudulent Technical Aid Schemes
-date: 2024-09-28T16:16:05.935Z
-updated: 2024-10-05T16:47:42.927Z
+date: 2024-10-05T23:40:27.191Z
+updated: 2024-10-11T00:17:40.077Z
 tags:
   - product
   - antivirus
@@ -64,9 +64,23 @@ Basically, your phone rings, and when you answer, there will be someone who pret
 
 They might suggest several ways of helping you deal with a threat, all of them extremely suspicious. However, we’ll talk more about that later. For now, let me explain the second type of scam, one that begins with an Ad popup, or Fake Warning.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ad Pop-Up / Fake Warning
 
 ![](https://malwarefox.com/wp-content/uploads/2017/05/ads.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This is a type of scam that starts after you’ve visited a website that’s designed to throw out a pop-up with a [virus warning](http://www.businessknowhow.com/security/scareware.htm) as soon as someone enters it. Pretty much everyone has run into one of those websites at one point.
 
@@ -75,6 +89,13 @@ If you remember doing so, then you know that the alleged ‘warning’ that popp
 This type of scam is almost absurd when you think about it, but it still works since it looks official. The main function of these scams is to scare people. Once the victim is scared for their safety and privacy, they’re more likely to do anything that the scammer requests.
 
 [What is FastSupport Scam and How to Protect Yourself?](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Screen Lockers
 
@@ -85,10 +106,10 @@ Basically, they try to infect your system with malware that would lock you out o
 ![](https://malwarefox.com/wp-content/uploads/2017/06/desktop-computer-locked-screen.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 So, they would infect your computer with malware that would display BSOD, and you wouldn’t know what to do. There would be a phone number displayed that you should use to call for help, and when you do, you’re directly connected to the person responsible for the issue. They won’t tell you that, however. Instead, they will try to trick you and steal your money or get access to your device. But more on that later.
@@ -98,6 +119,13 @@ So, they would infect your computer with malware that would display BSOD, and yo
 ### Numbers on Web Spam
 
 ![](https://malwarefox.com/wp-content/uploads/2017/06/forgot_Password.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Finally, we have phone numbers that victims may find on web spam. Let’s say that you can’t get into your email for some reason.
 
@@ -118,13 +146,6 @@ The scammers will try to do pretty much the same thing, whether you’re the one
 In fact, they often claim that they are the _only_ ones who can help. They’ll try to convince you that every other service would take a lot of your money in exchange for the fix, while the scammer would give you an immediate refund.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/06/warning.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you didn’t hang up at this point, they’ll try to get you to download some software that can be found online. Most of the time, these are programs that allow one person to connect with the other person’s computer remotely.
 
@@ -147,10 +168,10 @@ There have been many [stories of scams](http://www.makeuseof.com/tag/readers-win
 ![](https://malwarefox.com/wp-content/uploads/2017/06/checked.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Reasoning with these people is pointless, and the best course of action is to simply hang up immediately. As soon as you realize that you’re not talking to an actual tech support worker, just hang up the phone, and don’t ever call back.
@@ -158,10 +179,10 @@ Reasoning with these people is pointless, and the best course of action is to si
 Remember that these people are scammers and not hackers, and they might get angry and violent if they feel that you’re wasting their time. However, there’s not much that they can do besides call you on your phone several times. If you don’t pick up, or if you block their number, there’s nothing more that they can do to you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How can they Earn Money from you?
@@ -186,6 +207,13 @@ When it comes to identifying the scams, there are many different clues that you�
 
 ![](https://malwarefox.com/wp-content/uploads/2017/06/eye-mask.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For example, the first clue is that they call you. This would never happen when it comes to real tech support services. The harsh truth is that Microsoft won’t waste their time and resources by calling you and offering to fix your computer.
 
 The next thing that you should watch out for is the way they talk. They’ll be polite and helpful at first, ready to explain whatever nonsense they’re trying to sell, but that’s not what I’m talking about. The literal _way_ they talk is the biggest clue here.
@@ -197,13 +225,6 @@ Next clue is what they are telling you. They will claim that your computer is se
 Also, remember when I mentioned the different online tools that they might ask you to download? Some may be used for controlling your computer remotely, others might even have malware attached to them. They often claim that the tool in question might fix your problem.
 
 The fact is, it’ll sooner create one, and a much bigger one, than fix the one that you (don’t) have
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Protect yourself from Tech Support Scams?
 
@@ -217,23 +238,9 @@ If you notice a phone number next to the report that mentioned a virus, malware,
 
 Your alternatives include contacting the local government scam reporting department. If you’re in the US, you should use the [FTC Complaint Assistant Form](https://www.ftccomplaintassistant.gov/#crnt&panel1-1). Those who live in Canada can find support at [Canadian Anti-Fraud Centre](http://www.antifraudcentre-centreantifraude.ca/). For the UK, you can [report fraud here](http://www.actionfraud.police.uk/) and [unsolicited calls here](http://www.tpsonline.org.uk/tps/index.html). And Australians can use a website called [ScamWatch](https://www.scamwatch.gov.au/report-a-scam) to report such issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What to do if you’ve already Paid the Scammers?
 
 ![](https://malwarefox.com/wp-content/uploads/2017/06/credit-card.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you’ve already paid the scammers, there are still options left, but not that many. You should immediately call your credit card provider, explain the situation and try to reverse the charges.
 
@@ -246,13 +253,6 @@ You should uninstall and turn off anything that you’ve downloaded or enabled w
 Dangers on the internet are many, but they don’t always come from the internet directly. Despite viruses and malware being the worst enemy of an internet user, you must remember that they are still just tools. The real bad guys are those who send them in the first place – other people.
 
 Those skilled in the art of hacking will try to remain in the shadows and let their malware do their dirty work. Others that are less capable will try to scam you. It’s as simple as that. Both parties would try to trick you, and most probably rob you if you let them. That’s why it’s important to know all that you now know and to be able to recognize these threats as soon as possible.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -279,21 +279,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-short-track-speed-skating-olympics-2022-highlights/"><u>[New] Short Track Speed Skating Olympics 2022 Highlights</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-behind-the-scenes-of-gamers-elite-setup/"><u>[Updated] Behind the Scenes of Gamers' Elite Setup</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-first-offset-guide-affordable-channel-buys-to-monetize/"><u>[Updated] First Offset Guide Affordable Channel Buys to Monetize</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-save-money-save-time-the-best-22-audio-crackers-for-youtube-downloads/"><u>[Updated] Save Money, Save Time The Best 22 Audio Crackers for YouTube Downloads</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/adjusting-application-boot-parameters-through-the-setup-preferences-pane/"><u>Adjusting Application Boot Parameters Through the Setup Preferences Pane</u></a></li>
-<li><a href="https://video-capture.techidaily.com/discover-the-best-platforms-offering-access-to-censorship-free-original-anime-series/"><u>Discover the Best Platforms Offering Access to Censorship-Free Original Anime Series</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/easy-collaborative-folder-management-with-shared-access-feature/"><u>Easy Collaborative Folder Management with Shared Access Feature</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-the-world-of-microsofts-activex-technologies-dive-into-complus-fundamentals/"><u>Exploring the World of Microsoft's ActiveX Technologies - Dive Into COM+ Fundamentals</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-save-iphone-calls-on-mac-or-windows-pc/"><u>How to Save iPhone Calls on Mac or Windows PC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-streamline-your-internet-use-with-these-5-chromium-addons-for-vids/"><u>In 2024, Streamline Your Internet Use With These 5 Chromium Addons for Vids</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/leading-mobilerobo-options-explore-the-finest-similar-apps-for-your-smartphone/"><u>Leading MobileRobo Options: Explore the Finest Similar Apps for Your Smartphone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/quickres-speedy-format-factory-substitute-for-windows-and-mac-users/"><u>QuickRes: Speedy Format Factory Substitute for Windows & Mac Users</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/say-goodbye-to-annoying-pop-ups-a-guide-to-using-malwarefox-on-samsung-phones-and-tablets/"><u>Say Goodbye to Annoying Pop-Ups: A Guide to Using MalwareFox on Samsung Phones and Tablets</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-moto-g-5g-2023-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unveiling-the-tricks-for-flawless-file-imports-on-windows-10-for-2024/"><u>[New] Unveiling the Tricks for Flawless File Imports on Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-navigate-the-looping-world-with-our-yt-video-playback-hacks/"><u>[Updated] 2024 Approved Navigate the Looping World with Our YT Video Playback Hacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-unlocked-converting-text-formats-to-voice-ready-srt/"><u>[Updated] Expertise Unlocked Converting Text Formats to Voice-Ready SRT</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/downloadable-mp4mp3-converter-app-seamlessly-change-video-files-into-music-format/"><u>Downloadable MP4/MP3 Converter App - Seamlessly Change Video Files Into Music Format</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-different-java-application-design-patterns/"><u>Exploring Different Java Application Design Patterns</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-stardew-value-maximized-top-7-customization-excellence/"><u>In 2024, Stardew Value Maximized Top 7 Customization Excellence</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/key-features-and-attributes-in-driver-selection/"><u>Key Features and Attributes in Driver Selection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/melodic-memory-bank-save-and-analyze-music-files-for-2024/"><u>Melodic Memory Bank Save & Analyze Music Files for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/no-cost-pc-microphone-software-capture-sound-on-any-windows-os/"><u>No-Cost PC Microphone Software - Capture Sound on Any Windows OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/phones-at-odds-dissecting-iphone-x-vs-galaxy-face-recognition/"><u>Phones at Odds Dissecting iPhone X Vs. Galaxy Face Recognition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformer-un-fichier-swf-en-format-3gp-gratuitement-avec-movavi-online/"><u>Transformer Un Fichier SWF en Format ^3GP Gratuitement Avec Movavi Online</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-virtual-identity-studio-top-free-online-face-creation-tools/"><u>Updated In 2024, Virtual Identity Studio Top Free Online Face Creation Tools</u></a></li>
 </ul></div>
 

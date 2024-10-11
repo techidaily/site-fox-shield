@@ -1,7 +1,7 @@
 ---
 title: Explore Our Diverse Range of Services
-date: 2024-10-03T19:58:47.255Z
-updated: 2024-10-05T21:37:46.616Z
+date: 2024-10-09T03:53:28.656Z
+updated: 2024-10-11T04:25:11.849Z
 tags:
   - user-guide
 categories:
@@ -92,29 +92,43 @@ In the left-side pane you can see a tree with four branches:
 
 In the right-side pane you can see the [properties of a service](https://tools.techidaily.com/advancedinstaller/products/) (if a service is selected in the left-side pane) or the parameters of a control operation (if a control operation is selected in the left-side pane).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding a service to install
 
 ![New Service](https://cdn.advancedinstaller.com/img/toolbar/service-new.png "New Service") Use the \[New Service... \] toolbar button, the “New Service Installation...” context menu item or press the Insert key while the “Install and Control” panel is focused. The [File Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear and you can select the file containing the service. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To install a .NET service you must use a [.NET Installer Class action](https://tools.techidaily.com/advancedinstaller/products/) predefined custom action.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a service control operation
 
 ![New Service Control Operation](https://cdn.advancedinstaller.com/img/toolbar/service-control-new.png "New Service Control Operation") Use the \[New Operation... \] toolbar button, the “New Control Operation...” context menu item or press the+ key while the “Install and Control” panel is focused. This will add a service control operation with default parameters. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding a service configure operation
 
@@ -124,21 +138,7 @@ In the right-side pane you can see the [properties of a service](https://tools.t
 
 ![New Service Failure Operation](https://cdn.advancedinstaller.com/img/toolbar/service-failure-new.png "New Service Failure Operation") Use the \[New Failure Operation \] toolbar button, the “New Failure Operation...” context menu item. This will add a service failure operation with default parameters.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Configure and failure operations requires **Windows Installer 5.0** and they will have no effect on systems which have Windows Installer 4.5 or earlier.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Locating the attached component for a service or a control operation
 
@@ -149,10 +149,10 @@ In the right-side pane you can see the [properties of a service](https://tools.t
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while the element is selected. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -199,16 +199,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-consciousness-proven-techniques-for-documenting-virtual-play-for-2024/"><u>[Updated] Capturing Consciousness Proven Techniques for Documenting Virtual Play for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminate-your-images-adding-life-with-illustrator-motion/"><u>2024 Approved Illuminate Your Images Adding Life with Illustrator Motion</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/app-upgrade-now-update-your-target-application-today/"><u>App Upgrade Now - Update Your Target Application Today</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhancing-iis-functionality-with-powerful-isapi-filters-explained/"><u>Enhancing IIS Functionality with Powerful ISAPI Filters Explained</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhancing-workflow-efficiency-through-powershells-attached-script-features/"><u>Enhancing Workflow Efficiency Through PowerShell's Attached Script Features</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-tips-and-techniques-for-flawless-google-voice-call-recording-setup/"><u>Expert Tips and Techniques for Flawless Google Voice Call Recording Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-steer-clear-of-common-blunders-when-using-chatgpt-for-generating-articles/"><u>How to Steer Clear of Common Blunders When Using ChatGPT for Generating Articles</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-steps-in-using-streamlabs-obs-successfully/"><u>In 2024, Essential Steps in Using Streamlabs OBS Successfully</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-play-8t-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Play 8T? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-x50-gt-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor X50 GT</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unraveling-file-characteristics-a-deep-dive-into-the-multiple-files-properties-tab/"><u>Unraveling File Characteristics: A Deep Dive Into the Multiple Files Properties Tab</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-tech-trial-vlle-outlook-on-apps/"><u>[New] 2024 Approved Tech Trial VLLE Outlook on Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bridging-the-gap-between-spoken-words-and-text-on-slides-powerpoint-guide/"><u>[New] Bridging the Gap Between Spoken Words and Text on Slides PowerPoint Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-alternatives-spotlighted-by-az-screen-recorder-for-2024/"><u>[Updated] Alternatives Spotlighted by AZ Screen Recorder for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/complete-guide-uninstalling-apps-stored-on-icloud-for-optimal-performance/"><u>Complete Guide: Uninstalling Apps Stored on iCloud for Optimal Performance</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-totmania-virus-elimination-steps-with-malwarefox/"><u>Comprehensive Guide: Totmania Virus Elimination Steps with MalwareFox</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-techniques-for-transforming-webm-files-into-compatible-avi-video-files/"><u>Easy Techniques for Transforming WebM Files Into Compatible AVI Video Files</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effortless-guide-to-moving-your-tunes-from-mac-to-android-devices/"><u>Effortless Guide to Moving Your Tunes From Mac to Android Devices</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-create-and-implement-your-own-vbscript-events-in-web-development/"><u>How to Create and Implement Your Own VBScript Events in Web Development</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-v30-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo V30 Pro Phone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-optimize-your-virtual-folder-configuration-for-maximum-seo-benefit/"><u>How to Optimize Your Virtual Folder Configuration for Maximum SEO Benefit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-screens-to-social-shares-your-guide-to-popular-metaverse-memes/"><u>In 2024, From Screens to Social Shares Your Guide to Popular Metaverse Memes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-digital-green-magic-comprecipate-free-lessons-from-4-masterful-channels/"><u>In 2024, The Ultimate Guide to Digital Green Magic Comprecipate Free Lessons From 4 Masterful Channels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-launch-success-essential-troubleshooting-steps-for-warzone-2024-on-desktop-systems/"><u>Mastering Launch Success: Essential Troubleshooting Steps for Warzone 2024 on Desktop Systems</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/safeguarding-data-exchange-expert-strategies-to-shield-from-wpa2-krack-exploits/"><u>Safeguarding Data Exchange: Expert Strategies to Shield From WPA2 KRACK Exploits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/screencapture-evaluation-interface-for-2024/"><u>ScreenCapture Evaluation Interface for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/sync-seamlessly-instructions-for-projecting-an-ipad-display-onto-your-samsung-television/"><u>Sync Seamlessly: Instructions for Projecting an iPad Display Onto Your Samsung Television</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-asus-chromebook-c202sa-ideal-for-learning-environments/"><u>The Ultimate Guide to the Asus Chromebook C202SA: Ideal for Learning Environments</u></a></li>
 </ul></div>
 

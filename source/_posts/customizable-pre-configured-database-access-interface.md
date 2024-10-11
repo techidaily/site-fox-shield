@@ -1,7 +1,7 @@
 ---
 title: Customizable Pre-Configured Database Access Interface
-date: 2024-10-03T21:07:32.011Z
-updated: 2024-10-05T19:03:33.728Z
+date: 2024-10-08T06:27:56.998Z
+updated: 2024-10-10T18:24:13.304Z
 tags:
   - user-guide
 categories:
@@ -83,6 +83,13 @@ This page allows you to configure an SQL connection.
 
 ![Predefined sql connection](https://cdn.advancedinstaller.com/img/ui/predefined-sql-connection.png "Predefined sql connection")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## General
 
 ### Condition
@@ -114,34 +121,20 @@ Specify the ODBC Driver or Data Source Name. Use the \[Edit... \] button to inse
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The ODBC Driver/Data Source combo will be populated with the configured [ODBC drivers or Data Sources in the project](https://tools.techidaily.com/advancedinstaller/products/) as well as the available ODBC drivers or Data Sources on your machine.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)It is recommended to use an Unicode compatible ODBC driver.
 
-![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For Microsoft SQL Server **LocalDB** connections only an SQL Server**Client** ODBC driver can be used (e.g. "SQL Server Native Client 11.0").
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For Microsoft SQL Server **LocalDB** connections only an SQL Server**Client** ODBC driver can be used (e.g. "SQL Server Native Client 11.0").
 
 #### Use 64-bit ODBC resource
 
 If this option is enabled, the connection will use the 64-bit DSN or driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Server
 
@@ -159,18 +152,18 @@ Specify the connection port. Use the \[... \] button to insert a reference to a 
 
 Set the login timeout interval (in seconds) for this database connection. A value of "**0**" (zero) means the login timeout is disabled, and the connection will wait indefinitely for a server response. The range tolerance for this value is dependent on the specific ODBC driver used and its standard compliance / implementation.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Connection and all its scripts are verbose
 
 When using the verbose mode for an SQL connection, if an error occurs when connecting or during the execution of one of its SQL scripts, a dialog box will be shown containing the ODBC error response.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Your users will never see the error during the installation if you disable this option, so it is very important that you design your application to check for the integrity of your databases or have it correctly designed so it can handle cases of missing or partially populated databases, as this might happen if your SQL scripts fail to execute.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Log information to file
 
@@ -179,13 +172,6 @@ When using the verbose mode for an SQL connection, if an error occurs when conne
 If this option is enabled and an error occurs, a log file(**_AI\_SQLScripts.log_**) containing the error message will be automatically generated by the installer in the user's **Temp** folder, .
 
 ## Authentication
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Trusted Connection
 
@@ -199,13 +185,6 @@ Enable this option if you wish an SQL connection to use Windows integrated authe
 
 User name for the database server.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Password
 
 User password for the database server.
@@ -218,22 +197,42 @@ User password for the database server.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The supplied password will be stored securely (encrypted) both in the project file and the MSI package.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use a property to set password
 
  The property used at install time if you want the password to be set by the user. Use the \[... \] button to select it.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Catalogue
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Database
 
 Specify the name of the database you want to use.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create database if it does not exist
 
@@ -241,22 +240,16 @@ Specify the name of the database you want to use.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If no SQL Scripts are defined but you still want to use this option to create the database on the target machine you can add a script with a simple query. Something likeUSE database\_name;.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Catalogue option is available only when connecting to the database server through an ODBC driver.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)A **use database** statement executed as part of an SQL Script will change the active database for all the subsequent SQL Scripts that are next in the list for execution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When you connect through a Data Source the following attributes have to be configured in the ODBC Data Source:
 
@@ -267,6 +260,13 @@ When you connect through a Data Source the following attributes have to be confi
 All this information can be collected with the Advanced Installer MSI dialog “SQLConnectionDlg”. You can add this dialog from the [Dialog Editor](https://tools.techidaily.com/advancedinstaller/products/) view and customize it or you can create your own. When using an MSI dialog to collect the data, in the formatted edit fields: ODBC Driver/Data Source, Server, Port, Username, Password, Database insert references to those respective Windows Installer properties associated with the MSI dialog edit controls.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The following fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/):
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Server
 * Port
@@ -310,14 +310,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-echoing-giggles-ultimate-ringtone-vaults/"><u>[New] In 2024, Echoing Giggles Ultimate Ringtone Vaults</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-quick-start-to-establishing-an-online-platform-for-tech-analysis-for-2024/"><u>[New] Quick Start to Establishing an Online Platform for Tech Analysis for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-essential-techniques-for-procuring-facebook-vids/"><u>[Updated] In 2024, Essential Techniques for Procuring Facebook Vids</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/complete-guide-uninstalling-webdiscover-browser-due-to-security-concerns-expert-tips/"><u>Complete Guide: Uninstalling WebDiscover Browser Due to Security Concerns – Expert Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/key-conditions-to-fulfill-before-launching-a-new-software-product/"><u>Key Conditions to Fulfill Before Launching a New Software Product</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/optimizing-user-experience-with-single-vs-multiple-pages/"><u>Optimizing User Experience with Single Vs. Multiple Pages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-importance-of-chatgpts-translation-engine-in-ai-conversations/"><u>The Importance of ChatGPT's Translation Engine in AI Conversations</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/top-methods-for-transferring-vcf-contacts-seamlessly-onto-your-android-device/"><u>Top Methods for Transferring VCF Contacts Seamlessly Onto Your Android Device</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-seamlessly-step-into-a-tiktok-livestream-a-guide/"><u>[New] In 2024, Seamlessly Step Into a TikTok Livestream A Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/approach-discuss-the-advantages-over-linear-methods/"><u>Approach: Discuss the Advantages over Linear Methods.</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/boosting-job-application-success-with-standardized-interview-scripts-on-resumes/"><u>Boosting Job Application Success with Standardized Interview Scripts on Resumes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/control-data-row-dialog/"><u>Control Data Row Dialog.</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/essential-details-tab-your-guide-to-key-information-at-a-glance/"><u>Essential Details Tab: Your Guide to Key Information at a Glance</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-connect-your-vm-profile-a-comprehensive-guide/"><u>How to Connect Your VM Profile: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-beginners-guide-to-gopro-extras/"><u>In 2024, Beginner's Guide to GoPro Extras</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-affordable-data-storage-cloud/"><u>In 2024, Mastering the Art of Affordable Data Storage (Cloud)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-10-free-video-editors-for-mp4-files/"><u>New In 2024, Unleash Your Creativity Top 10 Free Video Editors for MP4 Files</u></a></li>
 </ul></div>
 

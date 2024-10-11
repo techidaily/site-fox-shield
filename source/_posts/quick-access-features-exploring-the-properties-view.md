@@ -1,7 +1,7 @@
 ---
 title: "Quick Access Features: Exploring the 'Properties' View"
-date: 2024-10-02T17:29:12.279Z
-updated: 2024-10-05T21:26:47.940Z
+date: 2024-10-05T06:03:30.889Z
+updated: 2024-10-11T05:07:43.380Z
 tags:
   - user-guide
 categories:
@@ -92,10 +92,10 @@ Table of Contents
 ![Shortcut Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/shortcut-properties.png "Shortcut Properties Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -122,32 +122,25 @@ Table of Contents
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg) Microsoft recommends against automatically pinning to Taskbar as part of the installation as this should always be the user's choice.   
 For this specific reason Advanced Installer enforces asking the installing user for confirmation through the**PINTOTASKBAR property, which must be set to IDYES to pin to taskbar.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)On Windows 7 the shortcut will not be automatically added to the Start Menu > Recently Used section.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Arguments
 
 This command line accepts, as input, the parameters (arguments) for the file opened by the shortcut. It can include references to files, folders, and properties. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Paths
 
@@ -158,6 +151,13 @@ This command line accepts, as input, the parameters (arguments) for the file ope
 * The directory where the shortcut will be placed. You can change it only at creation time using the \[Browse... \] button via the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 * Working Directory
 * The working directory of the file launched by the shortcut. The directory can be changed by using the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) or the[Property Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) through the \[Edit... \] button. When using a property, its value needs to be set to a valid path.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Display
 
@@ -201,24 +201,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-snapping-your-view-on-windows-devices/"><u>[New] In 2024, Snapping Your View on Windows Devices</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-path-from-twitter-video-to-fb-sharing/"><u>[New] In 2024, The Path From Twitter Video to FB Sharing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-podcast-openings-unveiled-scripted-appeals/"><u>[New] Podcast Openings Unveiled Scripted Appeals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-reign-over-the-market-selecting-the-best-7-nft-enabling-services/"><u>[Updated] Reign Over the Market Selecting the Best 7 NFT-Enabling Services</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/discover-the-ultimate-media-players-5-great-options-besides-flvto-for-seamless-video-streaming/"><u>Discover the Ultimate Media Players: 5 Great Options Besides FLVTO for Seamless Video Streaming</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/dynamic-picking-tools-dialogue-box/"><u>Dynamic Picking Tools Dialogue Box</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/explore-our-diverse-range-of-services/"><u>Explore Our Diverse Range of Services</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-key-real-estate-features-a-comprehensive-guide/"><u>Exploring Key Real Estate Features: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-amd-radeon-vega-64-up-to-date-download-and-install-drivers-easily-on-windows-pcs/"><u>Get Your AMD Radeon VEGA 64 Up to Date - Download & Install Drivers Easily on Windows PCs</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-effective-are-new-antivirus-programs-in-eliminating-pre-existing-computer-infections/"><u>How Effective Are New Antivirus Programs in Eliminating Pre-Existing Computer Infections?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-a34-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy A34 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/keep-your-logitech-m50-mouse-running-smoothly-with-these-driver-upgrade-instructions/"><u>Keep Your Logitech M50 Mouse Running Smoothly with These Driver Upgrade Instructions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/mastering-automation-with-powershell-script-files-an-introductory-tutorial/"><u>Mastering Automation with PowerShell Script Files: An Introductory Tutorial</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/must-try-mp3-transformers-superior-substitutes-for-mp3-rocket/"><u>Must-Try MP3 Transformers: Superior Substitutes for MP3 Rocket</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/pc-playthroughs-made-easy-a-guide-to-livestreaming-mobile-legends-gaming-sessions/"><u>PC Playthroughs Made Easy - A Guide to Livestreaming Mobile Legends Gaming Sessions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/personalized-color-schemes-setup-for-picture-frames/"><u>Personalized Color Schemes Setup for Picture Frames</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-savvy-elevating-your-photographic-style-with-app-edits-for-2024/"><u>Snapchat Savvy Elevating Your Photographic Style with App Edits for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-peak-gaming-potential-with-these-windows-11-tweaks/"><u>Unlock Peak Gaming Potential with These Windows 11 Tweaks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-6-youtuber-quizzes-to-know-which-youtuber-you-are-for-2024/"><u>[Updated] 6 YouTuber Quizzes to Know Which YouTuber You Are for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-premium-hd-recorder-capabilities-for-2024/"><u>[Updated] Premium HD Recorder Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-fixes-to-resume-paused-stream-on-facebook/"><u>[Updated] Quick Fixes to Resume Paused Stream on Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-seeing-the-unseen-tracking-instagram-viewers-meticulously-for-2024/"><u>[Updated] Seeing the Unseen Tracking Instagram Viewers Meticulously for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-transcoding-vimeo-to-mp3-audio-file/"><u>2024 Approved Transcoding Vimeo to MP3 Audio File</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/create-your-own-chat-bubbles-with-these-5-awesome-ios-sticker-making-apps-enjoyable-and-straightforward-designing/"><u>Create Your Own Chat Bubbles with These 5 Awesome iOS Sticker Making Apps - Enjoyable and Straightforward Designing!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/customizing-your-project-the-essential-guide-to-build-tabs/"><u>Customizing Your Project: The Essential Guide to 'Build' Tabs</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/deciphering-spear-phishing-vs-traditional-hacking-techniques-what-sets-them-apart/"><u>Deciphering Spear Phishing Vs. Traditional Hacking Techniques: What Sets Them Apart?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-overcome-issues-editing-converts-of-word-ppt-or-pdf-files/"><u>How to Overcome Issues Editing Converts of Word, PPT, or PDF Files</u></a></li>
+<li><a href="https://video-capture.techidaily.com/introduction-to-organizing-remote-work-hours-for-2024/"><u>Introduction to Organizing Remote Work Hours for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-your-internet-the-culprit-or-is-it-actually-blizzards-battlenet-down/"><u>Is Your Internet The Culprit? Or Is It Actually Blizzard's Battle.net Down?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/optimize-your-pc-with-easy-setup-of-windows-sandbox/"><u>Optimize Your PC with Easy Setup of Windows Sandbox</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simplify-your-workflow-mastering-component-and-group-modifications/"><u>Simplify Your Workflow: Mastering Component & Group Modifications</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/singing-alerts-crafting-and-configuring-customizable-sounds-and-ringtones-on-android/"><u>Singing Alerts Crafting and Configuring Customizable Sounds & Ringtones on Android</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722964629362-update-your-pc-with-gigabytes-gc-wb867d-drivers-direct-download-link-inside/"><u>Update Your PC with Gigabyte's GC-WB867D Drivers - Direct Download Link Inside</u></a></li>
 </ul></div>
 

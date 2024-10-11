@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Integration: Using the Excel Connection Setup Prompt Effectively"
-date: 2024-10-01T17:50:11.504Z
-updated: 2024-10-05T16:13:19.285Z
+date: 2024-10-04T19:44:29.135Z
+updated: 2024-10-11T01:02:00.731Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,16 @@ Table of Contents
 ![Import ODBC Data Source](https://cdn.advancedinstaller.com/img/dialog/import-data-source.png "Import ODBC Data Source")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -90,10 +96,10 @@ Table of Contents
  The data source's name. This name will be displayed in the DSN list on the target machine (in ODBC Data Source Administrator).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type
@@ -101,10 +107,10 @@ Table of Contents
  The type of the data source, it can be x86 or x64.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Registration
@@ -144,18 +150,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-visionaries-tools-revealed-premium-360cameras-of-2023-for-2024/"><u>[New] Visionaries' Tools Revealed Premium 360°Cameras of 2023 for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-eliminate-vr-discomfort-10-tips/"><u>[Updated] 2024 Approved Eliminate VR Discomfort 10 Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-insiders-blueprint-for-finding-hidden-youtube-files-for-2024/"><u>[Updated] The Insider's Blueprint for Finding Hidden YouTube Files for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/complete-guide-uninstalling-webdiscover-browser-due-to-security-concerns-expert-tips/"><u>Complete Guide: Uninstalling WebDiscover Browser Due to Security Concerns – Expert Tips</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/discover-the-ultimate-media-players-5-great-options-besides-flvto-for-seamless-video-streaming/"><u>Discover the Ultimate Media Players: 5 Great Options Besides FLVTO for Seamless Video Streaming</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-effective-are-new-antivirus-programs-in-eliminating-pre-existing-computer-infections/"><u>How Effective Are New Antivirus Programs in Eliminating Pre-Existing Computer Infections?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-brother-l2540dw-driver-on-a-windows-operating-system/"><u>How to Download and Install Brother L2540DW Driver on a Windows Operating System</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-conquering-low-end-webcams-for-stellar-video-quality/"><u>In 2024, Conquering Low-End WebCams for Stellar Video Quality</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/master-the-art-of-snapchats-boomerangs-for-2024/"><u>Master the Art of Snapchat's Boomerangs for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/must-try-mp3-transformers-superior-substitutes-for-mp3-rocket/"><u>Must-Try MP3 Transformers: Superior Substitutes for MP3 Rocket</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/pc-playthroughs-made-easy-a-guide-to-livestreaming-mobile-legends-gaming-sessions/"><u>PC Playthroughs Made Easy - A Guide to Livestreaming Mobile Legends Gaming Sessions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/personalized-color-schemes-setup-for-picture-frames/"><u>Personalized Color Schemes Setup for Picture Frames</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-bargains-on-high-performance-gaming-laptops-2024-edition/"><u>Unbeatable Bargains on High-Performance Gaming Laptops - 2024 Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-slide-swivel-and-shift-a-step-by-step-manual-to-flipping-images-on-instagram-sites/"><u>[New] 2024 Approved Slide, Swivel and Shift A Step-by-Step Manual to Flipping Images on Instagram Sites</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-gameplay-recording-must-haves/"><u>[New] In 2024, Gameplay Recording Must-Haves</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-from-free-to-fortune-the-500-sub-club/"><u>[Updated] From Free to Fortune The 500-Sub Club</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-innovative-marker-use-in-digital-filmmaking/"><u>2024 Approved Innovative Marker Use in Digital Filmmaking</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/amplify-your-social-impact-with-these-innovative-fb-growth-tactics/"><u>Amplify Your Social Impact with These Innovative FB Growth Tactics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/blade-e-flite-mcx2-rtf-rc-helicopter-review-best-ready-to-fly-helicopter/"><u>Blade E-Flite mCX2 RTF RC Helicopter Review: Best Ready-To-Fly Helicopter</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/create-stunning-album-artwork-with-flipimage-pro-innovative-3d-graphic-and-multimedia-tools-explore-at-flipbuildercom/"><u>Create Stunning Album Artwork with FlipImage Pro - Innovative 3D Graphic & Multimedia Tools [Explore at FlipBuilder.com]</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/cross-platform-display-connect-and-share-your-iphone-screen-on-a-samsung-tv/"><u>Cross-Platform Display: Connect and Share Your iPhone Screen on a Samsung TV</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/customizable-pre-configured-database-access-interface/"><u>Customizable Pre-Configured Database Access Interface</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-techniques-for-eliminating-gridlines-in-your-photos-no-need-for-photoshop/"><u>Easy Techniques for Eliminating Gridlines in Your Photos - No Need for Photoshop!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhance-your-social-media-presence-with-the-top-instagram-visual-editor-software-in-vectors-2020-edition/"><u>Enhance Your Social Media Presence with the Top Instagram Visual Editor Software in Vectors, 2020 Edition</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-connect-your-vm-profile-a-comprehensive-guide/"><u>How to Connect Your VM Profile: A Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-apple-iphone-15-plus-activation-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 15 Plus Activation Lock</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-turn-your-prezi-slideshow-into-videos-for-instant-sharing-top-3-methods-revealed/"><u>How to Turn Your Prezi Slideshow Into Videos for Instant Sharing - Top 3 Methods Revealed!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-tecno-spark-20c-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Tecno Spark 20C?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/the-leading-mac-application-for-flawless-image-editing-with-powerful-background-erasing-features/"><u>The Leading Mac Application for Flawless Image Editing with Powerful Background Erasing Features</u></a></li>
 </ul></div>
 

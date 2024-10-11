@@ -1,7 +1,7 @@
 ---
 title: Adjusting Application Boot Parameters Through the Setup Preferences Pane
-date: 2024-09-29T16:03:39.650Z
-updated: 2024-10-05T18:10:17.409Z
+date: 2024-10-08T19:42:10.404Z
+updated: 2024-10-11T02:11:26.033Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,10 @@ This dialog allows you to specify a custom launch condition based on an installe
 ![Edit Launch Condition Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-launch-condition.png "Edit Launch Condition Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -88,10 +88,16 @@ This dialog allows you to specify a custom launch condition based on an installe
 Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/). If the condition is True, the installation will run, if not then a message with the launch condition description is showed and the installation is aborted.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -99,10 +105,10 @@ Edit this field using [Smart Condition Edit Control](https://tools.techidaily.co
 Specify a description for the launch condition. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this string.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Builds
@@ -112,10 +118,10 @@ In this section, you can specify the project builds that should contain this lau
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Builds" options won't appear listed unless the project contains multiple builds defined in the [Builds Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -151,17 +157,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-harness-the-power-of-youtube-shorts-expert-filming-and-editing-techniques-for-2024/"><u>[Updated] Harness the Power of YouTube Shorts Expert Filming and Editing Techniques for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-streamlining-video-production-with-clear-sound-effects/"><u>2024 Approved Streamlining Video Production with Clear Sound Effects</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/demystifying-complexities-a-guide-to-understanding-slug-lines/"><u>Demystifying Complexities A Guide to Understanding Slug Lines</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tifying-video-profit-on-youtube-for-2024/"><u>Demystifying Video Profit on YouTube for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/discover-the-essentials-of-iprogid-in-programming/"><u>Discover the Essentials of IProgID in Programming</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/easy-steps-to-design-and-generate-editable-pdf-documents-from-scratch/"><u>Easy Steps to Design and Generate Editable PDF Documents From Scratch</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/elevate-your-videos-with-top-ranking-free-ai-editors/"><u>Elevate Your Videos with Top-Ranking Free AI Editors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-2-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 2 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiled-youtubes-creme-de-la-creme-of-vr-videos/"><u>In 2024, Unveiled YouTube's Crème De La Crème of VR Videos</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/recognizing-and-guarding-against-fraudulent-technical-aid-schemes/"><u>Recognizing and Guarding Against Fraudulent Technical Aid Schemes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-for-video-narration-implementation/"><u>Step-By-Step Guide for Video Narration Implementation</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/top-techniques-for-effectively-removing-a-watermark-from-your-images/"><u>Top Techniques for Effectively Removing a Watermark From Your Images</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mac-high-quality-video-and-audible-recording/"><u>[New] Mac High-Quality Video & Audible Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>[Updated] Crafting Seamless Transitions The Art of Canon Time-Lapses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-macx-dvd-video-converter-for-macos-professional-dvd-ripper-and-media-transcoding-tool-for-mac-iphone-and-ipad/"><u>1. MacX DVD Video Converter for MacOS: Professional DVD Ripper & Media Transcoding Tool for Mac, iPhone & iPad</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/downloadable-mp4mp3-converter-app-seamlessly-change-video-files-into-music-format/"><u>Downloadable MP4/MP3 Converter App - Seamlessly Change Video Files Into Music Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-solving-the-corsair-icue-connectivity-problems-on-windows-11-pcs/"><u>Guide: Solving the Corsair iCUE Connectivity Problems on Windows 11 PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/key-features-and-attributes-in-driver-selection/"><u>Key Features and Attributes in Driver Selection</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mastering-iphone-revival-effective-strategies-using-icloud-backup-tools/"><u>Mastering iPhone Revival: Effective Strategies Using iCloud Backup Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-tandc-for-better-privacy-control/"><u>New T&C for Better Privacy Control</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/no-cost-pc-microphone-software-capture-sound-on-any-windows-os/"><u>No-Cost PC Microphone Software - Capture Sound on Any Windows OS</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shorten-system-awakening-edit-boot-sequence-timing-windows-11/"><u>Shorten System Awakening: Edit Boot Sequence Timing Windows 11</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-the-apowermonkey-app-troubleshooting-failure-to-recognize-your-iphone-or-ipad/"><u>Solving the 'Apowermonkey' App: Troubleshooting Failure to Recognize Your iPhone or iPad</u></a></li>
 </ul></div>
 

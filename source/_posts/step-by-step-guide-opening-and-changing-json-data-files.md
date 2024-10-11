@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Opening and Changing JSON Data Files"
-date: 2024-10-01T17:05:41.422Z
-updated: 2024-10-05T19:13:44.145Z
+date: 2024-10-04T17:57:11.240Z
+updated: 2024-10-10T22:10:02.093Z
 tags:
   - user-guide
 categories:
@@ -93,42 +93,35 @@ This dialog enables you to make configurations to a JSON File. You can create an
 
 ![JSON Dialog](https://cdn.advancedinstaller.com/img/dialog/json-file.png "JSON Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Manage JSON file install parameters
 
  Select the JSON file in the left tree. The install parameters can be modified from the [Install](https://tools.techidaily.com/advancedinstaller/products/) tab. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Manage general JSON file settings
 
 Select the JSON file in the left tree and you will be able to edit general file settings in the [File Settings Tab](https://tools.techidaily.com/advancedinstaller/products/). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new JSON element (an Object, Array, Null, Boolean, Number or String)
 
 Use the “New” context menu option or press theInsert key while an existing JSON element (an Object, Array, Null, Boolean, Number or String) is selected in the tree in order to create a child element. The newly created element has a[Property Settings](https://tools.techidaily.com/advancedinstaller/products/) tab.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Renaming a JSON element (an Object, Array, Null, Boolean, Number or String)
 
 Use the “Rename” context menu option or press theF2 key while a tree item is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Removing a JSON element (an Object, Array, Null, Boolean, Number or String)
 
@@ -137,10 +130,17 @@ Use the “Delete” context menu option or press theDelete key while a tree ite
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The root element cannot be deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -185,16 +185,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-create-meme-with-adobe/"><u>[New] Create Meme with Adobe</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-by-step-iphone-screen-recording/"><u>[Updated] 2024 Approved Step-by-Step Iphone Screen Recording</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-elite-philips-somneo-bedside-alarm/"><u>Expert Insights on The Elite Philips Somneo Bedside Alarm</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insider-tips-what-to-evaluate-before-picking-up-an-used-ipad/"><u>Insider Tips: What to Evaluate Before Picking Up an Used iPad</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-premium-verses-in-motion-aes-ultimate-lyric-videos/"><u>New 2024 Approved Premium Verses in Motion AEs Ultimate Lyric Videos</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/stealthy-threats-understanding-how-malware-evades-task-manager-monitoring-expert-analysis-from-malwarefox/"><u>Stealthy Threats: Understanding How Malware Evades Task Manager Monitoring - Expert Analysis From MalwareFox</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-process-how-to-sync-iphone-se-with-windows-or-mac-osx/"><u>Step-by-Step Process: How to Sync iPhone SE with Windows or Mac OSX</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-on-transforming-your-dvds-videots-into-premium-avi-format-for-optimal-viewing-experience/"><u>Step-by-Step Tutorial on Transforming Your DVD's Video_TS Into Premium AVI Format for Optimal Viewing Experience</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/the-top-10-leading-twitch-broadcast-tools-ranked-and-reviewed/"><u>The Top 10 Leading Twitch Broadcast Tools - Ranked and Reviewed</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/verifying-database-connectivity-sql-server-connection-tutorials/"><u>Verifying Database Connectivity: SQL Server Connection Tutorials</u></a></li>
-<li><a href="https://article-tips.techidaily.com/xsplit-compendium-in-depth-gaming-analysis/"><u>XSplit Compendium In-Depth Gaming Analysis</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-behind-the-scenes-how-to-master-voice-manipulation-with-free-tools/"><u>[New] In 2024, Behind the Scenes How to Master Voice Manipulation with Free Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-experience-the-future-of-learning-with-these-channels/"><u>[New] In 2024, Experience the Future of Learning with These Channels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetsnapter-the-leading-tool-for-storing-your-gif-delights-for-2024/"><u>[New] TweetSnapter The Leading Tool for Storing Your Gif Delights for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-vegas-pro-2021-a-detailed-gaming-world-survey/"><u>[Updated] 2024 Approved Vegas Pro 2021 A Detailed Gaming World Survey</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/aspects-instead-of-properties-and-rephrasing-to-highlight-key-ideas-such-as-placement-attributes-and-positioning/"><u>Aspects Instead of Properties and Rephrasing to Highlight Key Ideas Such as Placement, Attributes, and Positioning.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/evaluating-lg-bp350-ergonomics-design-and-display-quality/"><u>Evaluating LG BP350 - Ergonomics, Design & Display Quality</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-code-0x800700e1-problems-in-windows-11/"><u>Fixing Code 0X800700E1 Problems in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c12-plus-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia C12 Plus to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/navigating-url-modifications-with-advanced-edit-link-features/"><u>Navigating URL Modifications with Advanced Edit Link Features</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-making-images-with-transparent-backdrops-easily/"><u>Step-by-Step Guide: Making Images with Transparent Backdrops Easily</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-transforming-jpeg-photos-to-pdf-documents-in-windows/"><u>Step-by-Step Tutorial: Transforming JPEG Photos to PDF Documents in Windows</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-the-role-of-identifiers-in-software-management-tables/"><u>Understanding the Role of Identifiers in Software Management Tables</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-various-methods-of-importing-project-structures/"><u>Understanding Various Methods of Importing Project Structures</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cut-and-trim-3gp-files-with-ease-updated-2023/"><u>Updated Cut and Trim 3GP Files with Ease Updated 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-vpn-tunnel-common-types-of-vpn-tunneling-protocol/"><u>What Is VPN Tunnel: Common Types of VPN Tunneling Protocol</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "SQL Query Editor: Enhance Your Database Management"
-date: 2024-09-29T18:40:48.602Z
-updated: 2024-10-05T16:17:26.919Z
+date: 2024-10-05T00:42:08.773Z
+updated: 2024-10-11T06:10:28.404Z
 tags:
   - user-guide
 categories:
@@ -88,20 +88,13 @@ This tab allows you to configure the selected SQL script.
 The SQL scripts of an SQL connection are executed in the order they appear in the tree (top-down). To change the execution order, move them by drag and drop in the tree.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Execution
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run SQL Script
 
@@ -127,10 +120,10 @@ Specify the action that should be taken if an SQL script error is encountered wh
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you choose to go to the SQL script file's next statement in case of script execution error you will need to supply a statement separator for the SQL script.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## SQL
@@ -138,13 +131,6 @@ Specify the action that should be taken if an SQL script error is encountered wh
 ### Script File
 
 Specify the script file. Use \[... \] button to select it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Script Inline
 
@@ -157,34 +143,42 @@ Specify the separator for the SQL statements.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default this field is empty; if you supply a statement separator (Eg. semicolon  ;  or  GO), during installation the SQL script batch file will be automatically split into component statements using the supplied statement separator and each SQL statement will be executed individually. Otherwise, SQL script will be executed as a whole.**Format:** with the exception of semicolon  ;, the statement separator must always begin with a_letter_ and can contain only_alpha-numeric_ characters.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Some Database Servers do not permit executing multiple statements at once. In this case supply a statement separator to indicate that the SQL queries should be executed individually. For more information please read [Why does my SQL Script fail to run when executed from the installer?](https://tools.techidaily.com/advancedinstaller/products/) FAQ.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Strip comments from SQL script
 
 Removes all comments from the SQL script. (This option also removes SQL comments from your **stored procedures**, if any.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disclaimer
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Make sure the SQL code you supply is well-tested before deployment. If errors occur during installation, the changes cannot be undone. This functionality assumes familiarity with SQL syntax. Advanced Installer Technical Support does not provide assistance with debugging SQL statements.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -219,15 +213,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-help.techidaily.com/beat-the-doldrums-10-must-play-games-for-entertainment/"><u>Beat the Doldrums: 10 Must-Play Games for Entertainment</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-lexmark-printer-driver-revision-process/"><u>Efficient Lexmark Printer Driver Revision Process</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expanded-real-estate-discovery-features/"><u>Expanded Real Estate Discovery Features</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-windows-rapid-photo-displayer/"><u>In 2024, Prime Window's Rapid Photo Displayer</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/maximizing-your-iphones-longenity-expert-strategies-to-extend-battery-life/"><u>Maximizing Your iPhone's Longenity: Expert Strategies to Extend Battery Life</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-y28-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y28 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/simple-steps-for-embedding-youtube-clips-into-powerpoint-presentations-20102013/"><u>Simple Steps for Embedding YouTube Clips Into PowerPoint Presentations (2010/2013)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/take-your-videos-to-the-next-level-insider-video-editing-tips-and-tricks/"><u>Take Your Videos to the Next Level Insider Video Editing Tips and Tricks</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-json-data-format-and-file-handling/"><u>Understanding JSON Data Format and File Handling</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-swift-simplified-steps-mastering-iphone-screen-recordings-for-2024/"><u>[Updated] Swift, Simplified Steps Mastering Iphone Screen Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-your-video-content-through-youtube-studio-editing-techniques/"><u>[Updated] Tailoring Your Video Content Through YouTube Studio Editing Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-photo-manipulation-software-top-picks/"><u>2024 Approved Free Photo Manipulation Software Top Picks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/corporate-crown-best-cloud-keepers/"><u>Corporate Crown Best Cloud Keepers</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-essentials-of-iprogid-in-programming/"><u>Discover the Essentials of IProgID in Programming</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-steps-to-design-and-generate-editable-pdf-documents-from-scratch/"><u>Easy Steps to Design and Generate Editable PDF Documents From Scratch</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/preserving-voicemails-without-costs-easy-strategies-for-recording-audio-messages-on-the-go/"><u>Preserving Voicemails Without Costs: Easy Strategies for Recording Audio Messages on the Go</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/singing-machine-sml385btbk-karaoke-review-the-easiest-and-most-colorful-karaoke-machine-to-plug-and-play/"><u>Singing Machine SML385BTBK Karaoke Review: The Easiest and Most Colorful Karaoke Machine to Plug and Play</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/the-real-deal-on-web-safety-do-pornographic-websites-harbor-digital-threats/"><u>The Real Deal on Web Safety: Do Pornographic Websites Harbor Digital Threats?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-techniques-for-effectively-removing-a-watermark-from-your-images/"><u>Top Techniques for Effectively Removing a Watermark From Your Images</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-d-e-t-alen-intel-usb-30-device-drivers-downloads/"><u>Windows ˈD E T Aɪˈləʊn: Intel USB 3.0 Device Drivers Downloads</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding the Role of Identifiers in Software Management Tables
-date: 2024-09-30T19:02:12.406Z
-updated: 2024-10-05T19:35:07.862Z
+date: 2024-10-06T03:27:40.611Z
+updated: 2024-10-10T20:20:53.888Z
 tags:
   - user-guide
 categories:
@@ -83,13 +83,6 @@ Table of Contents
 
 ![Software identification tab](https://cdn.advancedinstaller.com/img/ui/software-identification-tab.png "Software identification tab")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Mandatory Tags
 
 ### Identifier
@@ -97,6 +90,13 @@ Table of Contents
  This field uniquelly identifies a software product and a version. Organization that creates the tags (Tag Creator) is responsible to ensure this unicity between all tagged products and all versions. Content of this field can be a GUID or can have any other structure, for example productname\_version. This field cannot contain characters that cannot appear in a filename. 
 
  Three entities involved in software application creation and distribution must be specified: the entity that created the software, the entity that licensed the software and the entity that created the file with information required by ISO 19770-2 standard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Software Creator Name
 
@@ -110,31 +110,31 @@ Table of Contents
 
 The name of the entity that owns the copyright of the software package.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Software Licensor ID
 
 The [unique registration identifier](https://tools.techidaily.com/advancedinstaller/products/) of the software licensor entity. If this entity is no longer in business or the identifier is not available then unknown value can be used.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tag Creator Name
 
 The name of the entity that created these ISO 19770-2 tags. In our case, should be the name of the entity that created the Advanced Installer project.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tag Creator ID
 
 The [unique registration identifier](https://tools.techidaily.com/advancedinstaller/products/) of the entity that created the tags.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Entitlement Required
 
@@ -157,10 +157,10 @@ Provides information about how a software was obtained and installed and clues a
 * **Customer Type** \- the target customer type for the software package. The default possible values are Government, Corporate, Educational, Retail but other values can be used as well. If you want to use another value, just type it in the combobox edit area.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -201,21 +201,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-instantaneous-screen-logging-chromebooks/"><u>[New] 2024 Approved Instantaneous Screen Logging (Chromebooks)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-step-into-the-world-of-expressive-snapchat-lenses/"><u>[New] In 2024, Step Into the World of Expressive Snapchat Lenses</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-premier-racing-experience-series-top-5-for-2024/"><u>[New] Premier Racing Experience Series (Top 5) for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/a-comprehensive-guide-to-understanding-flac-audio-files/"><u>A Comprehensive Guide to Understanding FLAC Audio Files</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-understanding-the-multi-file-attributes-table/"><u>Comprehensive Guide: Understanding the Multi-File Attributes Table</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/create-unique-mobile-ringtones-from-youtube-songs-a-simple-guide/"><u>Create Unique Mobile Ringtones From YouTube Songs – A Simple Guide!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-different-java-application-design-patterns/"><u>Exploring Different Java Application Design Patterns</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-nexiq-usb-connection-up-and-running-with-the-latest-drivers/"><u>Get Your Nexiq USB Connection Up and Running with the Latest Drivers!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-120plus-original-title-concepts-for-unique-and-memorable-snapchat-stories/"><u>In 2024, 120+ Original Title Concepts for Unique and Memorable Snapchat Stories</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-powerdirector-guide/"><u>In 2024, Ultimate PowerDirector Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/key-features-and-attributes-in-driver-selection/"><u>Key Features and Attributes in Driver Selection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-for-excel-conquer-spreadsheet-anxiety/"><u>Mastering ChatGPT for Excel: Conquer Spreadsheet Anxiety</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/maximize-your-webcam-hp-and-chromebook-strategies/"><u>Maximize Your Webcam HP & Chromebook Strategies</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/no-cost-pc-microphone-software-capture-sound-on-any-windows-os/"><u>No-Cost PC Microphone Software - Capture Sound on Any Windows OS</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-effectively-utilizing-apowerpdf-features/"><u>Step-by-Step Tutorial on Effectively Utilizing ApowerPDF Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-filmmaking-faceoff-hero-session-x-or-polaroid-cube/"><u>[Updated] 2024 Approved Filmmaking Faceoff Hero Session X or Polaroid Cube?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-free-and-fast-guide-to-detecting-fraudulent-accounts-among-instragrammers/"><u>[Updated] Free & Fast Guide to Detecting Fraudulent Accounts Among Instragrammers</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 11/iPad | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/activate-enhanced-browser-protection-with-microsofts-defender-on-windows-11s-edge/"><u>Activate Enhanced Browser Protection with Microsoft's Defender on Windows 11'S Edge</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-gratuita-de-video-h265-hevc-a-h2-264-sin-perder-calidad-hazlo-hoy/"><u>Conversión Gratuita De Vídeo H.265 (HEVC) a H.2 264 Sin Perder Calidad - ¡Hazlo Hoy!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/expanded-real-estate-discovery-features/"><u>Expanded Real Estate Discovery Features</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/maximizing-your-iphones-longenity-expert-strategies-to-extend-battery-life/"><u>Maximizing Your iPhone's Longenity: Expert Strategies to Extend Battery Life</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/sql-query-editor-enhance-your-database-management/"><u>SQL Query Editor: Enhance Your Database Management</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/test-drive-the-blueear-wireless-beanie-hat-trendy-and-efficient-for-your-listening-needs/"><u>Test Drive the BlueEar Wireless Beanie Hat – Trendy and Efficient for Your Listening Needs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-amplifying-audience-engagement-on-igtv-for-2024/"><u>The Art of Amplifying Audience Engagement on IGTV for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-json-data-format-and-file-handling/"><u>Understanding JSON Data Format and File Handling</u></a></li>
 </ul></div>
 

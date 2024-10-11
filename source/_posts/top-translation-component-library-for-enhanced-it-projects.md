@@ -1,7 +1,7 @@
 ---
 title: Top Translation Component Library for Enhanced IT Projects
-date: 2024-09-29T18:40:37.675Z
-updated: 2024-10-05T20:22:08.200Z
+date: 2024-10-07T23:57:03.915Z
+updated: 2024-10-10T22:46:22.657Z
 tags:
   - user-guide
 categories:
@@ -109,26 +109,26 @@ Table of Contents
 
 ## ITranslationsComponent
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 ITranslationsComponent : IDispatch
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to get interfaces for languages and languages options. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -136,10 +136,10 @@ This interface is meant to get interfaces for languages and languages options.
 **ILanguagesOptions** LanguagesOptions - Gets the interface for language options. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -149,10 +149,10 @@ This interface is meant to get interfaces for languages and languages options.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)LangId is a specified language id as detailed in the [Microsoft documentation](https://learn.microsoft.com/en-us/openspecs/office%5Fstandards/ms-oe376/6c085406-a698-4e12-9d4d-c3b0ee3dbc4a "Microsoft documentation").
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **RemoveLanguageAllBuilds(Int LangId)** \- Removes a specified language from all builds in the project. 
@@ -205,17 +205,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-comprehensive-guide-to-precision-screen-capture/"><u>[New] 2024 Approved The Comprehensive Guide to Precision Screen Capture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ps4-broadcast-simplified-detailed-steps-using-obs/"><u>2024 Approved PS4 Broadcast Simplified Detailed Steps Using OBS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-step-by-step-how-to-convert-and-download-vids-from-social-media-to-mp3s/"><u>2024 Approved Step-by-Step How to Convert and Download Vids From Social Media to MP3s</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/detailed-examination-how-the-newest-echo-generation-redefines-smart-home-tech/"><u>Detailed Examination: How the Newest Echo Generation Redefines Smart Home Tech</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/discover-the-essentials-of-iprogid-in-programming/"><u>Discover the Essentials of IProgID in Programming</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effective-techniques-for-capturing-high-quality-voice-conversations/"><u>Effective Techniques for Capturing High-Quality Voice Conversations</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/elevate-your-videos-with-top-ranking-free-ai-editors/"><u>Elevate Your Videos with Top-Ranking Free AI Editors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gopros-latest-camera-face-off/"><u>GoPro's Latest Camera Face-Off</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-melodicmeasurement-reaction-to-tunes/"><u>In 2024, MelodicMeasurement Reaction to Tunes</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/recognizing-and-guarding-against-fraudulent-technical-aid-schemes/"><u>Recognizing and Guarding Against Fraudulent Technical Aid Schemes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/wish-to-look-at-all-my-contacts-media-shared-in-chats-for-2024/"><u>Wish to Look at All My Contacts' Media Shared in Chats for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-foremost-low-impact-screen-recorders-explored-for-2024/"><u>[New] Foremost Low-Impact Screen Recorders Explored for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-experts-choice-of-commercial-free-recording/"><u>[Updated] Expert's Choice of Commercial-Free Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-producers-roadmap-pioneering-high-quality-asmr-content/"><u>[Updated] In 2024, A Producer's Roadmap Pioneering High-Quality ASMR Content</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-tips-for-fully-erasing-files-from-an-iphone-6-and-iphone-6-plus/"><u>Comprehensive Tips for Fully Erasing Files From an iPhone 6 and iPhone 6 Plus</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-access-to-canon-mf4500-driver-installation-packs/"><u>Easy Access to Canon MF4500 Driver Installation Packs</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/insert-additional-pages-into-a-pdf-three-user-friendly-strategies/"><u>Insert Additional Pages Into a PDF: Three User-Friendly Strategies</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-to-securely-broadcast-live-events-on-facebook-your-ultimate-livestreaming-manual/"><u>Simple Steps to Securely Broadcast Live Events on Facebook: Your Ultimate Livestreaming Manual</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/title-exploring-the-security-of-utorrent-is-it-reliable-and-virus-free-a-comprehensive-guide/"><u>Title: Exploring the Security of uTorrent: Is It Reliable and Virus-Free? A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-get-creative-with-these-free-video-special-effects-apps-for-ios-and-android/"><u>Updated In 2024, Get Creative with These Free Video Special Effects Apps for iOS and Android</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Key Real Estate Features: A Comprehensive Guide"
-date: 2024-09-30T19:55:54.774Z
-updated: 2024-10-05T21:05:45.211Z
+date: 2024-10-06T23:21:27.374Z
+updated: 2024-10-10T21:09:38.782Z
 tags:
   - user-guide
 categories:
@@ -77,15 +77,22 @@ Table of Contents
 ## Feature Properties
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 ![Feature properties](https://cdn.advancedinstaller.com/img/ui/feature-properties.png "Feature properties")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Identifier
 
@@ -94,15 +101,22 @@ Table of Contents
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When changing a feature's identifier, all the conditions and properties that refer to this identifier must be updated accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
 
  This text will appear in the Customize Dialog when the feature is selected in the features tree. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Feature Tree
 
@@ -114,23 +128,9 @@ Table of Contents
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The state of "collapsed" or "expanded" makes sense only if the feature has sub-features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Directory
 
 The directory that can be configured in CustomizeDlg dialog when this feature is selected in the features tree. This must be a user-defined directory that has an uppercase identifier.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Icon
 
@@ -140,33 +140,26 @@ The feature will have the selected icon prepended in the [Quick Selection List](
 
 All the components from the feature are marked as 64-bit components.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mark components in this feature as "Do not register with Windows Installer"
 
 If this option is selected all the components from the feature will have an empty GUID, and thus it will not be registered. This means that the components cannot be removed, repaired or patched by the installer. This might be useful if you intend to service/uninstall the components yourself (using a custom action, for instance).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mark System components in this feature as "permanent"
 
 If this option is selected, any component of the current feature to be installed in a system folder (system32, ProgramData, etc) will be marked as permanent (it will not be removed during an uninstall).
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Installation behavior
 
@@ -185,13 +178,6 @@ You can set install levels other than Installed, Not Installed and Disable in th
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)“Installation Behavior“ fields should not contain conditions based on a feature's or component's state because the expressions in these fields are evaluated before the installer checks the state of features and components. The expressions will always return false due to this fact.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install Settings
 
 * Install feature locally  
@@ -204,16 +190,10 @@ The components of this feature that are not marked for local installation will b
  The User Interface of Windows Installer does not display an option to change the feature's state. The "Entire feature will be unavailable" option will not be available for this feature in "CustomizeDlg."
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Advertise Settings
@@ -228,6 +208,13 @@ This feature can be installed as advertised but this is not the default installa
  The feature will be installed by default as advertised.
 * Disable advertise if the target system doesn't support it  
  Advertising for this feature is disabled if the shell does not support the Windows Installer descriptors.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Disable advertise
 
@@ -244,6 +231,13 @@ In case you have defined more that one build in the [Builds](https://tools.techi
 ### Include feature only in the selected builds
 
  This option allows you to specify the exact builds that will contain the feature. You can select those builds in the list below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -283,24 +277,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bridging-the-gap-between-reality-and-imagination-discover-8-astonishing-ways-ai-achieves-this-feat/"><u>Bridging the Gap Between Reality and Imagination: Discover 8 Astonishing Ways AI Achieves This Feat</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-made-better-in-chrome-discover-our-top-7-fixes/"><u>ChatGPT Made Better in Chrome: Discover Our Top 7 Fixes</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-understanding-the-multi-file-attributes-table/"><u>Comprehensive Guide: Understanding the Multi-File Attributes Table</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-setup-the-json-import-functionality-in-your-applications-settings/"><u>How to Setup the JSON Import Functionality in Your Application's Settings</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/proven-strategies-to-control-the-tempo-of-your-videos/"><u>Proven Strategies to Control the Tempo of Your Videos</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/quick-guide-to-seamlessly-download-4k-content-without-hitches/"><u>Quick Guide to Seamlessly Download 4K Content Without Hitches</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/stay-updated-latest-updates-on-trending-topics/"><u>Stay Updated: Latest Updates on Trending Topics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/step-by-step-techniques-for-computer-based-photo-filtering/"><u>Step-By-Step Techniques for Computer-Based Photo Filtering</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-role-of-artificial-intelligence-in-shaping-future-mental-health-solutions-beneficial-advancement-or-dangerous-development/"><u>The Role of Artificial Intelligence in Shaping Future Mental Health Solutions: Beneficial Advancement or Dangerous Development?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/the-ultimate-guide-to-coolest-id-photo-changers/"><u>The Ultimate Guide to Coolest ID Photo Changers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-3-tactics-converting-pins-to-audio-clips-for-2024/"><u>Top 3 Tactics Converting Pins to Audio Clips for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/top-translation-component-library-for-enhanced-it-projects/"><u>Top Translation Component Library for Enhanced IT Projects</u></a></li>
-<li><a href="https://win-top.techidaily.com/transformez-vos-chansons-wma-ou-wav-en-mp3-gratuitement-depannage-and-faq-sur-movavi/"><u>Transformez Vos Chansons WMA Ou WAV en MP3 Gratuitement - Dépannage & FAQ Sur Movavi</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-tutorial-on-rearranging-sequence-of-pdf-document-pages/"><u>Ultimate Tutorial on Rearranging Sequence of PDF Document Pages</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-and-adjusting-fastcgi-parameters-for-efficient-web-serving/"><u>Understanding and Adjusting FastCGI Parameters for Efficient Web Serving</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-v30t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme V30T Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/winning-the-battle-against-windows-11-bluetooth-driver-glitches-expert-tips-and-tricks/"><u>Winning the Battle Against Windows 11 Bluetooth Driver Glitches: Expert Tips & Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-basics-to-advanced-using-macs-preview-like-a-pro/"><u>[New] From Basics to Advanced Using Mac's Preview Like a Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expertise-unleashed-professional-insights-into-video-editing/"><u>[Updated] In 2024, Expertise Unleashed Professional Insights Into Video Editing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quiet-quests-for-cinematic-joy-top-free-films-on-youtube/"><u>2024 Approved Quiet Quests for Cinematic Joy Top Free Films on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/advanced-technology-showcase-reviewing-the-top-5-slow-motion-cameras-for-2024/"><u>Advanced Technology Showcase Reviewing the Top 5 Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/creative-strategies-for-designing-music-lyric-videos-alternate-approaches-showcased/"><u>Creative Strategies for Designing Music Lyric Videos: Alternate Approaches Showcased</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-picture-quality-solutions-for-unclear-graphics-in-pc-version-of-cod-warzone/"><u>Enhancing Picture Quality: Solutions for Unclear Graphics in PC Version of COD: Warzone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262318778-epyc-9755-turin-amds-record-breaking-128-core-processor-dominates-multi-threaded-benchmarks-with-over-108k-cpu-z-score/"><u>Epyc 9755 Turin: AMD's Record-Breaking 128-Core Processor Dominates Multi-Threaded Benchmarks with Over 108K CPU-Z Score!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/expanded-real-estate-discovery-features/"><u>Expanded Real Estate Discovery Features</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/fortnite-newcomers-roadmap-tips-and-tricks-for-success/"><u>Fortnite Newcomer's Roadmap: Tips and Tricks for Success</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/maximizing-your-iphones-longenity-expert-strategies-to-extend-battery-life/"><u>Maximizing Your iPhone's Longenity: Expert Strategies to Extend Battery Life</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/secure-connection-setting-up-hp-laserlife-connectivity/"><u>Secure Connection: Setting Up HP LaserLife Connectivity</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-for-embedding-youtube-clips-into-powerpoint-presentations-20102013/"><u>Simple Steps for Embedding YouTube Clips Into PowerPoint Presentations (2010/2013)</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/sql-query-editor-enhance-your-database-management/"><u>SQL Query Editor: Enhance Your Database Management</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-json-data-format-and-file-handling/"><u>Understanding JSON Data Format and File Handling</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unplugged-enjoyment-best-indoor-gaming-apps-on-mobile-devices/"><u>Unplugged Enjoyment Best Indoor Gaming Apps on Mobile Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

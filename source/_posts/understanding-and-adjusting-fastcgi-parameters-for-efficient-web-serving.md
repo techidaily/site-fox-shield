@@ -1,7 +1,7 @@
 ---
 title: Understanding and Adjusting FastCGI Parameters for Efficient Web Serving
-date: 2024-09-30T21:24:17.420Z
-updated: 2024-10-05T16:18:53.036Z
+date: 2024-10-05T17:26:04.683Z
+updated: 2024-10-10T21:19:31.346Z
 tags:
   - user-guide
 categories:
@@ -102,16 +102,10 @@ This view allows advanced configuration for FastCGI application pool definitions
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Only one pool will be added for all application mappings sharing the same **Script Processor**. To see all web sites using the pool, refer to the **Websites** column.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an element
@@ -119,10 +113,10 @@ This view allows advanced configuration for FastCGI application pool definitions
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected. The [FastCGI Properties dialog](https://tools.techidaily.com/advancedinstaller/products/) will be shown allowing you to configure an existing application pool definition along with its environment variables.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -165,15 +159,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pro-filmmakers-guide-to-speedy-shot-techniques/"><u>[Updated] 2024 Approved Pro Filmmaker's Guide to Speedy Shot Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-dive-deep-into-stardews-heart-with-our-guide-to-ginger-isle-for-2024/"><u>[Updated] Dive Deep Into Stardew's Heart with Our Guide to Ginger Isle for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/best-2022-software-for-background-removal-in-mac-images-top-picks/"><u>Best 2022 Software for Background Removal in Mac Images: Top Picks</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/best-lock-screen-apps-for-windows-8-top-picks-and-feature-comparisons/"><u>Best Lock Screen Apps for Windows 8: Top Picks and Feature Comparisons</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-nokia-c300-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nokia C300? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/customize-your-experience-with-easy-steps-in-the-user-account-settings-section/"><u>Customize Your Experience with Easy Steps in the User Account Settings Section</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-guide-to-converting-youtube-content-into-premium-wma-files/"><u>Easy Guide to Converting YouTube Content Into Premium WMA Files</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-lava-blaze-2-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Lava Blaze 2 Pro Phone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/top-rated-hd-recording-software-for-world-of-warcraft-a-comprehensive-guide/"><u>Top-Rated HD Recording Software for World of Warcraft: A Comprehensive Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/unlocking-viewership-growth-on-twitch-top-4-strategies/"><u>Unlocking Viewership Growth on Twitch Top 4 Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-5-voice-alteration-apps-for-professional-vtuber-artistry/"><u>[New] 2024 Approved Top 5 Voice Alteration Apps for Professional Vtuber Artistry</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/reaking-the-mold-pushing-a-video-into-hot-water/"><u>[New] Breaking the Mold Pushing a Video Into Hot Water</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-visual-impact-editing-videos-for-instagram-for-2024/"><u>[New] Enhancing Visual Impact Editing Videos for Instagram for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamline-your-workflow-learn-to-record-macs-screen-with-shortcuts-for-2024/"><u>[Updated] Streamline Your Workflow Learn to Record Mac's Screen with Shortcuts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-strategies-for-dealing-with-dark-video-frames-on-youtube/"><u>2024 Approved Strategies for Dealing with Dark Video Frames on YouTube</u></a></li>
+<li><a href="https://os-tips.techidaily.com/altering-iphone-web-browser-preferences-a-comprehensive-tutorial-for-google-chrome-apple-safari-and-opera-touch-users/"><u>Altering iPhone Web Browser Preferences: A Comprehensive Tutorial for Google Chrome, Apple Safari, and Opera Touch Users</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/create-unique-mobile-ringtones-from-youtube-songs-a-simple-guide/"><u>Create Unique Mobile Ringtones From YouTube Songs – A Simple Guide!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/downloadable-mp4mp3-converter-app-seamlessly-change-video-files-into-music-format/"><u>Downloadable MP4/MP3 Converter App - Seamlessly Change Video Files Into Music Format</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-different-java-application-design-patterns/"><u>Exploring Different Java Application Design Patterns</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lava-yuva-2-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lava Yuva 2 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-wisdom-for-the-virtual-realm-30plus-metaverse-quotes/"><u>In 2024, Crafting Wisdom for the Virtual Realm 30+ Metaverse Quotes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/key-features-and-attributes-in-driver-selection/"><u>Key Features and Attributes in Driver Selection</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mastering-iphone-revival-effective-strategies-using-icloud-backup-tools/"><u>Mastering iPhone Revival: Effective Strategies Using iCloud Backup Tools</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/no-cost-pc-microphone-software-capture-sound-on-any-windows-os/"><u>No-Cost PC Microphone Software - Capture Sound on Any Windows OS</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-the-apowermonkey-app-troubleshooting-failure-to-recognize-your-iphone-or-ipad/"><u>Solving the 'Apowermonkey' App: Troubleshooting Failure to Recognize Your iPhone or iPad</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-effectively-utilizing-apowerpdf-features/"><u>Step-by-Step Tutorial on Effectively Utilizing ApowerPDF Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-solving-obs-errors-windows-edition/"><u>Understanding and Solving OBS Errors: Windows Edition</u></a></li>
 </ul></div>
 
