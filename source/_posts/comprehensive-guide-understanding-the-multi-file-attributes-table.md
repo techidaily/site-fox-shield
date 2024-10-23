@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Understanding the Multi-File Attributes Table"
-date: 2024-10-06T23:15:19.792Z
-updated: 2024-10-10T19:41:13.640Z
+date: 2024-10-22T01:50:27.418Z
+updated: 2024-10-22T19:42:56.635Z
 tags:
   - user-guide
 categories:
@@ -98,14 +98,14 @@ In this dialog, you can mark the selected files for auto registration, register 
 
 ![Multiple Files Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/multiple-files-properties.png "Multiple Files Properties Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Properties
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Flags
 
@@ -118,10 +118,10 @@ When loading the attributes for multiple files, the checkboxes can be in one of 
 * Undecided - only a part of the selected files have that attribute.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Signature
@@ -129,26 +129,26 @@ When loading the attributes for multiple files, the checkboxes can be in one of 
  Specify whether you want to [digitally sign](https://tools.techidaily.com/advancedinstaller/products/) the selected files. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Version
 
 Clicking on the "Version" tab will allow you to set the [version](https://tools.techidaily.com/advancedinstaller/products/) for the selected files.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Registration
 
 Based on the type of the selected files, this tab might appear or might not. This tab will display all the available [Registration](https://tools.techidaily.com/advancedinstaller/products/) options based on the selected files' type. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Permissions
 
@@ -187,24 +187,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-xbox-live-success-top-four-steps-to-perfect-your-recording/"><u>[New] In 2024, Xbox Live Success Top Four Steps to Perfect Your Recording</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-cutting-edge-4k-cameras-ranked-1-15/"><u>[Updated] Cutting-Edge 4K Cameras Ranked #1-15</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-discovering-the-perfect-shape-tailoring-aspect-ratios-in-videos/"><u>[Updated] Discovering the Perfect Shape Tailoring Aspect Ratios in Videos</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/best-practices-for-balancing-mp3-track-volumes/"><u>Best Practices for Balancing MP3 Track Volumes</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/crafting-distinctive-user-identifiers-the-definitive-guide/"><u>Crafting Distinctive User Identifiers: The Definitive Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/detailed-overview-of-our-product-line-all-you-need-to-know/"><u>Detailed Overview of Our Product Line - All You Need to Know</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/essential-guide-revamping-your-sample-files-whats-new/"><u>Essential Guide: Revamping Your Sample Files - What's New?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722994896942-expert-tips-to-resolve-valheim-pc-stuttering-ensure-smooth-gameplay-today/"><u>Expert Tips to Resolve Valheim PC Stuttering – Ensure Smooth Gameplay Today!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-capture-screen-shots-efficiently-on-your-windows-phone/"><u>How to Capture Screen Shots Efficiently on Your Windows Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-manipulate-android-apps-using-a-computer-mouse-easy-steps-for-hands-free-control/"><u>How to Manipulate Android Apps Using a Computer Mouse: Easy Steps for Hands-Free Control</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quickscreen-log-review-and-alternative-apps/"><u>In 2024, QuickScreen Log Review and Alternative Apps</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-reinventing-classic-cinema-best-swaps-1-7/"><u>In 2024, Reinventing Classic Cinema Best Swaps #1-7</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>In 2024, Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-tips-for-kickstarting-a-social-philanthropy-blitz/"><u>In 2024, Tips for Kickstarting a Social Philanthropy Blitz</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/title-exploring-the-security-of-utorrent-is-it-reliable-and-virus-free-a-comprehensive-guide/"><u>Title: Exploring the Security of uTorrent: Is It Reliable and Virus-Free? A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/top-reliable-alternatives-to-easeus-data-recovery-a-comparative-guide/"><u>Top Reliable Alternatives to EaseUS Data Recovery: A Comparative Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/topmost-essential-tool-the-ultimate-background-removal-app-for-your-mac/"><u>Topmost Essential Tool: The Ultimate Background Removal App for Your Mac</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/unleash-your-creativity-top-free-online-video-editors/"><u>Unleash Your Creativity Top Free Online Video Editors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-action-camera-showdown-who-wins-with-gopro-hero5-black-and-yis-4k-update/"><u>[New] Action Camera Showdown Who Wins with GoPro Hero5 Black & Yi's 4K Update</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-amplify-volume-for-twitters-silent-videos/"><u>[New] Amplify Volume for Twitter's Silent Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-movement-study-2023/"><u>[Updated] Comprehensive Movement Study 2023</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quick-guide-resolving-obs-skipping-problems/"><u>2024 Approved Quick Guide Resolving OBS Skipping Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-depend-on-ai-like-chatgpt-for-reliable-health-insights/"><u>Can We Depend on AI Like ChatGPT for Reliable Health Insights?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cybersecurity-breakthroughs-with-ai-how-leading-experts-envision-defeating-digital-threats-zdnet/"><u>Cybersecurity Breakthroughs with AI: How Leading Experts Envision Defeating Digital Threats | ZDNet</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/debroussailler-les-difficultes-douverture-du-fichier-de-sauvegarde-analyser-les-reponses-aux-obstacles-et-mettre-en-oeuvre-des-solutions-innovantes/"><u>Débroussailler Les Difficultés D'Ouverture Du Fichier De Sauvegarde : Analyser Les Réponses Aux Obstacles Et Mettre en Œuvre Des Solutions Innovantes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1724765942933-dvdsdusbhdd/"><u>DVDデータの移行：SDカード、USBメモリ、外部HDDへの簡単な転送ガイド</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-fix-an-unresponsive-acer-display-step-by-step-guide/"><u>How to Fix an Unresponsive Acer Display: Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mobile-marvel-unveiled-in-our-review-of-hps-zbook-firefly-15-g8/"><u>Mobile Marvel Unveiled in Our Review of HP's ZBook Firefly 15 G8</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-to-set-up-hibernate-feature-for-seamless-power-management-in-windows-11/"><u>Simple Steps To Set Up Hibernate Feature For Seamless Power Management In Windows 11</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/transfert-facile-de-disque-dur-vers-ssd-m2-une-solution-rapide-pour-ameliorer-la-performance/"><u>Transfert Facile De Disque Dur Vers SSD M.2: Une Solution Rapide Pour Améliorer La Performance</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-walkthrough-safeguarding-your-iphone-memories-by-backing-up-to-an-ssd-on-windows-or-macos-systems/"><u>Ultimate Walkthrough: Safeguarding Your iPhone Memories by Backing Up to an SSD on Windows or macOS Systems</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/wiederherstellung-von-daten-auf-einer-nicht-bootfahigen-ssd-festplatte-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Daten Auf Einer Nicht Bootfähigen SSD-Festplatte – Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Key Features and Attributes in Driver Selection
-date: 2024-10-03T23:40:55.458Z
-updated: 2024-10-11T00:56:38.637Z
+date: 2024-10-15T22:22:31.994Z
+updated: 2024-10-23T02:49:05.586Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,16 @@ Table of Contents
 ![Driver properties](https://cdn.advancedinstaller.com/img/ui/driver-properties.png "Driver properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Driver Name
@@ -89,25 +95,38 @@ Table of Contents
  The name displayed in the available drivers list on the target machine (in ODBC Data Source Administrator). This name must be unique and it will also be displayed in the “Drivers” tree folder. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File
 
  The path to the driver file. This file must be already included in your project. 
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Setup File
 
  The DLL file that installs the above driver on the target machine. The setup file may be absent and in this case it is considered that the DLL driver file embeds the functionality of a driver setup file as well. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attributes
@@ -119,13 +138,6 @@ Table of Contents
 * Press the \[Remove \] button, use the “Remove” context menu item or press theDelete key to remove the attribute selected in the list.
 
 In the [Edit Attribute Dialog](https://tools.techidaily.com/advancedinstaller/products/) you can modify the attribute name and value.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -165,15 +177,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-fb-to-melodic-mp3s-simple-conversion-high-quality-outputs/"><u>[Updated] 2024 Approved FB to Melodic MP3s Simple Conversion, High Quality Outputs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screen-free-serenity-top-10-indoor-games-for-non-networked-play-android/"><u>[Updated] In 2024, Screen-Free Serenity Top 10 Indoor Games for Non-Networked Play (Android)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-disrupted-beats-best-mobile-music-distortors/"><u>2024 Approved Disrupted Beats Best Mobile Music Distortors</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/a-comprehensive-guide-to-understanding-flac-audio-files/"><u>A Comprehensive Guide to Understanding FLAC Audio Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-firsthand-look-at-mistral-ais-le-chat-how-it-stands-up-to-chatgpt/"><u>A Firsthand Look at Mistral AI's Le Chat - How It Stands Up to ChatGPT</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/create-unique-mobile-ringtones-from-youtube-songs-a-simple-guide/"><u>Create Unique Mobile Ringtones From YouTube Songs – A Simple Guide!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/essential-guide-to-8-premium-free-software-apps-windowsmac-for-2024/"><u>Essential Guide to 8 Premium Free Software Apps (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/no-cost-pc-microphone-software-capture-sound-on-any-windows-os/"><u>No-Cost PC Microphone Software - Capture Sound on Any Windows OS</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-effectively-utilizing-apowerpdf-features/"><u>Step-by-Step Tutorial on Effectively Utilizing ApowerPDF Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/trouble-with-your-skype-try-our-10-strategies-for-seamless-connectivity/"><u>Trouble with Your Skype? Try Our 10 Strategies for Seamless Connectivity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-bypassing-ban-secret-insights-into-avoiding-fb-blacklist/"><u>[New] In 2024, Bypassing Ban Secret Insights Into Avoiding FB Blacklist</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-grading-inshot-does-it-reign-supreme/"><u>[Updated] Grading InShot Does It Reign Supreme?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-podcast-titling-a-step-by-step-guide/"><u>2024 Approved The Art of Podcast Titling A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/beste-weglosungen-fur-bootrec-fixboot-zugang-verweigert-behoben/"><u>Beste Weglösungen Für 'Bootrec / Fixboot Zugang Verweigert' - Behoben</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/boot-device-not-found/"><u>Boot Device Not Found</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comment-conserver-votre-partition-de-recuperation-dans-windows-astuces-detaillees-pour-wndows-111087/"><u>Comment Conserver Votre Partition De Récupération Dans Windows : Astuces Détaillées Pour Wndows 11/10/8/7</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/configurer-commodement-windows-11-conseils-pour-une-installation-economique-et-simple/"><u>Configurer Commodément Windows 11: Conseils Pour Une Installation Économique Et Simple</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/de-top-18-all-time-beste-gratis-video-editors-ohne-merken/"><u>De Top 18 All Time Beste Gratis Video Editors Ohne Merken</u></a></li>
+<li><a href="https://driver-install.techidaily.com/directly-implementing-updates-to-windows-vistas-driver-modules/"><u>Directly Implementing Updates to Windows Vista's Driver Modules</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-video-transcoder-streamlined-downloading-of-movies-and-videos/"><u>Movavi Video Transcoder - Streamlined Downloading of Movies & Videos</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/scopri-come-funziona-il-backup-di-windows-server-conservazione-di-una-singola-copia/"><u>Scopri Come Funziona Il Backup Di Windows Server: Conservazione Di Una Singola Copia</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-instructions-for-live-syncing-folders-on-various-windows-platforms-781011/"><u>Step-by-Step Instructions for Live Syncing Folders on Various Windows Platforms (7/8/10/11)</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/tecnica-para-particionar-archivos-de-graficos-mediante-aomei-backupper/"><u>Técnica Para Particionar Archivos De Gráficos Mediante AOMEi Backupper</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/tomorrows-evaluation-creative-pathways/"><u>Tomorrow’s Evaluation Creative Pathways</u></a></li>
 </ul></div>
 
