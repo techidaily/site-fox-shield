@@ -1,7 +1,7 @@
 ---
 title: Enhancing Workflow Efficiency Through PowerShell's Attached Script Features
-date: 2024-10-21T03:20:56.113Z
-updated: 2024-10-22T17:17:39.802Z
+date: 2024-10-27T16:56:36.294Z
+updated: 2024-11-03T18:54:48.033Z
 tags:
   - user-guide
 categories:
@@ -126,38 +126,25 @@ Table of Contents
 ## IPowershellAttachedScriptFile
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IPowershellAttachedScriptFile : ICustomAction
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This interface facilitates editing custom action that allows launching an attached Powershell script file into execution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -168,24 +155,31 @@ This interface facilitates editing custom action that allows launching an attach
 
 **Bool Is64Bit** \- Gets or sets the property of the custom action to run the 32-bit PowerShell executable. If Is32Bit value is also “true” then runs the Operating System bitness PowerShell executable (32-bit on x86 operating systems, 64-bit on x64).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Examples
 
       $advinst = new-object -com AdvancedInstaller
 $project = $advinst.CreateProjectS(“architect”)
 $custAct = $project.CustomActionsComponent.NewPowershellAttachedScriptFile("D:\my_script.ps1")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set “Is32Bit” and “Is64Bit” properties to true to auto detect OS bitness PowerShell executable
 $custAct.Is32Bit = $true
 $custAct.Is64Bit = $true
 
     Copy
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -226,15 +220,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-shield.techidaily.com/decouvrez-des-moyens-rapides-pour-activer-plus-de-fonctionnalites-par-clavier-dans-windows-11-4-techniques-eprouvees/"><u>Découvrez Des Moyens Rapides Pour Activer Plus De Fonctionnalités Par Clavier Dans Windows 11 - 4 Techniques Éprouvées</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/error-404-the-missing-page-youre-searching-for/"><u>Error 404: The Missing Page You're Searching For</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-through-youtube-talks-for-2024/"><u>Filtering Through YouTube Talks for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/guide-to-concealed-voice-in-online-collectives/"><u>Guide to Concealed Voice in Online Collectives</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-14-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi 14 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://article-tips.techidaily.com/make-gif-on-iphone-top-10-gif-apps-for-iphone-x876/"><u>Make GIF on iPhone Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigate-the-maze-delete-your-facebook-on-android/"><u>Navigate The Maze: Delete Your Facebook On Android</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/seamless-icloud-migration-a-step-by-step-guide-from-old-to-new-iphone/"><u>Seamless iCloud Migration: A Step-by-Step Guide From Old to New iPhone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/top-free-backup-und-synchronisationstools-fur-windows-betriebssysteme-windows-11-10-8-7/"><u>Top FREE Backup Und Synchronisationstools Für Windows-Betriebssysteme: Windows 11, 10, 8, 7</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-3-ways-to-record-whatsapp-call/"><u>[New] In 2024, 3 Ways to Record WhatsApp Call</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-streamlined-method-for-your-macos-sierra-enhancement/"><u>[Updated] 2024 Approved A Streamlined Method for Your MacOS Sierra Enhancement</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728465631324-4/"><u>「ネットワークドライブ上で削除されたファイルの復元方法4つ」</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-4-steps-to-recover-deleted-data-from-your-free-drive-account/"><u>1. '4 Steps to Recover Deleted Data From Your Free Drive Account'</u></a></li>
+<li><a href="https://fox-http.techidaily.com/detailed-synopsis-googles-podcast-platform-explored/"><u>Detailed Synopsis Google's Podcast Platform Explored</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/efficient-hyper-v-data-protection-on-different-windows-servers-windows-server-2022201920162012/"><u>Efficient Hyper-V Data Protection on Different Windows Servers (Windows Server 2022/2019/2016/2012)</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/efficient-methods-for-downsaming-windows-11-onto-a-compact-ssd/"><u>Efficient Methods for Downsaming Windows 11 Onto a Compact SSD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-actions-to-resolve-windowed-games-issue/"><u>Essential Actions to Resolve Windowed Games Issue</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/guia-paso-a-paso-clonar-windows-11-y-configurar-un-sistema-de-inicio-desde-una-memoria-usb-tres-escenarios-ilustrados/"><u>Guía Paso a Paso: Clonar Windows 11 Y Configurar Un Sistema De Inicio Desde Una Memoria USB (Tres Escenarios Ilustrados)</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/guia-paso-a-paso-crea-imagenes-de-escritorio-con-tu-pc-o-laptop-usando-windows-11-10-8-u-7/"><u>Guía Paso a Paso: Crea Imágenes De Escritorio Con Tu PC O Laptop Usando Windows 11, 10, 8 U 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-v-purse-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor V Purse Phone?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-enhancing-instagram-presence-vimeo-videos-included/"><u>In 2024, Enhancing Instagram Presence Vimeo Videos Included</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/leading-free-seagate-nas-system-backup-solutions-compatible-with-windows-1187/"><u>Leading Free Seagate NAS System Backup Solutions Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quicker-than-ever-the-new-rapid-microsoft-edge-experience/"><u>Quicker Than Ever: The New, Rapid Microsoft Edge Experience</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/schritt-fur-schritt-sichere-deine-itunes-daten-durch-speicherung-auf-einer-externen-speichergerat/"><u>Schritt-Für-Schritt: Sichere Deine iTunes Daten Durch Speicherung Auf Einer Externen Speichergerät.</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-past-the-steam-file-access-hurdle/"><u>Stepping Past the Steam “File Access” Hurdle</u></a></li>
 </ul></div>
 

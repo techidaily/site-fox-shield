@@ -1,7 +1,7 @@
 ---
 title: Key Features and Attributes in Driver Selection
-date: 2024-10-15T22:22:31.994Z
-updated: 2024-10-23T02:49:05.586Z
+date: 2024-10-27T18:23:14.791Z
+updated: 2024-11-03T16:08:21.972Z
 tags:
   - user-guide
 categories:
@@ -78,16 +78,10 @@ Table of Contents
 ![Driver properties](https://cdn.advancedinstaller.com/img/ui/driver-properties.png "Driver properties")  
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Driver Name
@@ -95,10 +89,10 @@ Table of Contents
  The name displayed in the available drivers list on the target machine (in ODBC Data Source Administrator). This name must be unique and it will also be displayed in the “Drivers” tree folder. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File
@@ -106,16 +100,10 @@ Table of Contents
  The path to the driver file. This file must be already included in your project. 
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setup File
@@ -123,10 +111,10 @@ Table of Contents
  The DLL file that installs the above driver on the target machine. The setup file may be absent and in this case it is considered that the DLL driver file embeds the functionality of a driver setup file as well. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attributes
@@ -177,20 +165,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-bypassing-ban-secret-insights-into-avoiding-fb-blacklist/"><u>[New] In 2024, Bypassing Ban Secret Insights Into Avoiding FB Blacklist</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-grading-inshot-does-it-reign-supreme/"><u>[Updated] Grading InShot Does It Reign Supreme?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-podcast-titling-a-step-by-step-guide/"><u>2024 Approved The Art of Podcast Titling A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/beste-weglosungen-fur-bootrec-fixboot-zugang-verweigert-behoben/"><u>Beste Weglösungen Für 'Bootrec / Fixboot Zugang Verweigert' - Behoben</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/boot-device-not-found/"><u>Boot Device Not Found</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comment-conserver-votre-partition-de-recuperation-dans-windows-astuces-detaillees-pour-wndows-111087/"><u>Comment Conserver Votre Partition De Récupération Dans Windows : Astuces Détaillées Pour Wndows 11/10/8/7</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/configurer-commodement-windows-11-conseils-pour-une-installation-economique-et-simple/"><u>Configurer Commodément Windows 11: Conseils Pour Une Installation Économique Et Simple</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/de-top-18-all-time-beste-gratis-video-editors-ohne-merken/"><u>De Top 18 All Time Beste Gratis Video Editors Ohne Merken</u></a></li>
-<li><a href="https://driver-install.techidaily.com/directly-implementing-updates-to-windows-vistas-driver-modules/"><u>Directly Implementing Updates to Windows Vista's Driver Modules</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-video-transcoder-streamlined-downloading-of-movies-and-videos/"><u>Movavi Video Transcoder - Streamlined Downloading of Movies & Videos</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/scopri-come-funziona-il-backup-di-windows-server-conservazione-di-una-singola-copia/"><u>Scopri Come Funziona Il Backup Di Windows Server: Conservazione Di Una Singola Copia</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-instructions-for-live-syncing-folders-on-various-windows-platforms-781011/"><u>Step-by-Step Instructions for Live Syncing Folders on Various Windows Platforms (7/8/10/11)</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/tecnica-para-particionar-archivos-de-graficos-mediante-aomei-backupper/"><u>Técnica Para Particionar Archivos De Gráficos Mediante AOMEi Backupper</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/tomorrows-evaluation-creative-pathways/"><u>Tomorrow’s Evaluation Creative Pathways</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-tapping-into-youtubes-earnings-how-much-do-you-make-from-adsense-per-kv/"><u>[New] In 2024, Tapping Into Youtube's Earnings How Much Do You Make From AdSense Per KV?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/5zwf5lql77ya5b6e5lin5zcm6kes5bqm55ylic0g5aac5l2v5yip55so5ywn6lk76kmm55so54mi55qe5pya5l2z5ykz5lu956il5byp77ym57wv5aaz5zyw5ouv5pwr5yuv5owl56ob56kf54mh/"><u>啟事：從不同角度看 - 如何利用免費試用版的最佳備份程式，絕妙地拯救動態磁碟片</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728497704663-hdd/"><u>運用外置HDD來解決文件備份導致的困境</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-influence-on-software-development-shaping-future-workflows/"><u>AI's Influence on Software Development: Shaping Future Workflows</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ameliorez-vos-voyages-avec-la-maitrise-de-lautomatisation-innovante/"><u>Améliorez Vos Voyages Avec La Maîtrise De L'Automatisation Innovante</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/automatic-backup-scheduling-in-windows-10-three-methods-explained/"><u>Automatic Backup Scheduling in Windows 10 - Three Methods Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comment-movavi-gere-t-il-les-achats-et-les-restitutions-decouvrez-nos-politiques-efficaces-pour-une-meilleure-experience-client/"><u>Comment Movavi Gère-T-Il Les Achats Et Les Restitutions ? Découvrez Nos Politiques Efficaces Pour Une Meilleure Expérience Client</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comment-revenir-de-windows-10-a-windows-7-sans-perte-de-donnees-en-deux-facons-simples/"><u>Comment Revenir De Windows 10 À Windows 7 Sans Perte De Données en Deux Façons Simples</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/guia-facil-como-subir-sus-correos-de-outlook-pst-a-la-nube-con-onedrive/"><u>Guía Fácil: Cómo Subir Sus Correos De Outlook (PST) a La Nube Con OneDrive</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nokia-130-music-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nokia 130 Music Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-set-up-custom-hotkeys-for-pasting-pre-defined-text-snippets-in-windows-11-and-11/"><u>How to Set Up Custom Hotkeys for Pasting Pre-Defined Text Snippets in Windows 11 & 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g24-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G24 Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ultimate-mc-village-dwellings-guide/"><u>In 2024, Ultimate MC Village Dwellings Guide</u></a></li>
 </ul></div>
 

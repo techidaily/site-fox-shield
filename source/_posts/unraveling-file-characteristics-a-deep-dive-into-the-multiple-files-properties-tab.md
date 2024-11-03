@@ -1,7 +1,7 @@
 ---
 title: "Unraveling File Characteristics: A Deep Dive Into the Multiple Files Properties Tab"
-date: 2024-10-19T06:36:01.672Z
-updated: 2024-10-22T23:30:22.082Z
+date: 2024-10-29T17:00:25.389Z
+updated: 2024-11-03T19:51:48.087Z
 tags:
   - user-guide
 categories:
@@ -99,10 +99,10 @@ In this dialog, you can mark the selected files for auto registration, register 
 ![Multiple Files Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/multiple-files-properties.png "Multiple Files Properties Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -117,37 +117,37 @@ When loading the attributes for multiple files, the checkboxes can be in one of 
 * Unchecked - none of the selected files have that attribute.
 * Undecided - only a part of the selected files have that attribute.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Signature
 
  Specify whether you want to [digitally sign](https://tools.techidaily.com/advancedinstaller/products/) the selected files. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Version
 
 Clicking on the "Version" tab will allow you to set the [version](https://tools.techidaily.com/advancedinstaller/products/) for the selected files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Registration
 
 Based on the type of the selected files, this tab might appear or might not. This tab will display all the available [Registration](https://tools.techidaily.com/advancedinstaller/products/) options based on the selected files' type. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Permissions
@@ -187,18 +187,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-preserving-periscope-content-tips-from-the-pros/"><u>[New] Preserving Periscope Content Tips From the Pros</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-frameworks-for-dynamic-fb-video-marketing/"><u>[Updated] 2024 Approved Frameworks for Dynamic FB Video Marketing</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-easyshadecleanse-professionally-crafted-erase-software/"><u>[Updated] In 2024, EasyShadeCleanse Professionally Crafted Erase Software</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-your-first-youtube-journey-a-money-making-blueprint/"><u>[Updated] In 2024, Your First Youtube Journey A Money-Making Blueprint</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-quick-guide-to-retrieving-lost-data-from-your-laptops-hdd/"><u>1. Quick Guide to Retrieving Lost Data From Your Laptop's HDD</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-securing-your-periscope-footage-expert-techniques-revealed/"><u>2024 Approved Securing Your Periscope Footage Expert Techniques Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-pioneers-making-waves-in-digital-av-creation/"><u>2024 Approved Top Pioneers Making Waves in Digital AV Creation</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/i-due-modi-migliori-per-eseguire-un-backup-completo-dei-tuoi-contatti-google-su-windows-guida-dettagliata/"><u>I Due Modi Migliori per Eseguire Un Backup Completo Dei Tuoi Contatti Google Su Windows - Guida Dettagliata</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-why-iphone-images-wont-show-up-on-your-windows-computer-and-how-to-solve-it/"><u>Troubleshooting: Why iPhone Images Won't Show Up on Your Windows Computer and How to Solve It</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-guide-aomei-backupper-essential-questions-answered/"><u>Ultimate Guide: AOMEI Backupper Essential Questions Answered</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-brand-growth-on-facebook-the-strength-of-pages-over-personal/"><u>Unlocking Brand Growth on Facebook: The Strength of Pages Over Personal</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728509100031-windows-7810112/"><u>Windows 7/8/10/11に最適化したシノダリオバイナクルーズ同期の2つの容易な手法</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-essence-extractor-capturing-and-saving-the-soul-of-twitter-gifs/"><u>[New] In 2024, Essence Extractor Capturing & Saving the Soul of Twitter GIFs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-preserve-and-showcase-nine-exceptional-tools-for-animated-gifs-on-pc/"><u>[New] In 2024, Preserve & Showcase Nine Exceptional Tools for Animated GIFs on PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-top-ios-and-android-photo-blur-tools/"><u>[Updated] 2024 Approved Top iOS & Android Photo Blur Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-spreading-smiles-building-a-solid-foundation-in-gif-humor-for-2024/"><u>[Updated] Spreading Smiles Building a Solid Foundation in GIF Humor for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-your-streaming-choice-podcast-or-video-platform/"><u>2024 Approved Selecting Your Streaming Choice Podcast or Video Platform</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728493602571-instagram/"><u>如何在多種裝置上復原Instagram刪除的帖子</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/virtualboxhdd/"><u>完全復元力！VirtualBox上で簡単にHDDをコピーする究極ガイド</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-dual-core-cpus-over-not-with-intels-latest-310-leading-two-p-cores-on-geekbench/"><u>Are Dual-Core CPUs Over? Not with Intel's Latest 310 Leading Two P-Cores on Geekbench</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/infuse-your-snap-with-japanese-pop-culture-the-anime-filter-tutorial-for-2024/"><u>Infuse Your Snap with Japanese Pop Culture The Anime Filter Tutorial for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metaverse-branding-strategies-unveiled/"><u>Metaverse Branding Strategies Unveiled</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/protect-and-secure-essential-tips-for-a-seamless-transition-from-windows-10-to-windows-11-with-prior-data-backups/"><u>Protect and Secure: Essential Tips for a Seamless Transition From Windows 10 to Windows 11 with Prior Data Backups</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-elevated-cpu-consumption-issues-with-wudfhostexe-on-windows-11/"><u>Resolving Elevated CPU Consumption Issues with wudfhost.exe on Windows 11</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/resolving-the-not-working-issue-of-windows-defender-in-windows-11-a-comprehensive-fix-guide/"><u>Resolving the 'Not Working' Issue of Windows Defender in Windows 11: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/the-ultimate-guide-to-choosing-excellent-seagate-cloning-software/"><u>The Ultimate Guide to Choosing Excellent Seagate Cloning Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-3-free-backup-tools-cross-platform-support-for-windows-mac-and-linux-systems/"><u>Top 3 Free Backup Tools: Cross-Platform Support for Windows, Mac & Linux Systems</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/troubleshooting-guide-why-does-your-recycle-bin-still-appear-full/"><u>Troubleshooting Guide: Why Does Your Recycle Bin Still Appear Full?</u></a></li>
 </ul></div>
 

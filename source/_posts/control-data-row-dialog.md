@@ -1,7 +1,7 @@
 ---
 title: Control Data Row Dialog.
-date: 2024-10-16T02:13:17.355Z
-updated: 2024-10-23T05:34:36.359Z
+date: 2024-10-27T16:55:42.694Z
+updated: 2024-11-03T17:44:56.017Z
 tags:
   - user-guide
 categories:
@@ -83,33 +83,33 @@ Table of Contents
 
 ## Control Data Row Dialog
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Values
 
 ![Control Data Row Dialog](https://cdn.advancedinstaller.com/img/dialog/control-data-row.png "Control Data Row Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Text
 
 Specify item text.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Value
 
 Specify item value.
 
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can insert a reference to a property.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Icon File
 
@@ -118,17 +118,17 @@ Specify item icon. Use the \[... \] to select one.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option is available only for ListView controls.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Icon Preview
@@ -168,22 +168,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers-for-2024/"><u>[New] Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-eyesharp-hd-high-definition-chromecasting-for-2024/"><u>[New] EyeSharp HD High Definition Chromecasting for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ncovering-your-personalized-playlist-hideaway-for-2024/"><u>[New] Uncovering Your Personalized Playlist Hideaway for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-prime-guidelines-youtube-respect-and-usage/"><u>[Updated] Prime Guidelines YouTube Respect & Usage</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-professional-screencapture-for-windows-11/"><u>[Updated] Professional ScreenCapture for Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-wmp-techniques-for-efficient-cd-handling-and-recordings/"><u>2024 Approved Master WMP Techniques for Efficient CD Handling and Recordings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/action-camera-showdown-unmatched-seventh-lineup-wetproof/"><u>Action Camera Showdown Unmatched Seventh Lineup Wetproof</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/backup-tools-fur-wd-my-passport-effiziente-losungen-unter-verschiedenen-windows-versionen/"><u>Backup-Tools Für WD My Passport: Effiziente Lösungen Unter Verschiedenen Windows-Versionen</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/best-practices-fur-das-sichere-backup-von-mysql-datenbanken-mit-top-backupsoftware/"><u>Best Practices Für Das Sichere Backup Von MySQL Datenbanken Mit Top-Backupsoftware</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/drei-effiziente-methoden-um-ihren-windows-10-computer-zu-sichern-ohne-externe-festplatten/"><u>Drei Effiziente Methoden, Um Ihren Windows 10 Computer Zu Sichern - Ohne Externe Festplatten</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/losungen-fur-probleme-mit-nicht-gefundenen-pst-datenbankdateien-was-tun/"><u>Lösungen Für Probleme Mit Nicht Gefundenen PST-Datenbankdateien: Was Tun?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/mastering-avast-cleanup-tool-steps-for-deletion-and-file-recovery-guidelines/"><u>Mastering Avast CleanUp Tool: Steps for Deletion and File Recovery Guidelines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-fixing-device-disconnection-on-win-1011/"><u>Navigating and Fixing Device Disconnection on Win 10/11</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/overcome-0x81000037-backup-issue-in-windows-11-with-these-three-fixes/"><u>Overcome 0X81000037 Backup Issue in Windows 11 with These Three Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-download-the-ultimate-guide-to-installing-your-dell-latitude-e620-drivers/"><u>Speedy Download: The Ultimate Guide to Installing Your Dell Latitude E6#20 Drivers</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728495463376-usb/"><u>USB分割錯亂修正法，如何回復遺失或被誤刪的磁碟檔案</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728478203555-windows-11/"><u>Windows 11で最適化された増分・差分バックアップガイド</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-setting-up-auto-play-youtube-content-on-facebook-platform/"><u>[New] 2024 Approved Setting Up Auto-Play YouTube Content on Facebook Platform</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-trendsetting-tags-top-10-to-make-your-post-pop/"><u>2024 Approved Trendsetting Tags Top 10 To Make Your Post Pop</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-steps-to-purge-photos-videos-and-apps-from-your-androids-memory-for-better-performance/"><u>Easy Steps to Purge Photos, Videos, & Apps From Your Android's Memory for Better Performance</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effiziente-strategien-zur-optimierung-ihres-c-laufwerks-auf-dem-windows-server-schritt-fur-schritt-anleitung/"><u>Effiziente Strategien Zur Optimierung Ihres C-Laufwerks Auf Dem Windows Server - Schritt Für Schritt Anleitung</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-tips-4-ways-to-enhance-fb-live-recording/"><u>Expert Tips 4 Ways to Enhance FB Live Recording</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/guida-passo-passo-per-accedere-alla-partizione-nascosta-di-ripristino-in-vari-sistemi-operativi-windows/"><u>Guida Passo-Passo per Accedere Alla Partizione Nascosta Di Ripristino in Vari Sistemi Operativi Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/has-artificial-intelligence-overshadowed-human-written-assignments-for-students/"><u>Has Artificial Intelligence Overshadowed Human-Written Assignments for Students?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-v29-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo V29 Fingerprint Lock</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-innovative-online-audio-cutter-utilities-the-leading-tools/"><u>New 2024 Approved Innovative Online Audio Cutter Utilities – The Leading Tools</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/optimize-your-flipbook-experience-for-readers-using-flipbuilders-tools/"><u>Optimize Your FlipBook Experience for Readers Using FlipBuilder's Tools!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reclaim-your-iphone-x-experience-with-these-tips/"><u>Reclaim Your iPhone X Experience with These Tips</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solution-facile-et-detaillee-pour-revenir-en-arriere-sur-la-desinstallation-accidentelle-dun-programme-pc/"><u>Solution Facile Et Détaillée Pour Revenir en Arrière Sur La Désinstallation Accidentelle D'un Programme PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-communication-equipment-for-your-gaming-setup-revealed/"><u>The Best Communication Equipment for Your Gaming Setup Revealed</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-server-cloning-software-with-os-and-hard-drive-support/"><u>Top Server Cloning Software with OS and Hard Drive Support</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-walkthrough-how-to-seamlessly-move-your-iphones-business-whatsapp-data-to-another-iphone-device/"><u>Ultimate Walkthrough: How to Seamlessly Move Your iPhone's Business WhatsApp Data to Another iPhone Device</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-partition-alignment-in-ssds-a-guide-to-proper-configuration/"><u>Understanding Partition Alignment in SSDs - A Guide to Proper Configuration</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/vmfs-capacity-upgrade-difficulties-resolved-tips-for-successful-expansion-on-vmware-esxi-servers/"><u>VMFS Capacity Upgrade Difficulties Resolved - Tips for Successful Expansion on VMware ESXi Servers</u></a></li>
 </ul></div>
 
