@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Transferring Data From Your Laptop to an Exterior Hard Drive on Windows 11"
-date: 2024-11-02T19:18:27.478Z
-updated: 2024-11-03T16:56:57.842Z
+date: 2024-11-11T20:53:39.851Z
+updated: 2024-11-12T17:45:06.494Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b573d2796a1411e612ad84808.jpg
@@ -50,10 +50,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -73,10 +73,10 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
@@ -100,6 +100,13 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -151,6 +158,13 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -178,10 +192,10 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -218,13 +232,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -255,13 +262,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -270,14 +270,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,22 +300,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-stars-quick-visibility-check/"><u>[New] 2024 Approved Star's Quick Visibility Check</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-boost-your-creativity-top-50plus-tiktok-motivational-quotes-for-2024/"><u>[New] Boost Your Creativity Top 50+ TikTok Motivational Quotes for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-access-luxury-free-access-to-your-dreamset-of-50-banners-for-2024/"><u>[Updated] Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-six-secrets-to-holding-your-viewers-attention/"><u>[Updated] The Six Secrets to Holding Your Viewers' Attention</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-unleash-superior-hd-videos-on-android-devices/"><u>2024 Approved Unleash Superior HD Videos on Android Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/1719366357478-6-ultimate-methods-to-end-stuck-windows-updates-now/"><u>6 Ultimate Methods to End Stuck Windows Updates Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-still-6-strengths-of-selecting-plus-endure/"><u>ChatGPT Unleashed; Still, 6 Strengths of Selecting Plus Endure</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comment-generer-une-edition-portable-facilement/"><u>Comment Générer Une Édition Portable Facilement?</u></a></li>
-<li><a href="https://games-able.techidaily.com/easing-stress-from-screen-time-gaming-recovery-guide/"><u>Easing Stress From Screen Time: Gaming Recovery Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/gangige-probleme-mit-itunes-unter-windows-10-und-ihre-effektiven-losungsstrategien/"><u>Gängige Probleme Mit iTunes Unter Windows 10 Und Ihre Effektiven Lösungsstrategien</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/multi-account-integration-using-google-drive-for-desktop-on-windows-1011/"><u>Multi-Account Integration: Using Google Drive for Desktop on Windows 10/11</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ntfs-recovery-lose-no-data-restoration-techniques-with-myrecover/"><u>NTFS Recovery - Lose No Data Restoration Techniques with MyRecover</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professionelle-schnellreparatur-treiberfehler-des-bcm20702a0-unter-windows-11-topstrategien-zum-ausbessern/"><u>Professionelle Schnellreparatur: Treiberfehler Des BCM20702A0 Unter Windows 11 – Topstrategien Zum Ausbessern</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/schritt-fur-schritt-anleitung-zum-systemboot-von-einem-usb-stick-unter-windows-1011/"><u>Schritt-Für-Schritt-Anleitung Zum Systemboot Von Einem USB-Stick Unter Windows 10/11</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/seamless-ssd-ersatz-fur-laptops-keine-reinstallation-erforderlich-einfach-wechseln/"><u>Seamless SSD Ersatz Für Laptops: Keine Reinstallation Erforderlich, Einfach Wechseln!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-out-in-the-stream-top-name-generators-reviewed/"><u>Stand Out in the Stream Top Name Generators Reviewed</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728490601169-windows-update/"><u>Windows Update完了後のリブート処理状況について:</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-overwatch-on-screen-recording-made-easy/"><u>[New] Overwatch On-Screen Recording Made Easy</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-blurring-identity-erasing-faces-from-video-content/"><u>[Updated] In 2024, Blurring Identity Erasing Faces From Video Content</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-ultimate-selection-of-premium-mesh-wi-fi-setups/"><u>2024'S Ultimate Selection of Premium Mesh Wi-Fi Setups</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/after-effects-datei-recovery-schritt-fur-schritt-anleitung-zur-reparatur/"><u>After Effects-Datei Recovery: Schritt-Für-Schritt Anleitung Zur Reparatur</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/are-apples-new-processors-revolutionizing-editing-tech-in-2024/"><u>Are Apple's New Processors Revolutionizing Editing Tech, In 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-on-utilizing-the-xxclone-software-within-windows-11-environments/"><u>Comprehensive Guide on Utilizing the XXClone Software Within Windows 11 Environments</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/converti-e-sposta-il-tuo-sistema-windows-nella-nuova-era-dellssd-un-tutorial-su-clonambr-in-gpt/"><u>Converti E Sposta Il Tuo Sistema Windows Nella Nuova Era Dell'SSD: Un Tutorial Su ClonaMBR in GPT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/master-hard-drive-duplication-on-windows-10-x64-a-comprehensive-cloning-how-to/"><u>Master Hard Drive Duplication on Windows 10 X64: A Comprehensive Cloning How-To</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-mobile-evolution-unveiling-leading-trends-such-as-smartphone-advancements-and-intelligent-device-technology-zdnet/"><u>Navigating Mobile Evolution: Unveiling Leading Trends Such as Smartphone Advancements and Intelligent Device Technology | ZDNET</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-from-amateur-to-ace-mastering-the-art-of-professional-movie-making-for-2024/"><u>New From Amateur to Ace Mastering the Art of Professional Movie Making for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/peak-performance-memory-for-a7s-ii-for-2024/"><u>Peak Performance Memory for A7S II for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/sprinkle-life-into-text-two-methods-for-bouncing-effects-for-2024/"><u>Sprinkle Life Into Text Two Methods for Bouncing Effects for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/synology-c2-datensicherung-anleitungsband-zur-datenwiederherstellung-and-kostenlose-ersatzlosung/"><u>Synology C2 Datensicherung: Anleitungsband Zur Datenwiederherstellung & Kostenlose Ersatzlösung</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/trois-techniques-rapides-pour-ameliorer-la-vitesse-de-transfert-de-fichier-entre-ordinateurs/"><u>Trois Techniques Rapides Pour Améliorer La Vitesse De Transfert De Fichier Entre Ordinateurs</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/troubleshoot-your-sluggish-usb-eb-30-speeds-discover-7-key-solutions-for-optimal-performance/"><u>Troubleshoot Your Sluggish USB Eb 3.0 Speeds: Discover 7 Key Solutions for Optimal Performance</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-the-causes-and-solutions-of-hulu-error-code-rununk13/"><u>Understanding the Causes and Solutions of Hulu Error Code RUNUNK13</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-lava-yuva-2-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Lava Yuva 2 password or pattern lock</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/windows-server-2003-5/"><u>Windows Server 2003 專用自由式後備軟件選5款</u></a></li>
 </ul></div>
 
