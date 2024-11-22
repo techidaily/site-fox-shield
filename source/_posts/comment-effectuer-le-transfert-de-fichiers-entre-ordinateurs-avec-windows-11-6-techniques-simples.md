@@ -1,7 +1,7 @@
 ---
 title: Comment Effectuer Le Transfert De Fichiers Entre Ordinateurs Avec Windows 11 - 6 Techniques Simples
-date: 2024-11-21T09:23:16.411Z
-updated: 2024-11-21T21:43:36.073Z
+date: 2024-11-16T21:39:05.378Z
+updated: 2024-11-22T16:46:07.527Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d56363d25b6490a7057e74118.jpg
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -82,7 +90,7 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
@@ -94,7 +102,7 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -114,11 +122,11 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -141,6 +149,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -161,10 +173,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -173,15 +181,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,21 +198,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-endless-entertainment-loop-youtube-content-on-tv-for-2024/"><u>[Updated] Endless Entertainment Loop YouTube Content on TV for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728469277234-sd/"><u>「SDカードに保存されていた動画復元手順: ビデオカメラからの消去後」</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-discover-the-top-3-methods-to-recover-deleted-emails-from-yahoo-a-comprehensive-guide/"><u>1. Discover the Top 3 Methods to Recover Deleted Emails From Yahoo: A Comprehensive Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210851550-9781088115930-clueless-wise/"><u>Clueless & Wise | Free Book</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/debroussailler-les-difficultes-douverture-du-fichier-de-sauvegarde-analyser-les-reponses-aux-obstacles-et-mettre-en-oeuvre-des-solutions-innovantes/"><u>Débroussailler Les Difficultés D'Ouverture Du Fichier De Sauvegarde : Analyser Les Réponses Aux Obstacles Et Mettre en Œuvre Des Solutions Innovantes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-screen-10-best-websites-for-chic-wallpapers/"><u>Elevate Your Screen 10 Best Websites for Chic Wallpapers</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-easily-install-or-remove-software-on-your-computer/"><u>How to Easily Install or Remove Software on Your Computer</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-troubleshoot-and-resolve-windows-camera-error-code-0xa00f4244/"><u>How to Troubleshoot and Resolve 'Windows Camera Error Code 0xA00F4244'</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-securing-stunning-media-backdrops-at-cost-effective-rates/"><u>In 2024, Securing Stunning Media Backdrops at Cost-Effective Rates</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-s23plus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy S23+ with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-guide-for-flawless-transition-of-operating-systems-between-two-m2-storage-drives/"><u>Step-by-Step Guide for Flawless Transition of Operating Systems Between Two M.2 Storage Drives</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-costless-conversion-apps-for-srt-files-explored/"><u>Top 10 Costless Conversion Apps for SRT Files Explored</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-walkthrough-safeguarding-your-iphone-memories-by-backing-up-to-an-ssd-on-windows-or-macos-systems/"><u>Ultimate Walkthrough: Safeguarding Your iPhone Memories by Backing Up to an SSD on Windows or macOS Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/uncover-these-10-amazing-chatgpt-alternatives/"><u>Uncover These 10 Amazing ChatGPT Alternatives</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/visual-branding-in-youtubes-design-tips-for-2024/"><u>Visual Branding in YouTubes Design Tips for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/wiederherstellung-von-daten-auf-einer-nicht-bootfahigen-ssd-festplatte-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Daten Auf Einer Nicht Bootfähigen SSD-Festplatte – Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-tips-for-the-steam-switch-pro-controller/"><u>[New] Essential Tips for the Steam Switch Pro Controller</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/castwithease-how-to-make-livestreaming-your-podcast-effortless-for-2024/"><u>CastWithEase How to Make Livestreaming Your Podcast Effortless for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-lava-yuva-2-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Lava Yuva 2 Through Google Earth?</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-t2-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo T2 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mastering-configurations-the-expert-guide-to-importing-ini-files/"><u>Mastering Configurations: The Expert Guide to Importing INI Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988233117-no-more-interruptions-back-4-blood-stops-crashing-on-your-computer/"><u>No More Interruptions: Back 4 Blood Stops Crashing on Your Computer</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-making-images-with-transparent-backdrops-easily/"><u>Step-by-Step Guide: Making Images with Transparent Backdrops Easily</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-property-attributes-for-informed-home-buying-decisions/"><u>Understanding Property Attributes for Informed Home Buying Decisions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-registry-keys-a-comprehensive-guide/"><u>Understanding Registry Keys: A Comprehensive Guide</u></a></li>
 </ul></div>
 
