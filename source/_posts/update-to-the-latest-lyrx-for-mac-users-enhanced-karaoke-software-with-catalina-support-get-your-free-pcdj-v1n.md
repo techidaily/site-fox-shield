@@ -1,7 +1,7 @@
 ---
 title: "Update to the Latest LYRX for Mac Users: Enhanced Karaoke Software with Catalina Support | Get Your Free PCDJ v1.n"
-date: 2024-11-23T20:47:46.070Z
-updated: 2024-11-30T19:39:52.957Z
+date: 2024-12-03T17:32:40.100Z
+updated: 2024-12-08T20:14:14.026Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-artistic-modifications-pic-editing-masterclass/"><u>[New] Artistic Modifications Pic Editing Masterclass</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-11-pro-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 11 Pro Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728500529434-usb/"><u>失われたUSBデータ、なぜ消える？＋最新の復元テクニックを説明する</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/depanner-la-classe-non-enregistree-dans-windows-10-methodes-fiables-pour-resoudre-le-probleme-rapidement/"><u>Dépanner La Classe Non Enregistrée Dans Windows 10: Méthodes Fiables Pour Résoudre Le Problème Rapidement</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-15-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 15 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-silencing-the-stridor-techniques-for-defeating-hiss-in-professional-recordings/"><u>New 2024 Approved Silencing the Stridor Techniques for Defeating Hiss in Professional Recordings</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/overcome-0x81000037-backup-issue-in-windows-11-with-these-three-fixes/"><u>Overcome 0X81000037 Backup Issue in Windows 11 with These Three Fixes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-gt-5-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme GT 5 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728494300760-windows-11/"><u>Windows 11 開機時重現問題解決：該有四種簡單但高效的修复技術</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728509847083-pc/"><u>ハードウェア切り替え時PCクローン作成：方法二つ解説</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-efficient-remote-recording-a-step-by-step-guide/"><u>[New] In 2024, Efficient Remote Recording A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-navigate-funimates-complexities-with-ease-for-2024/"><u>[New] Navigate Funimate's Complexities with Ease for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-moonlight-mastery-a-photographers-guidebook-to-nighttime-imagery-for-2024/"><u>[Updated] Moonlight Mastery A Photographer's Guidebook to Nighttime Imagery for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-techniques-to-increase-youtube-video-size-for-2024/"><u>[Updated] Techniques to Increase YouTube Video Size for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-realme-12plus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Realme 12+ 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-strategies-for-decluttering-your-pc-expert-advice-from-yl-computing/"><u>Effective Strategies for Decluttering Your PC: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-a15-4g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy A15 4G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/master-your-pc-effective-management-of-installed-apps-through-the-control-panel-yl-software-solutions/"><u>Master Your PC: Effective Management of Installed Apps Through the Control Panel - YL Software Solutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/navigating-sound-data-expert-techniques-from-yl-softwares-audio-editing-suite/"><u>Navigating Sound Data: Expert Techniques From YL Software's Audio Editing Suite</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-watermark-free-tiktok-videos-the-best-online-removal-tools/"><u>New In 2024, Watermark-Free TikTok Videos The Best Online Removal Tools</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/seagate-gratuite-top-applications-de-duplication-de-disques-dur-pour-windows-11-10-8-et-7/"><u>Seagate Gratuite: Top Applications De Duplication De Disques Dur Pour Windows 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nokia-c12-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nokia C12 Pro</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/uac-configuration-a-step-by-step-guide-on-activatingdeactivating-user-account-control-by-yl-computing/"><u>UAC Configuration: A Step-by-Step Guide on Activating/Deactivating User Account Control - By YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unraveling-the-reasons-behind-blue-screen-memory-dump-errors-insights-from-yl-computing/"><u>Unraveling The Reasons Behind Blue Screen Memory Dump Errors - Insights From YL Computing</u></a></li>
 </ul></div>
 

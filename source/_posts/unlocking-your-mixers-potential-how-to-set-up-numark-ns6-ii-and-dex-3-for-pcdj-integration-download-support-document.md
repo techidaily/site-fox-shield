@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Mixer's Potential: How to Set Up Numark NS6 II & DEX 3 for PCDJ Integration (Download Support Document)"
-date: 2024-11-27T17:25:30.540Z
-updated: 2024-11-30T18:31:50.076Z
+date: 2024-12-04T17:08:27.219Z
+updated: 2024-12-08T23:28:24.583Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### KEY NUMARK NS6II FEATURES:
@@ -65,7 +65,7 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 _Have questions about the **Numark NS6II** DJ controller and how it works with our **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,17 +87,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/numarkns6II-pcdjsupported-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-methodologies-in-capturing-web-radio-audio/"><u>[Updated] 2024 Approved Essential Methodologies in Capturing Web Radio Audio</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-archive-mastery-how-and-why/"><u>[Updated] In 2024, Instagram Archive Mastery How and Why?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-tutorial-capturing-snapchat-moments-for-2024/"><u>[Updated] Step-by-Step Tutorial Capturing Snapchat Moments for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-lighting-checklist-for-video-creators/"><u>[Updated] The Ultimate Lighting Checklist for Video Creators</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/advanced-techniques-in-managing-data-storage-systems/"><u>Advanced Techniques in Managing Data Storage Systems</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/navigating-the-preferences-pane-customizing-mac-os-x-system-controls/"><u>Navigating the Preferences Pane: Customizing Mac OS X System Controls</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/quickres-speedy-format-factory-substitute-for-windows-and-mac-users/"><u>QuickRes: Speedy Format Factory Substitute for Windows & Mac Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/realigning-lens-distortion-essential-gopro-correction-guide-for-2024/"><u>Realigning Lens Distortion Essential GoPro Correction Guide for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/say-goodbye-to-annoying-pop-ups-a-guide-to-using-malwarefox-on-samsung-phones-and-tablets/"><u>Say Goodbye to Annoying Pop-Ups: A Guide to Using MalwareFox on Samsung Phones and Tablets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-pathway-for-purchasing-adobe-from-microsoft/"><u>Seamless Pathway for Purchasing Adobe From Microsoft</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/simple-steps-adding-srt-captions-to-your-avi-videos-with-ease/"><u>Simple Steps: Adding SRT Captions to Your AVI Videos with Ease</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/website-efficiency-boosted-by-cookiebot-technology/"><u>Website Efficiency Boosted by Cookiebot Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-windows-11s-in-built-auto-hdr-feature/"><u>[New] Mastering Windows 11'S In-Built Auto HDR Feature</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/vercoming-the-most-frequent-youtube-short-hurdles/"><u>[New] Overcoming the Most Frequent YouTube Short Hurdles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-edit-youtube-videos-ultimate-guide/"><u>[Updated] How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-vegas-pro-2021-a-detailed-gaming-world-survey/"><u>[Updated] Vegas Pro 2021 A Detailed Gaming World Survey</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/beyond-basics-with-windows-11-discovering-advanced-features-through-subscription-a-guide-by-yl-software/"><u>Beyond Basics with Windows 11: Discovering Advanced Features Through Subscription - A Guide by YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/cryptocurrency-arbitrage-strategies-unveiled-insights-from-experts-at-yl-software/"><u>Cryptocurrency Arbitrage Strategies Unveiled: Insights From Experts at YL Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-13-easy-to-master-revenue-strategies-on-reddit/"><u>In 2024, Top 13 Easy-to-Master Revenue Strategies on Reddit</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/pcdj-dex-v31503-public-test-build-enhanced-performance-on-macos-catalina/"><u>PCDJ DEX v3.15.0.3 Public Test Build - Enhanced Performance on macOS Catalina</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/troubleshooting-persistent-disconnection-issues-why-your-display-and-gpu-arent-communicating-insights-by-yl-technologies/"><u>Troubleshooting Persistent Disconnection Issues: Why Your Display and GPU Aren't Communicating - Insights by YL Technologies</u></a></li>
 </ul></div>
 

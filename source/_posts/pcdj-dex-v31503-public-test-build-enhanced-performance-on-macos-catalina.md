@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX v3.15.0.3 Public Test Build - Enhanced Performance on macOS Catalina
-date: 2024-11-25T22:03:56.437Z
-updated: 2024-11-30T23:21:02.824Z
+date: 2024-12-03T22:20:03.835Z
+updated: 2024-12-08T18:37:38.355Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,16 +67,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-drones-today-tomorrows-potential-unlocked-for-2024/"><u>[New] Drones Today, Tomorrow's Potential Unlocked for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-swipe-for-success-the-art-of-flipping-videos-on-instagram-for-2024/"><u>[New] Swipe for Success The Art of Flipping Videos on Instagram for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-12-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme 12 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-react-admin-panel-with-material-ui-advanced-creative-tim-dashboard/"><u>Professional React Admin Panel with Material UI - Advanced Creative Tim Dashboard</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/professional-website-prototypes-with-the-ghost-theme-by-creative-tim-based-on-googles-material-design-guidelnads/"><u>Professional Website Prototypes with the 'Ghost' Theme by Creative Tim, Based on Google’s Material Design Guidelnads</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/react-component-library-material-dashboard-complimentary-material-ui-framework-template-by-creative-tim/"><u>React Component Library Material Dashboard | Complimentary Material-UI Framework Template by Creative Tim</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/section-2a-understanding-the-uniform-commercial-code-ucc-and-article-2/"><u>Section 2A: Understanding the Uniform Commercial Code (UCC) and Article 2</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung FRP Bypass</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unlock-ultimate-productivity-professional-vuesofts-premium-vuejs-3-bootstrap-edashboard-creative-tims-innovative-solution/"><u>Unlock Ultimate Productivity: Professional VueSoft's Premium VueJS 3 / Bootstrap eDashboard – Creative Tim’s Innovative Solution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719266023156-zero-cost-local-gpt-clones-gpt4alls-window-solution/"><u>Zero-Cost Local GPT Clones: GPT4All's Window Solution.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tepwise-strategies-for-enhancing-yt-game-coverage-through-effective-hashing/"><u>[New] Stepwise Strategies for Enhancing YT Game Coverage Through Effective Hashing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-yield-yardstick-calculating-your-youtube-influence-and-earnings-potential/"><u>[New] The Ultimate Yield Yardstick Calculating Your YouTube Influence and Earnings Potential</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/captivating-hubble-wallpapers-galactic-pictures-and-images-enhance-your-pc-with-the-beauty-of-the-universe/"><u>Captivating Hubble Wallpapers, Galactic Pictures & Images - Enhance Your PC with the Beauty of the Universe</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/download-stunning-audi-rs4-hd-image-collections-for-your-pc-desktop-backgrounds-and-more/"><u>Download Stunning Audi RS4 HD Image Collections for Your PC, Desktop Backgrounds & More!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-seamless-entertainment-on-a-budget-with-lenovo-tab-m10-hd-2020-an-in-depth-review/"><u>Experience Seamless Entertainment on a Budget with Lenovo Tab M10 HD (2020): An In-Depth Review</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-can-you-resolve-your-computers-audio-problems-expert-solutions-from-yl-computing/"><u>How Can You Resolve Your Computer's Audio Problems: Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/los-5-mas-efectivos-software-de-respaldo-gratis-para-windows-10/"><u>Los 5 Más Efectivos Software De Respaldo Gratis Para Windows 10</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/lyrx-version-1102-launched-enhanced-karaoke-software-by-pcdj/"><u>LYRX Version 1.10.2 Launched - Enhanced Karaoke Software by PCDJ!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-ipad-with-expert-advice-10-key-tips-and-setups-every-apple-user-must-know-zdnet/"><u>Master Your iPad with Expert Advice: 10 Key Tips and Setups Every Apple User Must Know | ZDNET</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/prevent-and-fix-unplanned-reboots-with-yl-softwares-strategies-for-reliable-performance/"><u>Prevent and Fix Unplanned Reboots with YL Software's Strategies for Reliable Performance</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/story-2-measuring-influencer-partnerships-in-social-media-campaigns/"><u>Story 2: Measuring Influencer Partnerships in Social Media Campaigns</u></a></li>
+<li><a href="https://app-tips.techidaily.com/uncovering-the-ultimate-ai-watermark-strategy-on-zdnet/"><u>Uncovering the Ultimate AI Watermark Strategy on ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unstick-your-progress-solutions-for-among-us-perpetual-load-screens/"><u>Unstick Your Progress: Solutions for 'Among Us' Perpetual Load Screens</u></a></li>
 </ul></div>
 
