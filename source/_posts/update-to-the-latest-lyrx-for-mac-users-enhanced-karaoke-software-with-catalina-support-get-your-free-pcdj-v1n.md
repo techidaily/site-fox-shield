@@ -1,7 +1,7 @@
 ---
 title: "Update to the Latest LYRX for Mac Users: Enhanced Karaoke Software with Catalina Support | Get Your Free PCDJ v1.n"
-date: 2024-12-03T17:32:40.100Z
-updated: 2024-12-08T20:14:14.026Z
+date: 2024-12-10T18:57:41.299Z
+updated: 2024-12-14T22:03:13.967Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,19 +77,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-efficient-remote-recording-a-step-by-step-guide/"><u>[New] In 2024, Efficient Remote Recording A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-navigate-funimates-complexities-with-ease-for-2024/"><u>[New] Navigate Funimate's Complexities with Ease for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-moonlight-mastery-a-photographers-guidebook-to-nighttime-imagery-for-2024/"><u>[Updated] Moonlight Mastery A Photographer's Guidebook to Nighttime Imagery for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-techniques-to-increase-youtube-video-size-for-2024/"><u>[Updated] Techniques to Increase YouTube Video Size for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-realme-12plus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Realme 12+ 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effective-strategies-for-decluttering-your-pc-expert-advice-from-yl-computing/"><u>Effective Strategies for Decluttering Your PC: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-a15-4g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy A15 4G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/master-your-pc-effective-management-of-installed-apps-through-the-control-panel-yl-software-solutions/"><u>Master Your PC: Effective Management of Installed Apps Through the Control Panel - YL Software Solutions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/navigating-sound-data-expert-techniques-from-yl-softwares-audio-editing-suite/"><u>Navigating Sound Data: Expert Techniques From YL Software's Audio Editing Suite</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-watermark-free-tiktok-videos-the-best-online-removal-tools/"><u>New In 2024, Watermark-Free TikTok Videos The Best Online Removal Tools</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/seagate-gratuite-top-applications-de-duplication-de-disques-dur-pour-windows-11-10-8-et-7/"><u>Seagate Gratuite: Top Applications De Duplication De Disques Dur Pour Windows 11, 10, 8 Et 7</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nokia-c12-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nokia C12 Pro</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/uac-configuration-a-step-by-step-guide-on-activatingdeactivating-user-account-control-by-yl-computing/"><u>UAC Configuration: A Step-by-Step Guide on Activating/Deactivating User Account Control - By YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unraveling-the-reasons-behind-blue-screen-memory-dump-errors-insights-from-yl-computing/"><u>Unraveling The Reasons Behind Blue Screen Memory Dump Errors - Insights From YL Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-best-for-broadcasting-obs-vs-twitch-studio/"><u>[New] In 2024, The Best for Broadcasting? OBS vs Twitch Studio</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nside-look-how-youtube-funds-are-transforming-content-creation/"><u>[New] Inside Look How YouTube Funds Are Transforming Content Creation</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/classic-1987-dodge-challenger-hd-image-collection-launch-imagery-galore-from-yl-software-solutions/"><u>Classic 1987 Dodge Challenger HD Image Collection | Launch Imagery Galore From YL Software Solutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/elevate-graphics-processing-power-with-yl-software-strategies/"><u>Elevate Graphics Processing Power with YL Software Strategies</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-diverse-uses-of-cryptocurrencies-beyond-investments-insights-from-yl-computing/"><u>Exploring Diverse Uses of Cryptocurrencies Beyond Investments: Insights From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-intelligent-features-of-android-systems/"><u>Exploring the Intelligent Features of Android Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-msi-z370-a-pro-updated-drivers-here/"><u>Get Your MSI Z370-A Pro Updated Drivers Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-chatgpt-powered-persona-crafting-for-designers/"><u>Introducing ChatGPT-Powered Persona Crafting for Designers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/learning-on-film-school-vid-editing-best-practices/"><u>Learning on Film School Vid Editing Best Practices</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-oneplus-nord-n30-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on OnePlus Nord N30 5G without backup.</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/trouble-spotting-your-scanner-on-device-manager-explore-solutions-with-yl-computings-guide/"><u>Trouble Spotting Your Scanner on Device Manager? Explore Solutions with YL Computing's Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-preview-a-complete-user-guide-for-mac-for-2024/"><u>Unlocking the Power of Preview A Complete User Guide for Mac for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-revolutionize-your-content-10-top-rated-animated-text-tools/"><u>Updated Revolutionize Your Content 10 Top-Rated Animated Text Tools</u></a></li>
 </ul></div>
 
