@@ -1,7 +1,7 @@
 ---
 title: "Karaoke Mastery: Optimal DEX 3 Configurations Unveiled for Memorable Singing Soirees"
-date: 2024-12-11T20:58:17.034Z
-updated: 2024-12-14T17:32:05.438Z
+date: 2024-12-19T23:57:35.949Z
+updated: 2024-12-23T16:12:45.783Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Below you will find our suggested settings and configuration for using DEX 3 for
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suggestion Configuration for Hosting Karaoke with DEX 3
@@ -39,7 +39,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![DEX 3 karaoke mode](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke.jpg?fit=900%2C307&ssl=1 "DEX 3 karaoke mode")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. **Enable the Case player as the Filler Music Player:** Go into DEX 3’s options, under the Karaoke tab, and put a tick in the box for “use case/preview player as background/filler music player”. This will allow you to use the regular sidelist (not the Karaoke Rotation list) for automatic filler music playback. From the same Karaoke tab in options, you can also adjust the filler music volume level. Many customers prefer to lower the volume of the filler music player a few decibels so that playback is a bit quieter than when playing karaoke songs.
@@ -49,7 +49,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![Key Stepper DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke-keystepper.jpg?fit=900%2C307&ssl=1 "Key Stepper DEX 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5\. **Enable Detect Musical Key and Detect Automatic Gain:** Also located under the General tab in options, tick the boxes for both “Detect Musical Key” and “Detect Automatic Gain”. Detect Musical Key will allow DEX 3 to automatically calculate the musical key of the track (as well as a modified Camelot Scale key) of the track. Detect Automatic Gain will ensure DEX 3 plays all tracks at the same output gain level.
@@ -57,7 +57,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![DEX 3 musical key and gain](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-musicalkey-gain.jpg?fit=900%2C307&ssl=1 "DEX 3 musical key and gain")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6\. **Show Your Company Logo on Screen with Opacity:** Optional of course, but you can easily use DEX 3’s overlays feature to display your own logo at all times on screen with varied levels of opacity.
@@ -65,7 +65,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 That should assist you greatly with configuring DEX 3 for karaoke hosting purposes. Please review the following videos for additional help with all of the latest karaoke features added to DEX 3.11 (and up)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,19 +87,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/DEX3-config-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-digital-audio-streaming-and-recording/"><u>[Updated] In 2024, The Ultimate Guide to Digital Audio Streaming & Recording</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversioni-fatte-a-piacere-trasforma-i-tuoi-file-mp3-in-avi-online-con-movavi-gratuitamente/"><u>Conversioni Fatte A Piacere: Trasforma I Tuoi File MP3 in AVI Online Con Movavi Gratuitamente</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/easy-steps-to-successfully-update-or-restore-your-device-drivers-on-windows-tips-from-yl-computing/"><u>Easy Steps to Successfully Update or Restore Your Device Drivers on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/experience-the-grand-opening-of-free-virtual-dj-showcase-begins-tonight/"><u>Experience the Grand Opening of Free Virtual DJ Showcase - Begins Tonight!</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-untold-journey-of-an-instagram-story-enthusiast/"><u>In 2024, The Untold Journey of an Instagram Story Enthusiast</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pro-video-enhancers-for-social-media-platforms-for-2024/"><u>Pro Video Enhancers for Social Media Platforms for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rainbow-six-siege-effective-solutions-for-overcoming-game-lag/"><u>Rainbow Six Siege: Effective Solutions for Overcoming Game Lag</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-must-have-tech-items-during-the-ultimate-october-2024-best-buy-prime-day-deals-zdnet/"><u>Secure Your Must-Have Tech Items During the Ultimate October 2024 Best Buy Prime Day Deals | ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-hidden-functions-to-enhance-your-canva-artistry/"><u>Top 10 Hidden Functions to Enhance Your Canva Artistry</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolve-silent-anthem-gameplay-on-windows-10-systems/"><u>Troubleshooting Guide: Resolve Silent Anthem Gameplay on Windows 10 Systems</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-gpu-instability-why-your-graphics-driver-keeps-failing-tips-from-yl-computing/"><u>Understanding GPU Instability: Why Your Graphics Driver Keeps Failing - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unlocking-your-mixers-potential-how-to-set-up-numark-ns6-ii-and-dex-3-for-pcdj-integration-download-support-document/"><u>Unlocking Your Mixer's Potential: How to Set Up Numark NS6 II & DEX 3 for PCDJ Integration (Download Support Document)</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/yl-software-solutions-effortless-techniques-for-disabling-applications-on-windows-os/"><u>YL Software Solutions: Effortless Techniques for Disabling Applications on Windows OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-innovative-approaches-to-integrating-your-fb-story/"><u>[New] 2024 Approved Innovative Approaches to Integrating Your FB Story</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclasses-in-applying-online-vhs-filters-and-graphics/"><u>[New] Masterclasses in Applying Online VHS Filters and Graphics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>[Updated] 2024 Approved In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-extreme-quality-top-5-for-slow-motion-precision/"><u>2024 Approved Extreme Quality Top 5 for Slow Motion Precision</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/comprehensive-tutorial-on-eliminating-malicious-software-of-chinese-origin-from-your-devices/"><u>Comprehensive Tutorial on Eliminating Malicious Software of Chinese Origin From Your Devices</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/essential-pc-upkeep-a-guide-yl-computings-best-practices/"><u>Essential PC Upkeep: A Guide - YL Computing's Best Practices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/legal-aspects-and-ethical-considerations-of-recording-whatsapp-for-2024/"><u>Legal Aspects and Ethical Considerations of Recording WhatsApp for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ize-your-income-through-strategic-use-of-youtube-shorts/"><u>Maximize Your Income Through Strategic Use of YouTube Shorts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/maximizing-your-computers-potential-expert-tips-from-yl-computing-boost-speed-and-performance/"><u>Maximizing Your Computer’s Potential: Expert Tips From YL Computing – Boost Speed and Performance!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-ranked-tools-and-applications-by-yl-computing-optimize-your-computers-performance/"><u>Top-Ranked Tools and Applications by YL Computing: Optimize Your Computer's Performance</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unveiling-the-distinctions-regular-vs-gaming-graphics-cards-insights-from-yl-computing/"><u>Unveiling the Distinctions: Regular Vs. Gaming Graphics Cards - Insights From YL Computing</u></a></li>
 </ul></div>
 

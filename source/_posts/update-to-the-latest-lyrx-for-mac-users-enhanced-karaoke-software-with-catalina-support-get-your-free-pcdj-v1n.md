@@ -1,7 +1,7 @@
 ---
 title: "Update to the Latest LYRX for Mac Users: Enhanced Karaoke Software with Catalina Support | Get Your Free PCDJ v1.n"
-date: 2024-12-10T18:57:41.299Z
-updated: 2024-12-14T22:03:13.967Z
+date: 2024-12-20T17:16:38.304Z
+updated: 2024-12-23T20:49:53.021Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,18 +77,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-best-for-broadcasting-obs-vs-twitch-studio/"><u>[New] In 2024, The Best for Broadcasting? OBS vs Twitch Studio</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nside-look-how-youtube-funds-are-transforming-content-creation/"><u>[New] Inside Look How YouTube Funds Are Transforming Content Creation</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/classic-1987-dodge-challenger-hd-image-collection-launch-imagery-galore-from-yl-software-solutions/"><u>Classic 1987 Dodge Challenger HD Image Collection | Launch Imagery Galore From YL Software Solutions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/elevate-graphics-processing-power-with-yl-software-strategies/"><u>Elevate Graphics Processing Power with YL Software Strategies</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-diverse-uses-of-cryptocurrencies-beyond-investments-insights-from-yl-computing/"><u>Exploring Diverse Uses of Cryptocurrencies Beyond Investments: Insights From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-intelligent-features-of-android-systems/"><u>Exploring the Intelligent Features of Android Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-msi-z370-a-pro-updated-drivers-here/"><u>Get Your MSI Z370-A Pro Updated Drivers Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-chatgpt-powered-persona-crafting-for-designers/"><u>Introducing ChatGPT-Powered Persona Crafting for Designers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/learning-on-film-school-vid-editing-best-practices/"><u>Learning on Film School Vid Editing Best Practices</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-oneplus-nord-n30-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on OnePlus Nord N30 5G without backup.</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/trouble-spotting-your-scanner-on-device-manager-explore-solutions-with-yl-computings-guide/"><u>Trouble Spotting Your Scanner on Device Manager? Explore Solutions with YL Computing's Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-preview-a-complete-user-guide-for-mac-for-2024/"><u>Unlocking the Power of Preview A Complete User Guide for Mac for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-revolutionize-your-content-10-top-rated-animated-text-tools/"><u>Updated Revolutionize Your Content 10 Top-Rated Animated Text Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-cut-the-cord-clutter-simultaneous-playthrough-of-videos/"><u>[Updated] Cut the Cord Clutter Simultaneous Playthrough of Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-guidelines-for-successful-twilight-photo-shoots/"><u>[Updated] Guidelines for Successful Twilight Photo Shoots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-success-with-effective-video-praise-techniques/"><u>2024 Approved Unlocking Success with Effective Video Praise Techniques</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/control-panel-issue-solutions-a-step-by-step-guide-by-yl-computing/"><u>Control Panel Issue Solutions: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/diagnosing-windows-bluescreen-dilemmas-with-expertise-from-yl-softwares-tech-team/"><u>Diagnosing Windows Bluescreen Dilemmas with Expertise From YL Software's Tech Team</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-setup-adjusting-printer-options-via-the-windows-control-panel-with-yl-software-expertise/"><u>Easy Setup: Adjusting Printer Options via the Windows Control Panel with YL Software Expertise</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhance-system-speed-and-responsiveness-with-yl-software-techniques/"><u>Enhance System Speed and Responsiveness with YL Software Techniques</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/essential-guide-checking-your-windows-pcs-ram-capacity-with-ease-tech-insights-by-yl/"><u>Essential Guide: Checking Your Windows PC's RAM Capacity with Ease - Tech Insights by YL</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210123885-9781789046397-everything-you-never-learned-about-sex/"><u>Everything You Never Learned About Sex | Free Book</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/fixing-a-faulty-gpu-on-windows-a-step-by-step-guide-yl-tech-solutions/"><u>Fixing a Faulty GPU on Windows: A Step-by-Step Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/harmonizing-bluetooth-lenovo-with-windows-10/"><u>Harmonizing Bluetooth, Lenovo with Windows 10</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/high-definition-blonde-hair-themed-wallpapers-and-hd-backgrounds-premium-imagery-by-yl-computing/"><u>High-Definition Blonde Hair Themed Wallpapers and HD Backgrounds - Premium Imagery by YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-can-you-detect-signs-of-a-malfunctioning-gpu-in-your-system-insights-from-yl-computing/"><u>How Can You Detect Signs of a Malfunctioning GPU in Your System? - Insights From YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/jedi-in-trouble-resolving-launch-problems-with-star-wars-fallen-order/"><u>Jedi in Trouble: Resolving Launch Problems with Star Wars: Fallen Order</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mirthful-methods-building-humor-in-a-click-for-2024/"><u>Mirthful Methods Building Humor in a Click for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/picturing-perfect-profile-visions-for-2024/"><u>Picturing Perfect Profile Visions for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/protect-your-digital-assets-essential-security-strategies-for-crypto-investors-by-experts-at-yl-software/"><u>Protect Your Digital Assets: Essential Security Strategies for Crypto Investors by Experts at YL Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX v3.15.0.3 Public Test Build - Enhanced Performance on macOS Catalina
-date: 2024-12-10T04:39:07.442Z
-updated: 2024-12-15T03:28:07.539Z
+date: 2024-12-22T16:38:01.717Z
+updated: 2024-12-24T03:23:43.329Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,21 +67,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ownload-youtube-playlists-with-ease-our-instructions/"><u>[New] Download YouTube Playlists with Ease - Our Instructions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-widget-glitches-swiftly-for-your-iphoneipad-with-these-10-tips/"><u>Bypass Widget Glitches Swiftly for Your iPhone/iPad with These 10 Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-networking-software-for-your-hp-device-windows-10-8-and-7-edition/"><u>Compatible Networking Software for Your HP Device: Windows 10, 8 & 7 Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-repair-tips-for-overcoming-error-14-in-ios-systems/"><u>DIY Repair Tips for Overcoming Error 14 in iOS Systems</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/essential-guide-fixing-broken-or-faulty-drivers-tips-from-yl-computing/"><u>Essential Guide: Fixing Broken or Faulty Drivers - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/hercules-djcontrol-instinct-p8-now-with-dex-3-and-dex-r-expansion-compatibility-professional-dj-equipment-for-music-mixing/"><u>Hercules DJControl Instinct P8 Now with DEX 3 & Dex-R Expansion Compatibility - Professional DJ Equipment for Music Mixing</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-zte-nubia-z60-ultra-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your ZTE Nubia Z60 Ultra Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-tell-if-your-hdd-is-about-to-fail-expert-advice-by-yl-software/"><u>How To Tell If Your HDD Is About to Fail: Expert Advice by YL Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-elevating-laughs-the-essential-tutorial-for-memetic-mastery-at-9gag/"><u>In 2024, Elevating Laughs The Essential Tutorial for Memetic Mastery at 9GAG</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/master-renaming-text-documents-on-your-pc-with-expert-advice-from-yl-software/"><u>Master Renaming Text Documents on Your PC with Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/master-the-art-of-network-setup-restoration-with-tips-from-yl-software-experts/"><u>Master the Art of Network Setup Restoration with Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-guide-resolving-unable-to-print-issues-in-your-documents-yl-tech-solutions/"><u>Troubleshooting Guide: Resolving 'Unable to Print' Issues in Your Documents - YL Tech Solutions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/uninstall-software-efficiently-with-control-panel-instructions-your-digital-handyman-at-yl/"><u>Uninstall Software Efficiently with Control Panel Instructions - Your Digital Handyman at YL</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-mastering-quicktime-player-how-to-adjust-video-playback-speed/"><u>Updated 2024 Approved Mastering QuickTime Player How to Adjust Video Playback Speed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-xiaomi-13t-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Xiaomi 13T? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-guide-to-unrestricted-digital-vaults/"><u>[New] Master Guide to Unrestricted Digital Vaults</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-personalize-your-channel-with-free-pics/"><u>[Updated] Personalize Your Channel With Free Pics</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/creating-user-accounts-made-easy-expert-tips-from-the-world-of-yl-software/"><u>Creating User Accounts Made Easy: Expert Tips From the World of YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/decoding-blue-screen-messages-expert-insights-by-yl-software-team/"><u>Decoding Blue Screen Messages: Expert Insights by YL Software Team</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/experience-the-grand-opening-of-free-virtual-dj-showcase-begins-tonight/"><u>Experience the Grand Opening of Free Virtual DJ Showcase - Begins Tonight!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a23-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A23 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974764877-install-updated-amd-radeon-driver-version-on-your-windows-7-pc-today/"><u>Install Updated AMD Radeon Driver Version on Your Windows 7 PC Today!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/monitoring-your-pcs-ram-utilization-a-complete-guide-by-yl-computing/"><u>Monitoring Your PC's RAM Utilization: A Complete Guide by YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-access-and-modify-windows-update-preferences-through-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Access and Modify Windows Update Preferences Through Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-adding-programming-scripts-to-your-doc-files/"><u>The Ultimate Tutorial on Adding Programming Scripts to Your Doc Files</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-rankings-top-11-streaming-audio-gear-for-2024/"><u>Ultimate Rankings Top 11 Streaming Audio Gear for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-common-reasons-behind-sound-card-issues-expert-advice-from-yl-computing/"><u>Understanding Common Reasons Behind Sound Card Issues - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/yl-software-solutions-effortless-techniques-for-disabling-applications-on-windows-os/"><u>YL Software Solutions: Effortless Techniques for Disabling Applications on Windows OS</u></a></li>
 </ul></div>
 

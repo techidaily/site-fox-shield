@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Mixer's Potential: How to Set Up Numark NS6 II & DEX 3 for PCDJ Integration (Download Support Document)"
-date: 2024-12-11T00:12:42.468Z
-updated: 2024-12-15T02:26:02.633Z
+date: 2024-12-23T05:36:29.363Z
+updated: 2024-12-23T23:13:17.074Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### KEY NUMARK NS6II FEATURES:
@@ -65,7 +65,7 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 _Have questions about the **Numark NS6II** DJ controller and how it works with our **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,14 +87,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/numarkns6II-pcdjsupported-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/tep-by-step-guide-to-protected-youtube-to-mp3-conversions/"><u>[New] Step-by-Step Guide to Protected YouTube-to-MP3 Conversions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-cutting-edge-techniques-for-social-dominance/"><u>[Updated] In 2024, Cutting-Edge Techniques for Social Dominance</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/determining-your-scanning-schedule-for-windows-defender-expert-tips-from-yl-software/"><u>Determining Your Scanning Schedule for Windows Defender - Expert Tips From YL Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-fixing-loud-computer-ventilation-units-for-a-silent-workspace/"><u>Diagnosing & Fixing Loud Computer Ventilation Units for a Silent Workspace</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/locating-your-gpu-can-you-find-it-using-device-manager-insights-from-yl-computing/"><u>Locating Your GPU: Can You Find It Using Device Manager - Insights From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/red-tide-alert-philippines-pis-province-health-office-warns-against-consuming-local-shellfish-in-coastal-areas/"><u>Red Tide Alert: Philippines' Pis Province Health Office Warns Against Consuming Local Shellfish in Coastal Areas</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-navigating-to-appearance-and-personalization-in-your-control-panel-insights-from-yl-computing/"><u>Step-by-Step Guide: Navigating to Appearance & Personalization in Your Control Panel - Insights From YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-techniques-converting-heic-images-to-jpeg-using-windows-11-capabilities/"><u>Top Techniques: Converting Heic Images to JPEG Using Windows 11 Capabilities</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-craft-the-perfect-picture-on-android-with-these-5-best-apps/"><u>[New] In 2024, Craft the Perfect Picture on Android with These 5 Best Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-peeling-back-layers-what-hides-beneath-each-snapchat-emoji-in-2024/"><u>[Updated] Peeling Back Layers What Hides Beneath Each Snapchat Emoji, In 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-techniques-for-iphone-nature-photography-at-a-new-level/"><u>[Updated] Pro Techniques for iPhone Nature Photography at a New Level</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>[Updated] Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-preserve-and-showcase-nine-exceptional-tools-for-animated-gifs-on-pc/"><u>2024 Approved Preserve & Showcase Nine Exceptional Tools for Animated GIFs on PC</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/detecting-and-resolving-instability-in-computer-hardware-insights-by-yl-software-solutions/"><u>Detecting and Resolving Instability in Computer Hardware: Insights by YL Software Solutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easily-tweak-your-windows-10-protection-configurations-a-step-by-step-guide/"><u>Easily Tweak Your Windows 10 Protection Configurations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/speedy-guide-gaining-immediate-access-to-control-panel-with-yl-software-solutions/"><u>Speedy Guide: Gaining Immediate Access to Control Panel with YL Software Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-revenue-streams-on-microsoft-teams-how-to-charge-for-educational-sessions-and-events-expert-advice-by-zdnet/"><u>Unlock Revenue Streams on Microsoft Teams: How to Charge for Educational Sessions and Events | Expert Advice by ZDNet</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unlock-the-secrets-of-cryptocurrency-trends-a-guide-to-signal-interpretation-using-yl-tools-expertise-from-yl-computing/"><u>Unlock the Secrets of Cryptocurrency Trends: A Guide to Signal Interpretation Using YL Tools | Expertise From YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unlocking-digital-wealth-mastering-the-basics-of-bitcoin-mining-through-yl-software-tutorials/"><u>Unlocking Digital Wealth: Mastering the Basics of Bitcoin Mining Through YL Software Tutorials</u></a></li>
 </ul></div>
 
