@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX v3.15.0.3 Public Test Build - Enhanced Performance on macOS Catalina
-date: 2024-12-22T16:38:01.717Z
-updated: 2024-12-24T03:23:43.329Z
+date: 2024-12-27T18:54:10.752Z
+updated: 2024-12-29T17:45:03.541Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,20 +67,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-master-guide-to-unrestricted-digital-vaults/"><u>[New] Master Guide to Unrestricted Digital Vaults</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-personalize-your-channel-with-free-pics/"><u>[Updated] Personalize Your Channel With Free Pics</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/creating-user-accounts-made-easy-expert-tips-from-the-world-of-yl-software/"><u>Creating User Accounts Made Easy: Expert Tips From the World of YL Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/decoding-blue-screen-messages-expert-insights-by-yl-software-team/"><u>Decoding Blue Screen Messages: Expert Insights by YL Software Team</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/experience-the-grand-opening-of-free-virtual-dj-showcase-begins-tonight/"><u>Experience the Grand Opening of Free Virtual DJ Showcase - Begins Tonight!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a23-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A23 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974764877-install-updated-amd-radeon-driver-version-on-your-windows-7-pc-today/"><u>Install Updated AMD Radeon Driver Version on Your Windows 7 PC Today!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/monitoring-your-pcs-ram-utilization-a-complete-guide-by-yl-computing/"><u>Monitoring Your PC's RAM Utilization: A Complete Guide by YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-access-and-modify-windows-update-preferences-through-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Access and Modify Windows Update Preferences Through Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-adding-programming-scripts-to-your-doc-files/"><u>The Ultimate Tutorial on Adding Programming Scripts to Your Doc Files</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-rankings-top-11-streaming-audio-gear-for-2024/"><u>Ultimate Rankings Top 11 Streaming Audio Gear for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-common-reasons-behind-sound-card-issues-expert-advice-from-yl-computing/"><u>Understanding Common Reasons Behind Sound Card Issues - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/yl-software-solutions-effortless-techniques-for-disabling-applications-on-windows-os/"><u>YL Software Solutions: Effortless Techniques for Disabling Applications on Windows OS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-7-creative-thumbnails-free-tools-for-youtube-for-2024/"><u>[Updated] 7 Creative Thumbnails Free Tools for YouTube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-secrets-the-fastest-ways-to-uncover-windows-11s-credential-manager/"><u>Accessing Secrets: The Fastest Ways to Uncover Windows 11'S Credential Manager</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/boost-your-computers-performance-tips-and-tricks-from-yl-computing-and-yl-software/"><u>Boost Your Computer's Performance: Tips & Tricks From YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/customizing-your-scanner-configuration-tips-from-yl-computings-scanning-software/"><u>Customizing Your Scanner Configuration: Tips From YL Computing's Scanning Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/fix-your-gpu-issues-fast-with-our-step-by-step-guide-to-video-card-drivers-by-yl-tech-experts/"><u>Fix Your GPU Issues Fast with Our Step-by-Step Guide to Video Card Drivers by YL Tech Experts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/identifying-and-fixing-hardware-issues-a-guide-by-your-laptops-experts-at-yl-computers/"><u>Identifying & Fixing Hardware Issues: A Guide by Your Laptop's Experts at YL Computers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-painting-with-light-advanced-color-techniques/"><u>In 2024, Painting with Light Advanced Color Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y36i-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y36i Android SIM Unlock APK</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-your-gear-use-efficiently-using-windows-interfaces/"><u>Navigate Your Gear Use Efficiently Using Windows Interfaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-windows-exe-files-a-simple-fix-guide/"><u>Opening Windows .exe Files: A Simple Fix Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/precision-and-elegance-melded-in-the-h8is-sound/"><u>Precision and Elegance Melded in the H8i's Sound</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/selecting-ideal-computer-hardware-for-specific-applications-and-programs-a-guide-by-yl-software/"><u>Selecting Ideal Computer Hardware for Specific Applications & Programs - A Guide by YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/setting-up-your-windows-defender-a-step-by-step-guide-tech-tips-from-yl-computing/"><u>Setting Up Your Windows Defender: A Step-by-Step Guide - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-your-cddvd-drive-issues-troubleshooting-guide-by-yl-computing/"><u>Solving Your CD/DVD Drive Issues - Troubleshooting Guide by YL Computing</u></a></li>
 </ul></div>
 

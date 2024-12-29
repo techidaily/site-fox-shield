@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Mixer's Potential: How to Set Up Numark NS6 II & DEX 3 for PCDJ Integration (Download Support Document)"
-date: 2024-12-23T05:36:29.363Z
-updated: 2024-12-23T23:13:17.074Z
+date: 2024-12-28T16:15:30.251Z
+updated: 2024-12-29T16:05:43.444Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### KEY NUMARK NS6II FEATURES:
@@ -65,7 +65,7 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 _Have questions about the **Numark NS6II** DJ controller and how it works with our **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,17 +87,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/numarkns6II-pcdjsupported-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-craft-the-perfect-picture-on-android-with-these-5-best-apps/"><u>[New] In 2024, Craft the Perfect Picture on Android with These 5 Best Apps</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-peeling-back-layers-what-hides-beneath-each-snapchat-emoji-in-2024/"><u>[Updated] Peeling Back Layers What Hides Beneath Each Snapchat Emoji, In 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-techniques-for-iphone-nature-photography-at-a-new-level/"><u>[Updated] Pro Techniques for iPhone Nature Photography at a New Level</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>[Updated] Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-preserve-and-showcase-nine-exceptional-tools-for-animated-gifs-on-pc/"><u>2024 Approved Preserve & Showcase Nine Exceptional Tools for Animated GIFs on PC</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/detecting-and-resolving-instability-in-computer-hardware-insights-by-yl-software-solutions/"><u>Detecting and Resolving Instability in Computer Hardware: Insights by YL Software Solutions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/easily-tweak-your-windows-10-protection-configurations-a-step-by-step-guide/"><u>Easily Tweak Your Windows 10 Protection Configurations: A Step-by-Step Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/speedy-guide-gaining-immediate-access-to-control-panel-with-yl-software-solutions/"><u>Speedy Guide: Gaining Immediate Access to Control Panel with YL Software Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-revenue-streams-on-microsoft-teams-how-to-charge-for-educational-sessions-and-events-expert-advice-by-zdnet/"><u>Unlock Revenue Streams on Microsoft Teams: How to Charge for Educational Sessions and Events | Expert Advice by ZDNet</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unlock-the-secrets-of-cryptocurrency-trends-a-guide-to-signal-interpretation-using-yl-tools-expertise-from-yl-computing/"><u>Unlock the Secrets of Cryptocurrency Trends: A Guide to Signal Interpretation Using YL Tools | Expertise From YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unlocking-digital-wealth-mastering-the-basics-of-bitcoin-mining-through-yl-software-tutorials/"><u>Unlocking Digital Wealth: Mastering the Basics of Bitcoin Mining Through YL Software Tutorials</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-from-memes-to-your-device-iosandroid-gif-collection-tips/"><u>[New] 2024 Approved From Memes to Your Device IOS/Android GIF Collection Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-microsnap-evaluation-and-comparable-software/"><u>[New] 2024 Approved MicroSnap Evaluation & Comparable Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-green-tools-shaping-film-for-2024/"><u>[New] Cutting Edge Green Tools Shaping Film for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-how-to-upload-srt-files-to-social-media-100-working-methods/"><u>[New] In 2024, How to Upload SRT Files to Social Media (100% Working Methods)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-sonys-leap-into-4k-with-xperia-xz-premium-insights/"><u>[Updated] 2024 Approved Sony's Leap Into 4K with Xperia XZ Premium Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-3-step-guide-to-ascertain-googles-profitable-potential-youtube-analysis/"><u>2024 Approved 3-Step Guide to Ascertain Google's Profitable Potential YouTube Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/a-comprehensive-guide-to-windows-media-player-wikipedia/"><u>A Comprehensive Guide to Windows Media Player (Wikipedia)</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/best-antivirus-software-choices-for-robust-pc-defense-insights-from-yl-computing/"><u>Best Antivirus Software Choices for Robust PC Defense: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-historical-milestone-the-establishment-day-of-chinas-peoples-republic-insights-by-yl-computing/"><u>Discover the Historical Milestone: The Establishment Day of China's People's Republic - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effortless-printer-driver-installation-and-update-on-windows-os-with-yl-software-tips-and-tricks/"><u>Effortless Printer Driver Installation & Update on Windows OS with YL Software Tips and Tricks</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-the-catalysts-for-chinas-historic-shift-to-communism-a-comprehensive-breakdown-with-insights-from-yl-systems/"><u>Exploring the Catalysts for China's Historic Shift to Communism: A Comprehensive Breakdown with Insights From YL Systems</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-fix-unresponsive-applications-expert-tips-from-yl-computing/"><u>How to Fix Unresponsive Applications: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/is-windows-defender-effective-on-mac-and-pc-platforms-discover-how-with-yl-computings-in-depth-analysis/"><u>Is Windows Defender Effective on Mac and PC Platforms? Discover How with YL Computing's In-Depth Analysis</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-of-the-best-free-online-video-editors-for-every-creator/"><u>New The Best of the Best Free Online Video Editors for Every Creator</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/resolving-hardware-detection-errors-in-windows-a-step-by-step-guide-by-yl-software-professionals/"><u>Resolving Hardware Detection Errors in Windows: A Step-by-Step Guide by YL Software Professionals</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-to-remove-unseen-portions-in-streamed-youtube-videos-for-2024/"><u>Steps to Remove Unseen Portions in Streamed YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/uninstall-software-efficiently-with-control-panel-instructions-your-digital-handyman-at-yl/"><u>Uninstall Software Efficiently with Control Panel Instructions - Your Digital Handyman at YL</u></a></li>
 </ul></div>
 

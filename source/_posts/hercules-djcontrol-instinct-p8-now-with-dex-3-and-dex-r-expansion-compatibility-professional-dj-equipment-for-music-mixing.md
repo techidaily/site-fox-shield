@@ -1,7 +1,7 @@
 ---
 title: Hercules DJControl Instinct P8 Now with DEX 3 & Dex-R Expansion Compatibility - Professional DJ Equipment for Music Mixing
-date: 2024-12-23T00:58:14.761Z
-updated: 2024-12-23T16:22:54.843Z
+date: 2024-12-28T20:53:41.705Z
+updated: 2024-12-29T19:09:15.134Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,18 +66,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-fuel-your-film-rate-with-these-easy-tiktok-tricks/"><u>[New] 2024 Approved Fuel Your Film Rate with These Easy TikTok Tricks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-explore-and-compare-apps-via-az-recorder/"><u>[Updated] In 2024, Explore & Compare Apps via AZ Recorder</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-outlook-preview-setup-on-windows-11/"><u>A Comprehensive Guide to Outlook Preview Setup on Windows 11</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/can-flipbuilder-facilitate-the-shift-from-traditional-text-pages-to-interactive-electronic-magazines/"><u>Can FlipBuilder Facilitate the Shift From Traditional Text Pages to Interactive Electronic Magazines?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-offer-save-20-on-top-picks-of-mobile-gear-for-travelers-deals-on-phone-covers-power-solutions-and-stylish-watch-straps/"><u>Exclusive Offer: Save 20% on Top-Picks of Mobile Gear for Travelers - Deals on Phone Covers, Power Solutions & Stylish Watch Straps</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exquisite-photography-collection-ultra-hd-visuals-from-yl-computing-software-suite/"><u>Exquisite Photography Collection - Ultra-HD Visuals From YL Computing Software Suite</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y27-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y27 5G without App | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/maximizing-your-computers-efficiency-a-guide-by-yl-computing/"><u>Maximizing Your Computer's Efficiency: A Guide by YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-auto-detection-errors/"><u>Overcoming Windows Auto Detection Errors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-guide-and-insights/"><u>Tom's Tech Review: In-Depth Guide and Insights</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-your-non-functional-gpu-on-windows-10-expert-solutions-from-yl-computing/"><u>Troubleshooting Your Non-Functional GPU on Windows 10: Expert Solutions From YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-windows-defender-integration-is-it-compatible-with-other-antivirus-apps-exploring-options-at-yl-software/"><u>Understanding Windows Defender Integration: Is It Compatible With Other Antivirus Apps? – Exploring Options at YL Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/wireless-woes-no-more-troubleshooting-and-fixes-for-windows-with-yl-software-tips/"><u>Wireless Woes No More: Troubleshooting & Fixes for Windows with YL Software Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-overcoming-the-crashes-in-windows-11s-photos-application-for-2024/"><u>[New] Overcoming the Crashes in Windows 11'S Photos Application for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-blueprint-strategies-for-authentic-life-enrichment-videos/"><u>[Updated] 2024 Approved Blueprint Strategies for Authentic Life Enrichment Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-igniting-your-individual-brand-flame/"><u>[Updated] 2024 Approved Igniting Your Individual Brand Flame</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-quickrestore-reviewers-thoughts/"><u>[Updated] In 2024, QuickRestore Reviewers Thoughts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-is-sns-hdr-pro-worth-it-top-alternatives-reviewed/"><u>[Updated] Is SNS HDR Pro Worth It? Top Alternatives Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-saving-gifs-on-your-iphone-a-step-by-step-approach-for-2024/"><u>[Updated] Saving GIFs on Your iPhone - A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unleash-the-power-of-branded-icons-and-gifs-in-instagram-stories-for-2024/"><u>[Updated] Unleash the Power of Branded Icons & GIFs in Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-exploring-the-advantages-a-comprehensive-guide-on-cryptocurrency-investment-opportunities-with-yl-computing/"><u>1. Exploring the Advantages: A Comprehensive Guide on Cryptocurrency Investment Opportunities with YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-ronin-comic-book-wallpaper-pack-high-resolution-marvel-desktop-designs-by-yl-computing/"><u>1. Ronin Comic Book Wallpaper Pack - High-Resolution Marvel Desktop Designs by YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-unraveling-the-mystery-why-wont-my-pc-boot-up-insights-from-yl-computing-experts/"><u>1. Unraveling the Mystery: Why Won't My PC Boot Up? Insights From YL Computing Experts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-dex3s-innovative-audio-controls-mastering-agc-in-digital-mixing/"><u>Exploring DEX3's Innovative Audio Controls - Mastering AGC in Digital Mixing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-f34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy F34 5G Phones with/without a PC</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/identifying-the-reasons-behind-your-scanner-issues-insights-from-yl-computing/"><u>Identifying the Reasons Behind Your Scanner Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-nubia-red-magic-9-proplus-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Nubia Red Magic 9 Pro+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-boosting-engagement-tailoring-backgrounds-on-google-meet-devices/"><u>In 2024, Boosting Engagement Tailoring Backgrounds on Google Meet Devices</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/instant-tips-for-easily-opening-any-control-panel-element-with-yl-software/"><u>Instant Tips for Easily Opening Any Control Panel Element with YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/master-your-sound-configuration-tips-for-tweaking-audio-in-windows-11-with-yl-software-solutions/"><u>Master Your Sound Configuration: Tips for Tweaking Audio in Windows 11 with YL Software Solutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/revive-your-pcs-performance-how-to-reset-windows-memory-configuration-by-yl-computing/"><u>Revive Your PC's Performance: How to Reset Windows Memory Configuration by YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/troubleshooting-your-laptops-charger-issue-insightful-guide-by-yl-computing/"><u>Troubleshooting Your Laptop's Charger Issue: Insightful Guide by YL Computing</u></a></li>
 </ul></div>
 
