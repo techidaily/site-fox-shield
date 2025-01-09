@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX v3.15.0.3 Public Test Build - Enhanced Performance on macOS Catalina
-date: 2024-12-27T18:54:10.752Z
-updated: 2024-12-29T17:45:03.541Z
+date: 2025-01-01T22:41:44.245Z
+updated: 2025-01-09T05:32:58.283Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,20 +67,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-7-creative-thumbnails-free-tools-for-youtube-for-2024/"><u>[Updated] 7 Creative Thumbnails Free Tools for YouTube for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-secrets-the-fastest-ways-to-uncover-windows-11s-credential-manager/"><u>Accessing Secrets: The Fastest Ways to Uncover Windows 11'S Credential Manager</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/boost-your-computers-performance-tips-and-tricks-from-yl-computing-and-yl-software/"><u>Boost Your Computer's Performance: Tips & Tricks From YL Computing and YL Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/customizing-your-scanner-configuration-tips-from-yl-computings-scanning-software/"><u>Customizing Your Scanner Configuration: Tips From YL Computing's Scanning Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/fix-your-gpu-issues-fast-with-our-step-by-step-guide-to-video-card-drivers-by-yl-tech-experts/"><u>Fix Your GPU Issues Fast with Our Step-by-Step Guide to Video Card Drivers by YL Tech Experts</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/identifying-and-fixing-hardware-issues-a-guide-by-your-laptops-experts-at-yl-computers/"><u>Identifying & Fixing Hardware Issues: A Guide by Your Laptop's Experts at YL Computers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-painting-with-light-advanced-color-techniques/"><u>In 2024, Painting with Light Advanced Color Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y36i-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y36i Android SIM Unlock APK</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-your-gear-use-efficiently-using-windows-interfaces/"><u>Navigate Your Gear Use Efficiently Using Windows Interfaces</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/opening-windows-exe-files-a-simple-fix-guide/"><u>Opening Windows .exe Files: A Simple Fix Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/precision-and-elegance-melded-in-the-h8is-sound/"><u>Precision and Elegance Melded in the H8i's Sound</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/selecting-ideal-computer-hardware-for-specific-applications-and-programs-a-guide-by-yl-software/"><u>Selecting Ideal Computer Hardware for Specific Applications & Programs - A Guide by YL Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/setting-up-your-windows-defender-a-step-by-step-guide-tech-tips-from-yl-computing/"><u>Setting Up Your Windows Defender: A Step-by-Step Guide - Tech Tips From YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/solving-your-cddvd-drive-issues-troubleshooting-guide-by-yl-computing/"><u>Solving Your CD/DVD Drive Issues - Troubleshooting Guide by YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-slide-show-software-xi-to-xrxs-max-edition/"><u>[New] Premium Slide Show Software XI to Xr/Xs Max Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-revisiting-social-media-written-history-on-your-laptopsphones/"><u>[Updated] In 2024, Revisiting Social Media' Written History on Your Laptops/Phones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-8-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 8 Plus Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722853498112-astonishing-emoji-revelations-youll-never-expect-to-know/"><u>Astonishing Emoji Revelations You'll Never Expect to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-80-pro-straight-screen-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-setup-adjusting-printer-options-via-the-windows-control-panel-with-yl-software-expertise/"><u>Easy Setup: Adjusting Printer Options via the Windows Control Panel with YL Software Expertise</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhance-system-speed-and-responsiveness-with-yl-software-techniques/"><u>Enhance System Speed and Responsiveness with YL Software Techniques</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-resolve-a-system-crash-caused-by-your-gpu-insights-from-yls-tech-gurus/"><u>How to Resolve a System Crash Caused by Your GPU: Insights From YL's Tech Gurus</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone X | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/protect-your-digital-assets-essential-security-strategies-for-crypto-investors-by-experts-at-yl-software/"><u>Protect Your Digital Assets: Essential Security Strategies for Crypto Investors by Experts at YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/secure-and-efficient-crypto-management-learn-how-to-set-up-and-operate-a-virtual-wallet-using-yl-software-solutions/"><u>Secure and Efficient Crypto Management: Learn How to Set Up and Operate a Virtual Wallet Using YL Software Solutions</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/troubleshooting-guide-activate-autoplay-functionality-on-your-windows-11-pc/"><u>Troubleshooting Guide: Activate AutoPlay Functionality on Your Windows 11 PC</u></a></li>
 </ul></div>
 

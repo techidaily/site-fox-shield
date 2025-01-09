@@ -1,7 +1,7 @@
 ---
 title: LYRX Version 1.10.2 Launched - Enhanced Karaoke Software by PCDJ!
-date: 2024-11-26T21:31:47.565Z
-updated: 2024-11-30T22:33:00.172Z
+date: 2025-01-04T00:22:21.830Z
+updated: 2025-01-08T16:56:04.636Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’re thrilled to introduce the latest iteration of our top karaoke show hosti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Duplicate Entries in Singer History!
@@ -33,7 +33,7 @@ One of the standout changes included in this free update is a significant improv
 **NOTE:** Duplicates will initially display in singer history. Once you re-play a song that was previously written to a singer’s history, LYRX will then remove all duplicates, leaving only the one song entry in their history.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Key Changes in LYRX 1.10.2 include:
@@ -44,7 +44,7 @@ One of the standout changes included in this free update is a significant improv
 In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke hosting to new heights – download it today! We thank you for your continued trust and support. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All Updates Included in LYRX 1.10.2
@@ -62,7 +62,7 @@ In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke host
 _Have questions about the latest 1.10.2 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,21 +84,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2023/08/lyrx1102.jpg?fit=1176%2C68
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-assimilation-for-inshot-projects/"><u>[New] Audio Assimilation for InShot Projects</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-elevating-photography-with-canons-time-lapse-methods/"><u>[New] Elevating Photography with Canon's Time-Lapse Methods</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-your-digital-cameras-potential/"><u>[New] In 2024, Unlocking Your Digital Camera's Potential</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rewind-revolution-iphones-time-turning-ability/"><u>[New] Rewind Revolution IPhone's Time-Turning Ability</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-your-workflow-top-10-stealthy-canva-techniques/"><u>[Updated] Transform Your Workflow Top 10 Stealthy Canva Techniques</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-setup-the-json-import-functionality-in-your-applications-settings/"><u>How to Setup the JSON Import Functionality in Your Application's Settings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leading-ups-solutions-ranked-find-the-perfect-match/"><u>Leading UPS Solutions Ranked - Find the Perfect Match</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preventing-gpt-from-keeping-tabs-on-your-dialogues/"><u>Preventing GPT From Keeping Tabs on Your Dialogues</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/quick-guide-to-seamlessly-download-4k-content-without-hitches/"><u>Quick Guide to Seamlessly Download 4K Content Without Hitches</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/quick-guide-top-techniques-for-capturing-a-quicktime-screen-shot/"><u>Quick Guide: Top Techniques for Capturing a QuickTime Screen Shot</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/simple-steps-to-switch-from-android-contacts-to-iphone-effortlessly/"><u>Simple Steps to Switch From Android Contacts to iPhone Effortlessly</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-deleting-your-itunes-backup-files-on-pc-or-mac/"><u>Step-by-Step Guide: Deleting Your iTunes Backup Files on PC or Mac</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/top-translation-component-library-for-enhanced-it-projects/"><u>Top Translation Component Library for Enhanced IT Projects</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-guide-top-ranking-photo-techniques-for-e-commerce-in-2n23/"><u>Ultimate Guide: Top-Ranking Photo Techniques for E-Commerce in 2N23</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-logitech-extreme-3d-pro-driver/"><u>Update Logitech Extreme 3D Pro Driver</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unshakeable-video-quality-best-stabilizers/"><u>[Updated] In 2024, Unshakeable Video Quality - Best Stabilizers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-masterclass-in-visual-updates-igtv-cover-photos/"><u>[Updated] Masterclass in Visual Updates IGTV Cover Photos</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-exploring-the-advantages-a-comprehensive-guide-on-cryptocurrency-investment-opportunities-with-yl-computing/"><u>1. Exploring the Advantages: A Comprehensive Guide on Cryptocurrency Investment Opportunities with YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210193662-9781476641959-a-family-disease/"><u>A Family Disease | Free Book</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-strategies-for-building-industry-specific-email-contacts-a-guide-by-yl-computing/"><u>Effective Strategies for Building Industry-Specific Email Contacts: A Guide by YL Computing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-smart-8-plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Smart 8 Plus Devices</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/identifying-the-reasons-behind-your-scanner-issues-insights-from-yl-computing/"><u>Identifying the Reasons Behind Your Scanner Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-srt-and-mp4-fusion-the-ultimate-guide/"><u>In 2024, Seamless SRT & MP4 Fusion – The Ultimate Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/instant-tips-for-easily-opening-any-control-panel-element-with-yl-software/"><u>Instant Tips for Easily Opening Any Control Panel Element with YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/master-your-sound-configuration-tips-for-tweaking-audio-in-windows-11-with-yl-software-solutions/"><u>Master Your Sound Configuration: Tips for Tweaking Audio in Windows 11 with YL Software Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/reimagining-streaming-experience-beyond-manycam-for-2024/"><u>Reimagining Streaming Experience Beyond ManyCam for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/revive-your-pcs-performance-how-to-reset-windows-memory-configuration-by-yl-computing/"><u>Revive Your PC's Performance: How to Reset Windows Memory Configuration by YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/sick-of-politics-3-powerful-ways-to-clean-up-facebook/"><u>Sick of Politics? 3 Powerful Ways to Clean Up Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-missing-mcuicnt-file-execution-issue-on-windows/"><u>Tackling Missing McUICnt File Execution Issue on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-travel-cards-for-newcomers-insights-from-zdnet/"><u>Top Recommended Travel Cards for Newcomers - Insights From ZDNet</u></a></li>
 </ul></div>
 

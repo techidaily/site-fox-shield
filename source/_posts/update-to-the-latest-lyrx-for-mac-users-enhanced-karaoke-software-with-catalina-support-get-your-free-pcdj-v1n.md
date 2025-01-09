@@ -1,7 +1,7 @@
 ---
 title: "Update to the Latest LYRX for Mac Users: Enhanced Karaoke Software with Catalina Support | Get Your Free PCDJ v1.n"
-date: 2024-12-23T20:04:02.550Z
-updated: 2024-12-29T19:57:36.802Z
+date: 2025-01-06T20:01:34.055Z
+updated: 2025-01-08T18:32:21.570Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-combat-chronicles-leading-10-battle-royale-games/"><u>[Updated] 2024 Approved Combat Chronicles Leading 10 Battle Royale Games</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-precision-recording-of-console-games-on-your-pc/"><u>[Updated] 2024 Approved Precision Recording of Console Games on Your PC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-premier-virtual-reality-players-arsenal-for-2024/"><u>[Updated] Premier Virtual Reality Player's Arsenal for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eliminated-issue-windows-10-monitors-not-showing-all-windows/"><u>Eliminated Issue - Windows 10 Monitors Not Showing All Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellent-choice-7-premium-mac-videos-for-2024/"><u>Excellent Choice 7 Premium Mac Videos for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-the-catalysts-for-chinas-historic-shift-to-communism-a-comprehensive-breakdown-with-insights-from-yl-systems/"><u>Exploring the Catalysts for China's Historic Shift to Communism: A Comprehensive Breakdown with Insights From YL Systems</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-fix-unresponsive-applications-expert-tips-from-yl-computing/"><u>How to Fix Unresponsive Applications: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/master-the-art-of-network-setup-restoration-with-tips-from-yl-software-experts/"><u>Master the Art of Network Setup Restoration with Tips From YL Software Experts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/resolve-youtubeinmp4-issues-step-by-step-guide-to-download-yt-videos-effortlessly/"><u>Resolve 'YouTubeInMP4' Issues - Step-by-Step Guide to Download YT Videos Effortlessly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/selecting-the-best-mac-sniping-solutions-for-2024/"><u>Selecting the Best Mac Sniping Solutions for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/uninstall-software-efficiently-with-control-panel-instructions-your-digital-handyman-at-yl/"><u>Uninstall Software Efficiently with Control Panel Instructions - Your Digital Handyman at YL</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-clearsnap-guide-how-to-exclude-distracting-picture-borders/"><u>[New] ClearSnap Guide How to Exclude Distracting Picture Borders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-avoid-distraction-with-firm-footage-capture/"><u>[New] In 2024, Avoid Distraction with Firm Footage Capture</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-discover-10-secret-followers-on-stories/"><u>[New] In 2024, Discover 10 Secret Followers on Stories</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-explore-diverse-backdrops-for-tiktok-videos/"><u>[New] In 2024, Explore Diverse Backdrops for TikTok Videos</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/beginners-blueprint-for-successful-crypto-mining-with-yl-software-solutions/"><u>Beginner's Blueprint for Successful Crypto-Mining with YL Software Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digital-photography-incorporating-accurate-dates/"><u>Digital Photography Incorporating Accurate Dates</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-advantages-and-disadvantages-of-cryptocurrency-insights-from-yl-computing/"><u>Exploring Advantages & Disadvantages of Cryptocurrency: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/fixing-windows-start-menu-glitches-expert-tips-from-yl-software-experts/"><u>Fixing Windows Start Menu Glitches: Expert Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unleash-creativity-with-these-top-10-video-text-effects/"><u>In 2024, Unleash Creativity with These Top 10 Video Text Effects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-productivity-with-macs-multi-monitor-setup-tutorial/"><u>Maximizing Productivity with Mac's Multi-Monitor Setup Tutorial</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-system-stability-risks-after-modifying-the-windows-registry-insights-from-yl-computing/"><u>Understanding System Stability Risks After Modifying the Windows Registry - Insights From YL Computing</u></a></li>
 </ul></div>
 
