@@ -1,7 +1,7 @@
 ---
 title: "Update to the Latest LYRX for Mac Users: Enhanced Karaoke Software with Catalina Support | Get Your Free PCDJ v1.n"
-date: 2025-01-06T20:01:34.055Z
-updated: 2025-01-08T18:32:21.570Z
+date: 2025-01-13T16:53:29.168Z
+updated: 2025-01-14T17:21:30.181Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-clearsnap-guide-how-to-exclude-distracting-picture-borders/"><u>[New] ClearSnap Guide How to Exclude Distracting Picture Borders</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-avoid-distraction-with-firm-footage-capture/"><u>[New] In 2024, Avoid Distraction with Firm Footage Capture</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-discover-10-secret-followers-on-stories/"><u>[New] In 2024, Discover 10 Secret Followers on Stories</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-explore-diverse-backdrops-for-tiktok-videos/"><u>[New] In 2024, Explore Diverse Backdrops for TikTok Videos</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/beginners-blueprint-for-successful-crypto-mining-with-yl-software-solutions/"><u>Beginner's Blueprint for Successful Crypto-Mining with YL Software Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-photography-incorporating-accurate-dates/"><u>Digital Photography Incorporating Accurate Dates</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-advantages-and-disadvantages-of-cryptocurrency-insights-from-yl-computing/"><u>Exploring Advantages & Disadvantages of Cryptocurrency: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/fixing-windows-start-menu-glitches-expert-tips-from-yl-software-experts/"><u>Fixing Windows Start Menu Glitches: Expert Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-unleash-creativity-with-these-top-10-video-text-effects/"><u>In 2024, Unleash Creativity with These Top 10 Video Text Effects</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximizing-productivity-with-macs-multi-monitor-setup-tutorial/"><u>Maximizing Productivity with Mac's Multi-Monitor Setup Tutorial</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-system-stability-risks-after-modifying-the-windows-registry-insights-from-yl-computing/"><u>Understanding System Stability Risks After Modifying the Windows Registry - Insights From YL Computing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[New] In 2024, How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-maximizing-your-virtual-meetings-expert-insights-on-using-zoom-win10/"><u>[New] Maximizing Your Virtual Meetings Expert Insights on Using Zoom (Win10)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-picks-superior-vr-game-choices-for-the-cardboard-enthusiast/"><u>[New] Premium Picks Superior VR Game Choices for the Cardboard Enthusiast</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-intel-uhd-graphics-drivers-for-windows-1011/"><u>Download and Install Latest Intel UHD Graphics Drivers for Windows 10/11</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/explore-custom-dex3-user-submitted-graphics-based-on-denons-dn-hc4500-unleash-your-mixing-potential/"><u>Explore Custom DEX3 User-Submitted Graphics Based on Denon's DN-HC4500 - Unleash Your Mixing Potential</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-efficiently-update-your-pcs-device-drivers-via-windows-control-panel-insights-by-yl-computing/"><u>How to Efficiently Update Your PC's Device Drivers via Windows Control Panel - Insights by YL Computing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/improve-your-sites-engagement-with-cookiebot-integration-solutions/"><u>Improve Your Site's Engagement with Cookiebot Integration Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-sprint-secrets-olympic-edition-22/"><u>In 2024, Sprint Secrets - Olympic Edition '22</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/is-it-time-to-upgrade-your-ram-after-sustaining-damage-expert-advice-from-yl-computing/"><u>Is It Time to Upgrade Your RAM After Sustaining Damage? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/optimal-budget-free-fb-videopicture-engineer/"><u>Optimal Budget-Free FB Video/Picture Engineer</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/premium-4k-background-graphics-2160x1920-curated-by-yl-software-for-immersive-visual-experiences/"><u>Premium 4K Background Graphics (2160X1920) Curated by YL Software for Immersive Visual Experiences</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/recognizing-gpu-issues-before-they-worsen-a-comprehensive-guide-by-yl-software-experts/"><u>Recognizing GPU Issues Before They Worsen - A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/resolving-picture-issues-on-screens-in-depth-guidance-by-yl-software-experts/"><u>Resolving Picture Issues on Screens: In-Depth Guidance by YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/tetris-talent-showdowns-on-android-and-ios-devices/"><u>Tetris Talent Showdowns on Android and iOS Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-android-watch-pickups-the-ultimate-guide-to-the-finest-wearable-tech/"><u>Top Android Watch Pickups: The Ultimate Guide to the Finest Wearable Tech</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX v3.15.0.3 Public Test Build - Enhanced Performance on macOS Catalina
-date: 2025-01-01T22:41:44.245Z
-updated: 2025-01-09T05:32:58.283Z
+date: 2025-01-10T21:43:00.518Z
+updated: 2025-01-14T19:19:09.097Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,17 +67,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premium-slide-show-software-xi-to-xrxs-max-edition/"><u>[New] Premium Slide Show Software XI to Xr/Xs Max Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-revisiting-social-media-written-history-on-your-laptopsphones/"><u>[Updated] In 2024, Revisiting Social Media' Written History on Your Laptops/Phones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-8-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 8 Plus Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722853498112-astonishing-emoji-revelations-youll-never-expect-to-know/"><u>Astonishing Emoji Revelations You'll Never Expect to Know</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-80-pro-straight-screen-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/easy-setup-adjusting-printer-options-via-the-windows-control-panel-with-yl-software-expertise/"><u>Easy Setup: Adjusting Printer Options via the Windows Control Panel with YL Software Expertise</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhance-system-speed-and-responsiveness-with-yl-software-techniques/"><u>Enhance System Speed and Responsiveness with YL Software Techniques</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-resolve-a-system-crash-caused-by-your-gpu-insights-from-yls-tech-gurus/"><u>How to Resolve a System Crash Caused by Your GPU: Insights From YL's Tech Gurus</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone X | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/protect-your-digital-assets-essential-security-strategies-for-crypto-investors-by-experts-at-yl-software/"><u>Protect Your Digital Assets: Essential Security Strategies for Crypto Investors by Experts at YL Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/secure-and-efficient-crypto-management-learn-how-to-set-up-and-operate-a-virtual-wallet-using-yl-software-solutions/"><u>Secure and Efficient Crypto Management: Learn How to Set Up and Operate a Virtual Wallet Using YL Software Solutions</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/troubleshooting-guide-activate-autoplay-functionality-on-your-windows-11-pc/"><u>Troubleshooting Guide: Activate AutoPlay Functionality on Your Windows 11 PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-how-to-smoothly-incorporate-snap-camera-into-your-meet-calls-for-2024/"><u>[New] How to Smoothly Incorporate Snap Camera Into Your Meet Calls for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unravel-the-10-best-free-iphone-image-organizers-and-designers/"><u>[New] In 2024, Unravel the 10 Best FREE iPhone Image Organizers and Designers</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-exploring-the-advantages-a-comprehensive-guide-on-cryptocurrency-investment-opportunities-with-yl-computing/"><u>1. Exploring the Advantages: A Comprehensive Guide on Cryptocurrency Investment Opportunities with YL Computing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-humor-and-heartbreak-the-vhs-story-of-goofy-movie/"><u>2024 Approved Humor and Heartbreak The VHS Story of Goofy Movie</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-s23-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/detecting-common-bottlebecks-leading-to-your-computers-lagging-issues-insights-from-yl-software-experts/"><u>Detecting Common Bottlebecks Leading to Your Computer's Lagging Issues - Insights From YL Software Experts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-strategies-for-building-industry-specific-email-contacts-a-guide-by-yl-computing/"><u>Effective Strategies for Building Industry-Specific Email Contacts: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/expert-tips-from-yl-software-diagnosing-and-fixing-pc-overheat-problems/"><u>Expert Tips From YL Software: Diagnosing and Fixing PC Overheat Problems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/gopro-face-off-a-detailed-comparison-guide-for-2024/"><u>GoPro Face-Off A Detailed Comparison Guide for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-precision-and-proficiency-youtube-edits-in-adobe-premiere/"><u>In 2024, Precision & Proficiency YouTube Edits in Adobe Premiere</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-uncomplicated-guide-to-mobile-device-live-captures/"><u>In 2024, Uncomplicated Guide to Mobile Device Live Captures</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/open-source-video-template-ideas-for-youtube/"><u>Open Source Video Template Ideas for YouTube</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/protecting-bitcoin-and-alt-coins-without-relying-on-the-internet-expert-tips-from-yl-computing-software-specialists/"><u>Protecting Bitcoin and Alt-Coins Without Relying on the Internet – Expert Tips From YL Computing Software Specialists</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/speed-up-your-pc-with-effective-registry-optimization-techniques-learn-how-from-yl-software-experts/"><u>Speed Up Your PC with Effective Registry Optimization Techniques – Learn How From YL Software Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-gps-navigation-apps-for-your-iphone/"><u>Top 5 Essential GPS Navigation Apps for Your iPhone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/windows-11-audio-settings-a-step-by-step-guide-on-turning-onoff-system-sounds-techsolutions/"><u>Windows 11 Audio Settings: A Step-by-Step Guide on Turning On/Off System Sounds - TechSolutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/yl-solutions-for-restoring-corrupted-system-files-step-by-step/"><u>YL Solutions for Restoring Corrupted System Files Step-by-Step</u></a></li>
 </ul></div>
 
