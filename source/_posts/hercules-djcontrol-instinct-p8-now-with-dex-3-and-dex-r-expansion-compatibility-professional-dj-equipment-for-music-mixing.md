@@ -1,7 +1,7 @@
 ---
 title: Hercules DJControl Instinct P8 Now with DEX 3 & Dex-R Expansion Compatibility - Professional DJ Equipment for Music Mixing
-date: 2025-01-13T19:52:32.935Z
-updated: 2025-01-14T23:39:23.398Z
+date: 2025-01-16T01:49:34.110Z
+updated: 2025-01-20T22:39:30.082Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,17 +66,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-instatunes-navigating-copyright-laws/"><u>[New] In 2024, Mastering InstaTunes Navigating Copyright Laws</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-digital-artisans-exclusive-summit-for-2024/"><u>[Updated] Digital Artisans' Exclusive Summit for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-discover-and-make-the-fb-most-watched-song-videos/"><u>[Updated] Discover & Make the #FB Most-Watched Song Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unraveling-filmora-editing-inquiries/"><u>[Updated] Unraveling Filmora Editing Inquiries</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/avoiding-automatic-transitions-steps-to-prevent-windows-11-update-and-keep-using-windows-10/"><u>Avoiding Automatic Transitions: Steps to Prevent Windows 11 Update and Keep Using Windows 10</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/can-excess-applications-slow-down-your-pc-uncover-why-with-yl-computings-in-depth-analysis/"><u>Can Excess Applications Slow Down Your PC? Uncover Why with YL Computing's In-Depth Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-efficiency-avoiding-chatgpt-slip-ups/"><u>Conversational Efficiency: Avoiding ChatGPT Slip-Ups</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976388682-get-the-latest-canon-mp250-software-free-downloads-and-updates-available/"><u>Get the Latest Canon MP250 Software - Free Downloads & Updates Available</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-a2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A2 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/solving-windows-freeze-issues-effective-solutions-by-yl-software-experts/"><u>Solving Windows Freeze Issues: Effective Solutions by YL Software Experts</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-pc-performance-understanding-the-causes-of-sluggishness-post-windows-10-update-insights-by-yl-computing/"><u>Troubleshooting PC Performance: Understanding the Causes of Sluggishness Post-Windows 10 Update - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-high-cpu-temperatures-insights-from-yl-computings-latest-findings/"><u>Understanding High CPU Temperatures: Insights From YL Computing's Latest Findings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-how-to-upgrade-your-mac-with-macos-sierra-simplified/"><u>[New] 2024 Approved How to Upgrade Your Mac with macOS Sierra Simplified</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-detailed-exploration-adobe-cloud-essentials-plus-other-paths/"><u>[Updated] 2024 Approved Detailed Exploration Adobe Cloud Essentials + Other Paths</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-with-sony-fdr-x1000v-action-footage/"><u>[Updated] Mastering the Art with Sony FDR-X1000V Action Footage</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-ronin-comic-book-wallpaper-pack-high-resolution-marvel-desktop-designs-by-yl-computing/"><u>1. Ronin Comic Book Wallpaper Pack - High-Resolution Marvel Desktop Designs by YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-unraveling-the-mystery-why-wont-my-pc-boot-up-insights-from-yl-computing-experts/"><u>1. Unraveling the Mystery: Why Won't My PC Boot Up? Insights From YL Computing Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cost-efficient-productivity-boost-in-depth-comparison-of-cheaper-officesuite-alternatives-to-microsofts-premium-software/"><u>Cost-Efficient Productivity Boost: In-Depth Comparison of Cheaper OfficeSuite Alternatives to Microsoft's Premium Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-dex3s-innovative-audio-controls-mastering-agc-in-digital-mixing/"><u>Exploring DEX3's Innovative Audio Controls - Mastering AGC in Digital Mixing</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-effectively-backup-your-data-transitioning-from-windows-server-2012r2-to-a-synology-nas-solution/"><u>How to Effectively Backup Your Data: Transitioning From Windows Server 2012(R2) to a Synology NAS Solution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-xiaomi-redmi-12-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Xiaomi Redmi 12 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/master-your-sound-configuration-tips-for-tweaking-audio-in-windows-11-with-yl-software-solutions/"><u>Master Your Sound Configuration: Tips for Tweaking Audio in Windows 11 with YL Software Solutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/maximizing-your-computers-potential-expert-tips-from-yl-computing-boost-speed-and-performance/"><u>Maximizing Your Computer’s Potential: Expert Tips From YL Computing – Boost Speed and Performance!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/photo-perfection-in-a-pinch-with-top-apps/"><u>Photo Perfection in a Pinch with Top Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976734658-revitalize-your-pcs-sound-with-updated-windows-7-audio-card-drivers-step-by-step-guide/"><u>Revitalize Your PC's Sound with Updated Windows 7 Audio Card Drivers – Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/troubleshooting-your-laptops-charger-issue-insightful-guide-by-yl-computing/"><u>Troubleshooting Your Laptop's Charger Issue: Insightful Guide by YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unveiling-the-distinctions-regular-vs-gaming-graphics-cards-insights-from-yl-computing/"><u>Unveiling the Distinctions: Regular Vs. Gaming Graphics Cards - Insights From YL Computing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-freebie-frenzy-top-online-video-editors-reviewed/"><u>Updated In 2024, The Freebie Frenzy Top Online Video Editors Reviewed</u></a></li>
 </ul></div>
 

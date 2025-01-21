@@ -1,7 +1,7 @@
 ---
 title: "Update to the Latest LYRX for Mac Users: Enhanced Karaoke Software with Catalina Support | Get Your Free PCDJ v1.n"
-date: 2025-01-13T16:53:29.168Z
-updated: 2025-01-14T17:21:30.181Z
+date: 2025-01-19T18:01:45.616Z
+updated: 2025-01-20T22:07:19.469Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,20 +77,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[New] In 2024, How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-maximizing-your-virtual-meetings-expert-insights-on-using-zoom-win10/"><u>[New] Maximizing Your Virtual Meetings Expert Insights on Using Zoom (Win10)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-picks-superior-vr-game-choices-for-the-cardboard-enthusiast/"><u>[New] Premium Picks Superior VR Game Choices for the Cardboard Enthusiast</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-intel-uhd-graphics-drivers-for-windows-1011/"><u>Download and Install Latest Intel UHD Graphics Drivers for Windows 10/11</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/explore-custom-dex3-user-submitted-graphics-based-on-denons-dn-hc4500-unleash-your-mixing-potential/"><u>Explore Custom DEX3 User-Submitted Graphics Based on Denon's DN-HC4500 - Unleash Your Mixing Potential</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-efficiently-update-your-pcs-device-drivers-via-windows-control-panel-insights-by-yl-computing/"><u>How to Efficiently Update Your PC's Device Drivers via Windows Control Panel - Insights by YL Computing</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/improve-your-sites-engagement-with-cookiebot-integration-solutions/"><u>Improve Your Site's Engagement with Cookiebot Integration Solutions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-sprint-secrets-olympic-edition-22/"><u>In 2024, Sprint Secrets - Olympic Edition '22</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/is-it-time-to-upgrade-your-ram-after-sustaining-damage-expert-advice-from-yl-computing/"><u>Is It Time to Upgrade Your RAM After Sustaining Damage? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/optimal-budget-free-fb-videopicture-engineer/"><u>Optimal Budget-Free FB Video/Picture Engineer</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/premium-4k-background-graphics-2160x1920-curated-by-yl-software-for-immersive-visual-experiences/"><u>Premium 4K Background Graphics (2160X1920) Curated by YL Software for Immersive Visual Experiences</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/recognizing-gpu-issues-before-they-worsen-a-comprehensive-guide-by-yl-software-experts/"><u>Recognizing GPU Issues Before They Worsen - A Comprehensive Guide by YL Software Experts</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/resolving-picture-issues-on-screens-in-depth-guidance-by-yl-software-experts/"><u>Resolving Picture Issues on Screens: In-Depth Guidance by YL Software Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/tetris-talent-showdowns-on-android-and-ios-devices/"><u>Tetris Talent Showdowns on Android and iOS Devices</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-android-watch-pickups-the-ultimate-guide-to-the-finest-wearable-tech/"><u>Top Android Watch Pickups: The Ultimate Guide to the Finest Wearable Tech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unleashing-potential-learning-to-race-with-drones-and-best-models/"><u>[New] 2024 Approved Unleashing Potential Learning to Race with Drones and Best Models</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leading-8-mirrorless-cameras-for-youtube-creators/"><u>[New] Leading 8 Mirrorless Cameras For YouTube Creators</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-gratis-bootstrap-5-theme-framework-effortless-and-modern-interface-crafting-at-creative-tim/"><u>1. Gratis Bootstrap 5 Theme Framework: Effortless & Modern Interface Crafting at Creative Tim</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-ultimate-guide-top-strategies-for-shielding-yourself-from-malware-threats-insights-by-yl-computing/"><u>1. Ultimate Guide: Top Strategies for Shielding Yourself From Malware Threats - Insights by YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi3gppavi/"><u>使用Movavi，簡化在線3GPP到AVI的影片轉換：免付費解決方案</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/begin-your-journey-in-crypto-trading-insights-from-yl-computings-expert-platform/"><u>Begin Your Journey in Crypto-Trading: Insights From YL Computing's Expert Platform</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-the-influence-of-windows-defender-on-your-computers-speed-and-functionality-with-yl-software-specialists/"><u>Exploring the Influence of Windows Defender on Your Computer's Speed & Functionality with YL Software Specialists</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-boost-your-tv-experience-automatic-loops-of-youtube-videos/"><u>In 2024, Boost Your TV Experience Automatic Loops of YouTube Videos</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-peripheral-problems-troubleshooting-guide-for-faulty-mousekeyboard-connections-insights-from-yl-software/"><u>Solving Peripheral Problems: Troubleshooting Guide for Faulty Mouse/Keyboard Connections – Insights From YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-setting-up-restore-points-with-yls-advanced-tools/"><u>Step-by-Step Tutorial on Setting Up Restore Points with YL's Advanced Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/stop-the-mist-secrets-to-a-clean-gopro-shot/"><u>Stop the Mist Secrets to a Clean GoPro Shot</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactical-triumphs-an-exclusive-guide-to-top-11-strategy-titles/"><u>Tactical Triumphs: An Exclusive Guide to Top 11 Strategy Titles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-here-chatgpt-launches-vital-updates-and-enhancements/"><u>The Future Is Here: ChatGPT Launches Vital Updates & Enhancements</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unlock-peak-audio-experience-expert-strategies-from-yl-computings-advanced-output-optimization-guide/"><u>Unlock Peak Audio Experience: Expert Strategies From YL Computing's Advanced Output Optimization Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unmasking-crypto-impersonation-fraud-an-insight-by-yl-computing-and-yl-software/"><u>Unmasking Crypto Impersonation Fraud: An Insight by YL Computing & YL Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ling-top-8-premium-marriage-videos-on-video-platforms-for-2024/"><u>Unveiling Top 8 Premium Marriage Videos on Video Platforms for 2024</u></a></li>
 </ul></div>
 

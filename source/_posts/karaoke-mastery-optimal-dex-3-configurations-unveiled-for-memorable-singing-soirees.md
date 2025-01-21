@@ -1,7 +1,7 @@
 ---
 title: "Karaoke Mastery: Optimal DEX 3 Configurations Unveiled for Memorable Singing Soirees"
-date: 2025-01-08T00:41:59.768Z
-updated: 2025-01-14T23:18:30.845Z
+date: 2025-01-14T18:08:19.487Z
+updated: 2025-01-20T23:37:07.414Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Below you will find our suggested settings and configuration for using DEX 3 for
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suggestion Configuration for Hosting Karaoke with DEX 3
@@ -39,7 +39,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![DEX 3 karaoke mode](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke.jpg?fit=900%2C307&ssl=1 "DEX 3 karaoke mode")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. **Enable the Case player as the Filler Music Player:** Go into DEX 3’s options, under the Karaoke tab, and put a tick in the box for “use case/preview player as background/filler music player”. This will allow you to use the regular sidelist (not the Karaoke Rotation list) for automatic filler music playback. From the same Karaoke tab in options, you can also adjust the filler music volume level. Many customers prefer to lower the volume of the filler music player a few decibels so that playback is a bit quieter than when playing karaoke songs.
@@ -49,7 +49,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![Key Stepper DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke-keystepper.jpg?fit=900%2C307&ssl=1 "Key Stepper DEX 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5\. **Enable Detect Musical Key and Detect Automatic Gain:** Also located under the General tab in options, tick the boxes for both “Detect Musical Key” and “Detect Automatic Gain”. Detect Musical Key will allow DEX 3 to automatically calculate the musical key of the track (as well as a modified Camelot Scale key) of the track. Detect Automatic Gain will ensure DEX 3 plays all tracks at the same output gain level.
@@ -57,7 +57,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 ![DEX 3 musical key and gain](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-musicalkey-gain.jpg?fit=900%2C307&ssl=1 "DEX 3 musical key and gain")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6\. **Show Your Company Logo on Screen with Opacity:** Optional of course, but you can easily use DEX 3’s overlays feature to display your own logo at all times on screen with varied levels of opacity.
@@ -65,7 +65,7 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 That should assist you greatly with configuring DEX 3 for karaoke hosting purposes. Please review the following videos for additional help with all of the latest karaoke features added to DEX 3.11 (and up)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,19 +87,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/DEX3-config-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ace-6-tools-to-effortlessly-grab-videos-on-mac/"><u>[New] 2024 Approved Ace 6 Tools to Effortlessly Grab Videos on Mac</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-elite-unmanned-aerial-vehicles-up-for-grabs/"><u>[New] In 2024, Elite Unmanned Aerial Vehicles Up for Grabs</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-masterclass-guide-15-tripods-perfect-for-gopro/"><u>[Updated] 2024 Approved Masterclass Guide 15 Tripods Perfect for GoPro</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-compreeve-youtube-extraction-11-tools-reviewed/"><u>[Updated] Compreeve YouTube Extraction 11 Tools Reviewed</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effective-cybersecurity-is-microsofts-windows-defender-enough-to-ward-off-malware-and-threats-tips-by-yl-software/"><u>Effective Cybersecurity: Is Microsoft's Windows Defender Enough to Ward Off Malware and Threats? Tips by YL Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ensuring-device-synchronization-is-your-equipment-updated-for-latest-software-innovations-by-yl-technology/"><u>Ensuring Device Synchronization: Is Your Equipment Updated for Latest Software Innovations by YL Technology</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-12-mini-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 12 mini or iPad?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/maximizing-os-efficiency-expert-tips-for-superior-system-management-using-yl-software-solutions/"><u>Maximizing OS Efficiency: Expert Tips for Superior System Management Using YL Software Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-rhythm-cleanser-app-design-tailored-accompaniment-sets/"><u>New 2024 Approved Rhythm Cleanser App Design Tailored Accompaniment Sets</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/pcdj-dex-34-customizable-rack-decks-showcase-get-a-sneak-peek/"><u>PCDJ Dex 3/4 Customizable Rack Decks Showcase – Get a Sneak Peek!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/solving-the-issue-of-your-pcs-ignored-audio-device-a-comprehensive-guide-techfix-solutions/"><u>Solving the Issue of Your PC's Ignored Audio Device: A Comprehensive Guide - TechFix Solutions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/strategies-for-navigating-volatile-crypto-markets-insights-from-yl-computings-expertise/"><u>Strategies for Navigating Volatile Crypto Markets: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-explore-the-best-sky-hd-photography-websites/"><u>[New] 2024 Approved Explore the Best Sky HD Photography Websites</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-chaptered-videos-on-vimeo-a-comprehensible-guide/"><u>[New] In 2024, Chaptered Videos on Vimeo A Comprehensible Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-efficient-ways-to-integrate-movies-into-your-youtube-catalog/"><u>[Updated] Efficient Ways to Integrate Movies Into Your YouTube Catalog</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pushing-boundaries-top-prime-lenses-for-industry-pros/"><u>[Updated] Pushing Boundaries Top Prime Lenses for Industry Pros</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-iphone-models-should-you-upgrade-to-the-iphone-16-pro-from-the-iphone-14-pro-insights-and-analysis/"><u>Comparing iPhone Models: Should You Upgrade to the iPhone 16 Pro From the iPhone 14 Pro? Insights & Analysis</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/decoding-bitcoin-and-altcoin-equity-monitoring-a-deep-dive-into-yl-software-solutions/"><u>Decoding Bitcoin & Altcoin Equity Monitoring: A Deep Dive Into YL Software Solutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhance-your-security-with-windows-defender-updates-insights-from-yl-software-experts/"><u>Enhance Your Security with Windows Defender Updates - Insights From YL Software Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-list-of-top-8-wallpapers-for-macbooks/"><u>Exclusive List of Top 8 Wallpapers for MacBooks</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-fix-a-graphic-card-displaying-wrong-colors-tips-from-yl-computing/"><u>How to Fix a Graphic Card Displaying Wrong Colors - Tips From YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oneplus-ace-2-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track OnePlus Ace 2 without App | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/inside-look-the-workplace-dynamics-on-facebook-groups/"><u>Inside Look: The Workplace Dynamics on Facebook Groups</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mac-or-windows-mastering-the-art-of-laptop-screenshots-with-step-by-step-guides-for-popular-brands/"><u>Mac or Windows? Mastering the Art of Laptop Screenshots with Step-by-Step Guides for Popular Brands</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-gamers-guide-prevent-and-resolve-your-pc-games-from-crashing/"><u>Master Gamers' Guide: Prevent and Resolve Your PC Games From Crashing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mounting-iso-images-on-windows-made-easy-with-expert-advice-from-yl-computing/"><u>Mounting ISO Images on Windows Made Easy with Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/transform-your-digital-workspace-with-yl-softwares-exclusive-mha-backdrop-collection-a-showcase-of-13-stunning-graphics-for-professionals-in-medicine-and-te48/"><u>Transform Your Digital Workspace with YL Software’s Exclusive MHA Backdrop Collection: A Showcase of 13 Stunning Graphics for Professionals in Medicine and Technology.</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/transform-your-windows-10-interface-a-step-by-step-guide-yl-computing/"><u>Transform Your Windows 10 Interface: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unlock-the-secrets-of-your-network-configuration-a-comprehveled-tutorial-by-yl-software-experts/"><u>Unlock the Secrets of Your Network Configuration: A Comprehveled Tutorial by YL Software Experts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/yl-computings-bold-design-icon-collection-inspired-by-sex-and-the-city-characters-for-your-app/"><u>YL Computing's Bold Design: Icon Collection Inspired by Sex & The City Characters for Your App</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/your-opinion-matters-let-us-know-which-pcdj-enhancements-youd-love-to-see/"><u>Your Opinion Matters! Let Us Know Which PCDJ Enhancements You'd Love to See.</u></a></li>
 </ul></div>
 
