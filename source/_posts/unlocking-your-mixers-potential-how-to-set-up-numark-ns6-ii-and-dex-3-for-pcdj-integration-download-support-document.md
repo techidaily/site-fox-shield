@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Mixer's Potential: How to Set Up Numark NS6 II & DEX 3 for PCDJ Integration (Download Support Document)"
-date: 2025-01-16T17:45:44.003Z
-updated: 2025-01-20T20:06:52.389Z
+date: 2025-01-23T19:51:01.105Z
+updated: 2025-01-26T20:40:28.822Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### KEY NUMARK NS6II FEATURES:
@@ -65,7 +65,7 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 _Have questions about the **Numark NS6II** DJ controller and how it works with our **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,24 +87,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/numarkns6II-pcdjsupported-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-visual-description-programmer/"><u>[New] Visual Description Programmer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-infuse-your-slides-with-clear-voice-communication/"><u>[Updated] 2024 Approved Infuse Your Slides with Clear Voice Communication</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-eyedome-recorder-chromeos-screen-snapshots-for-2024/"><u>[Updated] EyeDome Recorder ChromeOS Screen Snapshots for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-creator-to-curator-expertly-upload-your-videos-on-igadgets-for-2024/"><u>[Updated] From Creator to Curator Expertly Upload Your Videos on iGadgets for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-trendy-ways-to-save-your-gaming-moments/"><u>2024 Approved Trendy Ways to Save Your Gaming Moments</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728461431251-windows/"><u>解決 Windows 磁碟分割格式化失敗的高效方法</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210197286-9781631595189-crystal-lore-legends-myths/"><u>Crystal Lore, Legends & Myths | Free Book</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/guide-on-moving-your-files-from-samsung-devices-to-windows-10-system-with-ease/"><u>Guide on Moving Your Files From Samsung Devices to Windows 10 System with Ease</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/hardware-independent-restoration-techniques-for-effortless-transition-across-diverse-computing-platforms/"><u>Hardware-Independent Restoration Techniques for Effortless Transition Across Diverse Computing Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hid-keyboard-user-guide-finding-and-installing-the-latest-drivers-with-ease/"><u>HID Keyboard User Guide: Finding and Installing the Latest Drivers with Ease</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-use-mssqls-restore-filelistonly-command-effectively/"><u>How to Use MSSQL's RESTORE FILELISTONLY Command Effectively</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-nokia-c210-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Nokia C210 for Free? | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/instale-windows-11-23h2-sin-necesidad-de-hardware-compatible-dos-metodos-faciles/"><u>Instale Windows 11 23H2 Sin Necesidad De Hardware Compatible: Dos Métodos Fáciles</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/kostenloses-seagate-nas-backup-losungen-fur-windows-die-beste-auswahl-fur-versionen-11-8-und-7/"><u>Kostenloses Seagate NAS-Backup Lösungen Für Windows - Die Beste Auswahl Für Versionen 11, 8 Und 7</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederauffinden-von-daten-auf-einer-adata-festplatte/"><u>Schritt-Für-Schritt-Anleitung Zum Wiederauffinden Von Daten Auf Einer Adata Festplatte</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-fixing-faulty-drives-with-chkdsk-in-windows-os/"><u>Step-by-Step Tutorial on Fixing Faulty Drives with Chkdsk in Windows OS</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/tecnicas-simplificadas-para-la-sincronizacion-perpetua-de-archivos-en-windows-una-guia-completa/"><u>Técnicas Simplificadas Para La Sincronización Perpetua De Archivos en Windows: Una Guía Completa</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/top-gratuite-logiciels-de-backup-parfaites-pour-systemes-windows-mac-et-linux/"><u>Top Gratuite Logiciels De Backup Parfaites Pour Systèmes Windows, Mac Et Linux</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-lava-blaze-pro-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-a-step-into-anti-time-original-techniques-to-rewind-yt-videos/"><u>[New] 2024 Approved A Step Into Anti-Time Original Techniques to Rewind YT Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-boosting-youtube-traffic-outsmarting-automated-viewers/"><u>[New] 2024 Approved Boosting YouTube Traffic Outsmarting Automated Viewers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-step-up-video-playback-enable-youtubes-advanced-av1-setting/"><u>[New] 2024 Approved Step Up Video Playback Enable YouTube's Advanced AV1 Setting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instagram-stories-tempo-tactics-speeding-up-or-slowing-down/"><u>[New] Instagram Stories Tempo Tactics – Speeding Up or Slowing Down</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-constructing-the-ideal-setup-for-advanced-4k-video-production-for-2024/"><u>[Updated] Constructing the Ideal Setup for Advanced 4K Video Production for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-utilizing-free-clip-art-for-graphic-designs/"><u>[Updated] Utilizing Free Clip Art for Graphic Designs</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/disabling-automatic-update-feature-in-windows-11-a-comprehensive-guide-tips-from-yl-computing/"><u>Disabling Automatic Update Feature in Windows 11: A Comprehensive Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/exploring-advantages-how-yls-crypto-address-balance-verifier-enhances-your-digital-wallet-experience/"><u>Exploring Advantages: How YL's Crypto Address Balance Verifier Enhances Your Digital Wallet Experience</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-can-you-stop-your-computer-from-running-slow-again-expert-tips-and-strategies-yl-tech-advice/"><u>How Can You Stop Your Computer From Running Slow Again: Expert Tips and Strategies - YL Tech Advice</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/optimizing-your-computers-ram-for-maximum-efficiency-insights-by-yl-software-experts/"><u>Optimizing Your Computer's RAM for Maximum Efficiency - Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reestablished-turn-on-nearby-network-defense-options/"><u>Reestablished: Turn On Nearby Network Defense Options</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/resolving-the-windows-bsod-issue-a-comprehensive-guide-by-yl-computing/"><u>Resolving the Windows BSoD Issue: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/selecting-a-secure-and-reliable-crypto-wallet-expert-advice-from-yl-computing-your-ultimate-guide/"><u>Selecting a Secure and Reliable Crypto Wallet: Expert Advice From YL Computing - Your Ultimate Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-network-card-trouble-expert-tips-from-yl-software-professionals/"><u>Solving Network Card Trouble?: Expert Tips From YL Software Professionals</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-sudden-system-sleep-mode-issues-on-your-computer-insights-by-yl-software-experts/"><u>Solving Sudden System Sleep Mode Issues on Your Computer - Insights by YL Software Experts</u></a></li>
 </ul></div>
 

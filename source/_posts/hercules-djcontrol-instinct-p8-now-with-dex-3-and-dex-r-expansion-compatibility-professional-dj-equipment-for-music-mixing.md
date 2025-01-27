@@ -1,7 +1,7 @@
 ---
 title: Hercules DJControl Instinct P8 Now with DEX 3 & Dex-R Expansion Compatibility - Professional DJ Equipment for Music Mixing
-date: 2025-01-16T01:49:34.110Z
-updated: 2025-01-20T22:39:30.082Z
+date: 2025-01-24T19:39:53.101Z
+updated: 2025-01-27T03:34:23.573Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,21 +66,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-how-to-upgrade-your-mac-with-macos-sierra-simplified/"><u>[New] 2024 Approved How to Upgrade Your Mac with macOS Sierra Simplified</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-detailed-exploration-adobe-cloud-essentials-plus-other-paths/"><u>[Updated] 2024 Approved Detailed Exploration Adobe Cloud Essentials + Other Paths</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-with-sony-fdr-x1000v-action-footage/"><u>[Updated] Mastering the Art with Sony FDR-X1000V Action Footage</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-ronin-comic-book-wallpaper-pack-high-resolution-marvel-desktop-designs-by-yl-computing/"><u>1. Ronin Comic Book Wallpaper Pack - High-Resolution Marvel Desktop Designs by YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-unraveling-the-mystery-why-wont-my-pc-boot-up-insights-from-yl-computing-experts/"><u>1. Unraveling the Mystery: Why Won't My PC Boot Up? Insights From YL Computing Experts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/cost-efficient-productivity-boost-in-depth-comparison-of-cheaper-officesuite-alternatives-to-microsofts-premium-software/"><u>Cost-Efficient Productivity Boost: In-Depth Comparison of Cheaper OfficeSuite Alternatives to Microsoft's Premium Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-dex3s-innovative-audio-controls-mastering-agc-in-digital-mixing/"><u>Exploring DEX3's Innovative Audio Controls - Mastering AGC in Digital Mixing</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-effectively-backup-your-data-transitioning-from-windows-server-2012r2-to-a-synology-nas-solution/"><u>How to Effectively Backup Your Data: Transitioning From Windows Server 2012(R2) to a Synology NAS Solution</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-xiaomi-redmi-12-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Xiaomi Redmi 12 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/master-your-sound-configuration-tips-for-tweaking-audio-in-windows-11-with-yl-software-solutions/"><u>Master Your Sound Configuration: Tips for Tweaking Audio in Windows 11 with YL Software Solutions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/maximizing-your-computers-potential-expert-tips-from-yl-computing-boost-speed-and-performance/"><u>Maximizing Your Computer’s Potential: Expert Tips From YL Computing – Boost Speed and Performance!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/photo-perfection-in-a-pinch-with-top-apps/"><u>Photo Perfection in a Pinch with Top Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976734658-revitalize-your-pcs-sound-with-updated-windows-7-audio-card-drivers-step-by-step-guide/"><u>Revitalize Your PC's Sound with Updated Windows 7 Audio Card Drivers – Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-your-laptops-charger-issue-insightful-guide-by-yl-computing/"><u>Troubleshooting Your Laptop's Charger Issue: Insightful Guide by YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unveiling-the-distinctions-regular-vs-gaming-graphics-cards-insights-from-yl-computing/"><u>Unveiling the Distinctions: Regular Vs. Gaming Graphics Cards - Insights From YL Computing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-freebie-frenzy-top-online-video-editors-reviewed/"><u>Updated In 2024, The Freebie Frenzy Top Online Video Editors Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-canvas-clearance-techniques-for-uncluttered-image-frames/"><u>[New] Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-perfect-your-morphvox-skills-a-complete-manual/"><u>[New] In 2024, Perfect Your MorphVOX Skills A Complete Manual</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-uncloaked-resolved-youtube-shorts-gone-miss/"><u>[New] Uncloaked Resolved YouTube Shorts Gone Miss</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-itunes-video-capture-techniques-for-2024/"><u>[Updated] Mastering iTunes Video Capture Techniques for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-viral-vibrancy-trending-audio-amplifying-your-yt-shorts/"><u>[Updated] Viral Vibrancy Trending Audio Amplifying Your YT Shorts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-the-world-of-microsofts-activex-technologies-dive-into-complus-fundamentals/"><u>Exploring the World of Microsoft's ActiveX Technologies - Dive Into COM+ Fundamentals</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-save-iphone-calls-on-mac-or-windows-pc/"><u>How to Save iPhone Calls on Mac or Windows PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/leading-mobilerobo-options-explore-the-finest-similar-apps-for-your-smartphone/"><u>Leading MobileRobo Options: Explore the Finest Similar Apps for Your Smartphone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/los-mejores-softwares-gratuitos-para-ripar-dvd-en-windows-n-generacion-convertir-video-y-audio-sin-problemas-de-2021/"><u>Los Mejores Softwares Gratuitos Para Ripar DVD en Windows N-Generación: Convertir Video Y Audio Sin Problemas De 2021</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/navigating-the-preferences-pane-customizing-mac-os-x-system-controls/"><u>Navigating the Preferences Pane: Customizing Mac OS X System Controls</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quickres-speedy-format-factory-substitute-for-windows-and-mac-users/"><u>QuickRes: Speedy Format Factory Substitute for Windows & Mac Users</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/say-goodbye-to-annoying-pop-ups-a-guide-to-using-malwarefox-on-samsung-phones-and-tablets/"><u>Say Goodbye to Annoying Pop-Ups: A Guide to Using MalwareFox on Samsung Phones and Tablets</u></a></li>
 </ul></div>
 

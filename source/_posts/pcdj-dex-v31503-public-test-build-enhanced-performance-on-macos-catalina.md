@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX v3.15.0.3 Public Test Build - Enhanced Performance on macOS Catalina
-date: 2025-01-19T23:38:44.679Z
-updated: 2025-01-21T03:53:25.394Z
+date: 2025-01-20T01:58:48.324Z
+updated: 2025-01-26T17:58:32.612Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,18 +67,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-quick-guide-to-gopro-4k-video-enhancement/"><u>[New] 2024 Approved Quick Guide to GoPro 4K Video Enhancement</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-7-types-of-color-grading-for-you-to-try/"><u>[New] 7 Types of Color Grading for You to Try</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-mobile-mastery-upgrade-photos-elevated-at-no-price-for-2024/"><u>[New] Mobile Mastery Upgrade Photos Elevated at No Price for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-best-asmr-youtube-channels/"><u>[New] The Best ASMR YouTube Channels</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-ronin-comic-book-wallpaper-pack-high-resolution-marvel-desktop-designs-by-yl-computing/"><u>1. Ronin Comic Book Wallpaper Pack - High-Resolution Marvel Desktop Designs by YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1-unraveling-the-mystery-why-wont-my-pc-boot-up-insights-from-yl-computing-experts/"><u>1. Unraveling the Mystery: Why Won't My PC Boot Up? Insights From YL Computing Experts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-fb-link-downloader-bundle-access-to-8-free-online-solutions/"><u>2024 Approved FB Link Downloader Bundle Access to 8 Free, Online Solutions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-dex3s-innovative-audio-controls-mastering-agc-in-digital-mixing/"><u>Exploring DEX3's Innovative Audio Controls - Mastering AGC in Digital Mixing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-solar-powered-outdoor-lamps-your-ultimate-guide-gizmocentral/"><u>Top 5 Solar-Powered Outdoor Lamps : Your Ultimate Guide | GizmoCentral</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-your-laptops-charger-issue-insightful-guide-by-yl-computing/"><u>Troubleshooting Your Laptop's Charger Issue: Insightful Guide by YL Computing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unlock-the-full-potential-of-your-youtube-videos-top-11-seo-tips/"><u>Unlock the Full Potential of Your YouTube Videos Top 11 SEO Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-ai-writing-professional-youtube-scripts-with-chatgpt/"><u>Unlocking the Power of AI: Writing Professional YouTube Scripts with ChatGPT</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unveiling-the-distinctions-regular-vs-gaming-graphics-cards-insights-from-yl-computing/"><u>Unveiling the Distinctions: Regular Vs. Gaming Graphics Cards - Insights From YL Computing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-enhance-presentations-with-proper-screenshotting-via-ezvid/"><u>[New] 2024 Approved Enhance Presentations with Proper Screenshotting via Ezvid</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-sd-card-selections-for-optimal-gopro-hero-78-performance/"><u>[New] Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iming-of-youtube-earnings-a-closer-insight-for-2024/"><u>[New] Timing of YouTube Earnings A Closer Insight for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-humorous-gifry-on-giphy-network/"><u>[Updated] Innovate Humorous Gifry on Giphy Network</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-where-are-my-youtube-comments-desktopiosandroid-strategies-for-2024/"><u>[Updated] Where Are My YouTube Comments? Desktop/iOS/Android Strategies for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/aspects-instead-of-properties-and-rephrasing-to-highlight-key-ideas-such-as-placement-attributes-and-positioning/"><u>Aspects Instead of Properties and Rephrasing to Highlight Key Ideas Such as Placement, Attributes, and Positioning.</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mastering-configurations-the-expert-guide-to-importing-ini-files/"><u>Mastering Configurations: The Expert Guide to Importing INI Files</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/izing-impact-with-creative-video-titles/"><u>Maximizing Impact with Creative Video Titles</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-getting-rid-of-chrome-adware-with-the-help-of-malwarefox-tool/"><u>Step-by-Step Guide: Getting Rid of Chrome Adware with the Help of MalwareFox Tool</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-making-images-with-transparent-backdrops-easily/"><u>Step-by-Step Guide: Making Images with Transparent Backdrops Easily</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-transforming-jpeg-photos-to-pdf-documents-in-windows/"><u>Step-by-Step Tutorial: Transforming JPEG Photos to PDF Documents in Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-insiders-edge-to-editing-your-look-back-story/"><u>The Insider's Edge to Editing Your Look Back Story</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-property-attributes-for-informed-home-buying-decisions/"><u>Understanding Property Attributes for Informed Home Buying Decisions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-registry-keys-a-comprehensive-guide/"><u>Understanding Registry Keys: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-the-role-of-identifiers-in-software-management-tables/"><u>Understanding the Role of Identifiers in Software Management Tables</u></a></li>
 </ul></div>
 

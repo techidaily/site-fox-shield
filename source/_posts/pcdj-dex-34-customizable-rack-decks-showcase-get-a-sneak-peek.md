@@ -1,7 +1,7 @@
 ---
 title: PCDJ Dex 3/4 Customizable Rack Decks Showcase – Get a Sneak Peek!
-date: 2025-01-13T16:55:36.064Z
-updated: 2025-01-20T17:10:03.204Z
+date: 2025-01-24T16:55:37.019Z
+updated: 2025-01-26T16:44:29.127Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ Today we want to share with you a preview of our new 4 deck version of the upcom
 If you'd like to be informed when PCDJ DEX 3 **DJ software** is launched publicly, please subscribe to our newsletter in the left side bar of the blog home page — _we'll email you as soon as it's ready for download!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -54,21 +54,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pcdjdex3-skinpreviewheader
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-elevating-images-a-professionals-palette-playbook-for-2024/"><u>[Updated] Elevating Images A Professional's Palette Playbook for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-free-video-recorders-for-every-android-user/"><u>[Updated] Free Video Recorders for Every Android User</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-melodious-messages-in-whatsapp/"><u>[Updated] Melodious Messages in WhatsApp</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/configuracao-rapida-do-windows-10-em-um-ssd-fresco-solucoes-com-ou-sem-uma-midia-de-instalacao/"><u>Configuração Rápida Do Windows 10 Em Um SSD Fresco: Soluções Com Ou Sem Uma Mídia De Instalação</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effortless-steps-mastering-the-use-of-safaris-download-manager-on-your-iphone/"><u>Effortless Steps: Mastering the Use of Safari's Download Manager on Your iPhone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/einfach-umsetzen-google-foto-bilder-perfekt-in-den-icloud-speicher-verschieben/"><u>Einfach Umsetzen: Google Foto-Bilder Perfekt in Den iCloud-Speicher Verschieben</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exemplary-episodes-for-auditory-drama-for-2024/"><u>Exemplary Episodes for Auditory Drama for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/guia-paso-a-paso-clonar-su-pc-con-clonezilla-desde-windows-7/"><u>Guía Paso a Paso: Clonar Su PC Con Clonezilla Desde Windows 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-a78-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/mendatilankan-folder-dari-external-hdd-langkah-langkah-perbaikan-yang-efektif/"><u>Mendatilankan Folder Dari External HDD? Langkah-Langkah Perbaikan Yang Efektif!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722572079765-nba-2k19-ultimate-virtual-hoops-experience/"><u>NBA 2K19: Ultimate Virtual Hoops Experience</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/schritt-fur-schritt-anleitung-zur-wiederherstellung-verschollener-dateien-unter-windows-11/"><u>Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Verschollener Dateien Unter Windows 11</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/solving-the-issue-when-your-iphone-transfer-function-fails-a-comprehensive-guide/"><u>Solving the Issue: When Your iPhone Transfer Function Fails - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-an-iphone-silent-mode-that-wont-turn-on-effective-solutions/"><u>Troubleshooting an iPhone Silent Mode That Won't Turn On: Effective Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-your-storytelling-potential-11-effective-chatgpt-techniques-for-book-characters/"><u>Unleash Your Storytelling Potential - 11 Effective ChatGPT Techniques for Book Characters</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unraveling-the-cost-friendly-yet-confusing-identity-of-microsofts-surface-go-through-our-in-depth-review/"><u>Unraveling the Cost-Friendly Yet Confusing Identity of Microsoft's Surface Go Through Our In-Depth Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-m1-demystified-apple-redefines-chipset-technology/"><u>[New] M1 Demystified Apple Redefines Chipset Technology</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlocking-the-code-to-content-creator-commerce-with-carminati-ajay-for-2024/"><u>[New] Unlocking the Code to Content Creator Commerce with Carminati (AJay) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-bring-more-life-to-your-instagram-feed-with-these-4-gif-tips-for-2024/"><u>[Updated] Bring More Life to Your Instagram Feed with These 4 GIF Tips for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-joining-jpeg-worlds-with-ease-and-skill/"><u>[Updated] Joining JPEG Worlds with Ease and Skill</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-exploring-the-advantages-a-comprehensive-guide-on-cryptocurrency-investment-opportunities-with-yl-computing/"><u>1. Exploring the Advantages: A Comprehensive Guide on Cryptocurrency Investment Opportunities with YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-m54-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy M54 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/all-in-one-ios-problem-solver-expert-software-guiding-you-through-iphone-difficulties/"><u>All-in-One iOS Problem Solver: Expert Software Guiding You Through iPhone Difficulties</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-strategies-for-building-industry-specific-email-contacts-a-guide-by-yl-computing/"><u>Effective Strategies for Building Industry-Specific Email Contacts: A Guide by YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/identifying-the-reasons-behind-your-scanner-issues-insights-from-yl-computing/"><u>Identifying the Reasons Behind Your Scanner Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-protect-your-live-streams-the-periscope-video-howto/"><u>In 2024, Protect Your Live Streams The Periscope Video HowTo</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/instant-tips-for-easily-opening-any-control-panel-element-with-yl-software/"><u>Instant Tips for Easily Opening Any Control Panel Element with YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/master-your-sound-configuration-tips-for-tweaking-audio-in-windows-11-with-yl-software-solutions/"><u>Master Your Sound Configuration: Tips for Tweaking Audio in Windows 11 with YL Software Solutions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/revive-your-pcs-performance-how-to-reset-windows-memory-configuration-by-yl-computing/"><u>Revive Your PC's Performance: How to Reset Windows Memory Configuration by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/tech-guide-easily-project-your-smartphones-display-onto-your-computer/"><u>Tech Guide: Easily Project Your Smartphone's Display Onto Your Computer</u></a></li>
 </ul></div>
 
