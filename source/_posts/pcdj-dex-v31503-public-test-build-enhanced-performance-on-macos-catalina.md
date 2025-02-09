@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX v3.15.0.3 Public Test Build - Enhanced Performance on macOS Catalina
-date: 2025-01-20T01:58:48.324Z
-updated: 2025-01-26T17:58:32.612Z
+date: 2025-02-03T22:29:44.074Z
+updated: 2025-02-08T16:18:58.087Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,20 +67,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-enhance-presentations-with-proper-screenshotting-via-ezvid/"><u>[New] 2024 Approved Enhance Presentations with Proper Screenshotting via Ezvid</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prime-sd-card-selections-for-optimal-gopro-hero-78-performance/"><u>[New] Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/iming-of-youtube-earnings-a-closer-insight-for-2024/"><u>[New] Timing of YouTube Earnings A Closer Insight for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovate-humorous-gifry-on-giphy-network/"><u>[Updated] Innovate Humorous Gifry on Giphy Network</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-where-are-my-youtube-comments-desktopiosandroid-strategies-for-2024/"><u>[Updated] Where Are My YouTube Comments? Desktop/iOS/Android Strategies for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/aspects-instead-of-properties-and-rephrasing-to-highlight-key-ideas-such-as-placement-attributes-and-positioning/"><u>Aspects Instead of Properties and Rephrasing to Highlight Key Ideas Such as Placement, Attributes, and Positioning.</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/mastering-configurations-the-expert-guide-to-importing-ini-files/"><u>Mastering Configurations: The Expert Guide to Importing INI Files</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/izing-impact-with-creative-video-titles/"><u>Maximizing Impact with Creative Video Titles</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-getting-rid-of-chrome-adware-with-the-help-of-malwarefox-tool/"><u>Step-by-Step Guide: Getting Rid of Chrome Adware with the Help of MalwareFox Tool</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-making-images-with-transparent-backdrops-easily/"><u>Step-by-Step Guide: Making Images with Transparent Backdrops Easily</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-transforming-jpeg-photos-to-pdf-documents-in-windows/"><u>Step-by-Step Tutorial: Transforming JPEG Photos to PDF Documents in Windows</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-insiders-edge-to-editing-your-look-back-story/"><u>The Insider's Edge to Editing Your Look Back Story</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-property-attributes-for-informed-home-buying-decisions/"><u>Understanding Property Attributes for Informed Home Buying Decisions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-registry-keys-a-comprehensive-guide/"><u>Understanding Registry Keys: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-the-role-of-identifiers-in-software-management-tables/"><u>Understanding the Role of Identifiers in Software Management Tables</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-a-user-friendly-guide-to-seamless-collaboration-across-different-operating-systems-via-skype-group-chats/"><u>[Updated] A User-Friendly Guide to Seamless Collaboration Across Different Operating Systems via Skype Group Chats</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elite-portable-playstation-storage-best-external-units/"><u>[Updated] In 2024, Elite Portable PlayStation Storage Best External Units</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/accelerating-operations-discover-the-leading-scheduling-tools/"><u>Accelerating Operations Discover the Leading Scheduling Tools</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/boosting-system-performance-on-a-budget-with-yl-software-solutions/"><u>Boosting System Performance on a Budget with YL Software Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-solutions-for-players-experiencing-entry-point-not-found-glitch-on-fortnite/"><u>Easy Solutions for Players Experiencing 'Entry Point Not Found' Glitch on Fortnite</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effective-strategies-for-safeguarding-your-pc-against-malware-viruses-and-spyware-expert-advice-from-yl-computing/"><u>Effective Strategies for Safeguarding Your PC Against Malware, Viruses, and Spyware - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-se-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone SE Smoothly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/karaoke-mastery-optimal-dex-3-configurations-unveiled-for-memorable-singing-soirees/"><u>Karaoke Mastery: Optimal DEX 3 Configurations Unveiled for Memorable Singing Soirees</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/resolving-screen-glitches-in-windows-systems-essential-guidance-by-yl-software-experts/"><u>Resolving Screen Glitches in Windows Systems: Essential Guidance by YL Software Experts</u></a></li>
 </ul></div>
 

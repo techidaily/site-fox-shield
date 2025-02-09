@@ -1,7 +1,7 @@
 ---
 title: "Update to the Latest LYRX for Mac Users: Enhanced Karaoke Software with Catalina Support | Get Your Free PCDJ v1.n"
-date: 2025-01-24T21:42:10.173Z
-updated: 2025-01-27T03:21:25.242Z
+date: 2025-02-02T21:17:36.084Z
+updated: 2025-02-08T21:18:58.696Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-using-zoom-features-in-gmail-emails/"><u>[Updated] In 2024, The Ultimate Guide to Using Zoom Features in Gmail Emails</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-10-after-effects-text-presets/"><u>[Updated] In 2024, Top 10 After Effects Text Presets</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-top-10-capture-cards-for-youtube-you-should-know/"><u>[Updated] The Top 10 Capture Cards for YouTube You Should Know</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/7-schnelle-tricks-um-ihre-lieblingsmusik-von-iphone-auf-verschiedene-ipad-modelle-zu-ubertragen/"><u>7 Schnelle Tricks, Um Ihre Lieblingsmusik Von iPhone Auf Verschiedene iPad Modelle Zu Übertragen</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/comment-conserver-vos-informations-sur-les-dispositifs-nas-ou-dans-le-nuage-des-cles-client/"><u>Comment Conserver Vos Informations Sur Les Dispositifs NAS Ou Dans Le Nuage Des Clés Client?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/die-effiziente-losung-fur-nicht-bootfahige-datentrager-in-windows-11-mach-es-jetzt/"><u>Die Effiziente Lösung Für Nicht Bootfähige Datenträger in Windows 11 – Mach Es Jetzt!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effortless-data-transfer-learn-the-techniques-for-copying-and-pasting-within-virtual-machines-on-vmware-and-hypervisor-platforms/"><u>Effortless Data Transfer: Learn the Techniques for Copying and Pasting Within Virtual Machines on VMware & Hypervisor Platforms</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/fixing-the-dark-display-dilemma-solving-post-graphics-upgrade-blackouts-with-ease/"><u>Fixing the Dark Display Dilemma: Solving Post-Graphics Upgrade Blackouts with Ease</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-6-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 6 Plus Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-google-pixel-8-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Google Pixel 8 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/schritt-fur-schritt-anleitung-automatisierte-pc-synchronisation-mit-onedrive/"><u>Schritt-Für-Schritt-Anleitung: Automatisierte PC-Synchronisation Mit OneDrive</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unrivaled-dramas-from-the-eightfold-storytelling-sphere/"><u>[Updated] In 2024, Unrivaled Dramas From the Eightfold Storytelling Sphere</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-create-captivating-content-engaging-windows-movie-maker-on-w11/"><u>2024 Approved Create Captivating Content Engaging Windows Movie Maker on W11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-reviewed-dive-into-toms-world-of-electronics/"><u>Advanced Hardware Reviewed - Dive Into Tom's World of Electronics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-striking-soundbite-trailers-for-podcasts/"><u>Building Striking Soundbite Trailers for Podcasts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhance-discoverability-with-effective-video-tags-for-2024/"><u>Enhance Discoverability with Effective Video Tags for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/free-art-lessons-comprehensive-downloads-of-annamasonartcom-courses-and-video-guides/"><u>Free Art Lessons: Comprehensive Downloads of AnnamasonArt.com Courses and Video Guides</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/free-downloads-ted-talks-and-episodes-on-macwindows-watch-now/"><u>Free Downloads: TED Talks & Episodes on Mac/Windows - Watch Now!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-download-multiple-file-types-of-msn-videos-including-avi-mp4-wmv-for-offline-viewing/"><u>How to Download Multiple File Types of MSN Videos Including AVI, MP4, WMV for Offline Viewing</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-get-dekho-na-song-in-multiple-audio-quality-mp3-wma-wav-flac-and-aac/"><u>How To Get 'Dekho Na Song' In Multiple Audio Quality: MP3, WMA, WAV, FLAC, and AAC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-hitches-a-guide-to-fixing-zoom-mic-not-working-on-win-1110/"><u>Solving Audio Hitches: A Guide to Fixing Zoom Mic Not Working on Win 11/10</u></a></li>
 </ul></div>
 

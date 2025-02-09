@@ -1,7 +1,7 @@
 ---
 title: Hercules DJControl Instinct P8 Now with DEX 3 & Dex-R Expansion Compatibility - Professional DJ Equipment for Music Mixing
-date: 2025-01-24T19:39:53.101Z
-updated: 2025-01-27T03:34:23.573Z
+date: 2025-02-05T18:03:58.350Z
+updated: 2025-02-08T18:44:07.382Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,18 +66,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-canvas-clearance-techniques-for-uncluttered-image-frames/"><u>[New] Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-perfect-your-morphvox-skills-a-complete-manual/"><u>[New] In 2024, Perfect Your MorphVOX Skills A Complete Manual</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-uncloaked-resolved-youtube-shorts-gone-miss/"><u>[New] Uncloaked Resolved YouTube Shorts Gone Miss</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-itunes-video-capture-techniques-for-2024/"><u>[Updated] Mastering iTunes Video Capture Techniques for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-viral-vibrancy-trending-audio-amplifying-your-yt-shorts/"><u>[Updated] Viral Vibrancy Trending Audio Amplifying Your YT Shorts</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-the-world-of-microsofts-activex-technologies-dive-into-complus-fundamentals/"><u>Exploring the World of Microsoft's ActiveX Technologies - Dive Into COM+ Fundamentals</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-save-iphone-calls-on-mac-or-windows-pc/"><u>How to Save iPhone Calls on Mac or Windows PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/leading-mobilerobo-options-explore-the-finest-similar-apps-for-your-smartphone/"><u>Leading MobileRobo Options: Explore the Finest Similar Apps for Your Smartphone</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/los-mejores-softwares-gratuitos-para-ripar-dvd-en-windows-n-generacion-convertir-video-y-audio-sin-problemas-de-2021/"><u>Los Mejores Softwares Gratuitos Para Ripar DVD en Windows N-Generación: Convertir Video Y Audio Sin Problemas De 2021</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/navigating-the-preferences-pane-customizing-mac-os-x-system-controls/"><u>Navigating the Preferences Pane: Customizing Mac OS X System Controls</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/quickres-speedy-format-factory-substitute-for-windows-and-mac-users/"><u>QuickRes: Speedy Format Factory Substitute for Windows & Mac Users</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/say-goodbye-to-annoying-pop-ups-a-guide-to-using-malwarefox-on-samsung-phones-and-tablets/"><u>Say Goodbye to Annoying Pop-Ups: A Guide to Using MalwareFox on Samsung Phones and Tablets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-prime-interactive-face-time-festivals/"><u>[New] 2024 Approved Prime Interactive Face Time Festivals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-connected-world-sharing-twitter-media-in-whatsapp-chat/"><u>[New] 2024 Approved The Connected World Sharing Twitter Media in WhatsApp Chat</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-dropping-drama-the-best-podcast-beginnings-for-2024/"><u>[Updated] Dropping Drama The Best Podcast Beginnings for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-duration-decoded-a-guide-to-editing-youtube-videos/"><u>[Updated] In 2024, Duration Decoded A Guide to Editing YouTube Videos</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/exploring-digital-asset-trackers-unveiling-yl-softwares-cryptocurrency-address-analysis-utilities/"><u>Exploring Digital Asset Trackers: Unveiling YL Software's Cryptocurrency Address Analysis Utilities</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/identifying-and-resolving-typical-windows-malfunctions-with-expert-advice-from-yl-computer-services/"><u>Identifying & Resolving Typical Windows Malfunctions with Expert Advice From YL Computer Services</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-integrating-youtube-tracks-into-imovie-projects-easily/"><u>In 2024, Integrating YouTube Tracks Into iMovie Projects Easily</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastering-the-art-of-live-image-capturing-on-screens/"><u>In 2024, Mastering the Art of Live Image Capturing on Screens</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-transforming-google-meet-screens-on-devices/"><u>In 2024, Transforming Google Meet Screens on Devices</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/original-justin-bieber-picture-collection-for-pc-and-mobile-wallpapers-photos-and-more-by-yl-software-solutions/"><u>Original Justin Bieber Picture Collection for PC and Mobile: Wallpapers, Photos & More by YL Software Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/silent-screen-capture-solved-with-movavi-no-sound-issues/"><u>Silent Screen Capture Solved with Movavi - No Sound Issues</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/speeding-up-your-computer-straightforward-tips-from-yl-system-experts/"><u>Speeding Up Your Computer: Straightforward Tips From YL System Experts</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unveiling-perks-the-game-changing-impacts-of-crypto-investments-with-yl-software-guidance/"><u>Unveiling Perks: The Game-Changing Impacts of Crypto Investments with YL Software Guidance</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-computings-guide-top-wallets-for-securely-holding-and-managing-cryptocurrencies/"><u>YL Computing's Guide: Top Wallets for Securely Holding and Managing Cryptocurrencies</u></a></li>
 </ul></div>
 
