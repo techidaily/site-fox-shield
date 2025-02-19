@@ -1,7 +1,7 @@
 ---
 title: Hercules DJControl Instinct P8 Now with DEX 3 & Dex-R Expansion Compatibility - Professional DJ Equipment for Music Mixing
-date: 2025-02-05T18:03:58.350Z
-updated: 2025-02-08T18:44:07.382Z
+date: 2025-02-12T01:55:17.937Z
+updated: 2025-02-18T16:54:33.507Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,19 +66,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-prime-interactive-face-time-festivals/"><u>[New] 2024 Approved Prime Interactive Face Time Festivals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-connected-world-sharing-twitter-media-in-whatsapp-chat/"><u>[New] 2024 Approved The Connected World Sharing Twitter Media in WhatsApp Chat</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-dropping-drama-the-best-podcast-beginnings-for-2024/"><u>[Updated] Dropping Drama The Best Podcast Beginnings for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-duration-decoded-a-guide-to-editing-youtube-videos/"><u>[Updated] In 2024, Duration Decoded A Guide to Editing YouTube Videos</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/exploring-digital-asset-trackers-unveiling-yl-softwares-cryptocurrency-address-analysis-utilities/"><u>Exploring Digital Asset Trackers: Unveiling YL Software's Cryptocurrency Address Analysis Utilities</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/identifying-and-resolving-typical-windows-malfunctions-with-expert-advice-from-yl-computer-services/"><u>Identifying & Resolving Typical Windows Malfunctions with Expert Advice From YL Computer Services</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-integrating-youtube-tracks-into-imovie-projects-easily/"><u>In 2024, Integrating YouTube Tracks Into iMovie Projects Easily</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastering-the-art-of-live-image-capturing-on-screens/"><u>In 2024, Mastering the Art of Live Image Capturing on Screens</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-transforming-google-meet-screens-on-devices/"><u>In 2024, Transforming Google Meet Screens on Devices</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/original-justin-bieber-picture-collection-for-pc-and-mobile-wallpapers-photos-and-more-by-yl-software-solutions/"><u>Original Justin Bieber Picture Collection for PC and Mobile: Wallpapers, Photos & More by YL Software Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/silent-screen-capture-solved-with-movavi-no-sound-issues/"><u>Silent Screen Capture Solved with Movavi - No Sound Issues</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/speeding-up-your-computer-straightforward-tips-from-yl-system-experts/"><u>Speeding Up Your Computer: Straightforward Tips From YL System Experts</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unveiling-perks-the-game-changing-impacts-of-crypto-investments-with-yl-software-guidance/"><u>Unveiling Perks: The Game-Changing Impacts of Crypto Investments with YL Software Guidance</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-computings-guide-top-wallets-for-securely-holding-and-managing-cryptocurrencies/"><u>YL Computing's Guide: Top Wallets for Securely Holding and Managing Cryptocurrencies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-guide-to-maximizing-spotifys-ad-space/"><u>[New] A Step-by-Step Guide to Maximizing Spotify's Ad Space</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hannel-conversion-guide-yt-to-igtv-strategies/"><u>[New] Channel Conversion Guide YT to IGTV Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-path-to-flawless-streams-a-guide-to-recording-on-steam/"><u>[New] The Path to Flawless Streams A Guide to Recording on Steam</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/a-step-by-step-guide-how-to-retrieve-data-from-a-flash-drive-before-reformatting/"><u>A Step-by-Step Guide: How to Retrieve Data From a Flash Drive Before Reformatting</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/aufgabenplane-effektiv-organisieren-und-kopieren-sie-die-entsprechende-datei-ins-netzlaufwerk-in-windows-10/"><u>Aufgabenpläne Effektiv Organisieren Und Kopieren Sie Die Entsprechende Datei Ins Netzlaufwerk in Windows 10</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effiziente-strategien-zur-reparatur-beschadigter-powerpoint-dokumente/"><u>Effiziente Strategien Zur Reparatur Beschädigter PowerPoint-Dokumente</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/guia-paso-a-paso-migrar-su-disco-dual-de-hddsshd-a-un-solo-ssd-con-windows-11-10-8-o-7/"><u>Guía Paso a Paso: Migrar Su Disco Dual De HDD/SSHD a Un Solo SSD Con Windows 11, 10, 8 O 7</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/guide-rapide-pour-reparer-les-fichiers-dll-manquants-sous-windows-10-et-11/"><u>Guide Rapide Pour Réparer Les Fichiers DLL Manquants Sous Windows 10 Et 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-video-dimensions-a-focused-look-at-aspect-ratios-for-2024/"><u>Navigating Video Dimensions A Focused Look at ASPECT RATIOS for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-system-with-amds-official-gpio-driver-now-available/"><u>Secure Your System with AMD's Official GPIO Driver - Now Available!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-review-of-the-ugreen-2-in-1-qi2-portable-and-compact-charging-station-for-on-the-go-professionals/"><u>The Ultimate Review of the Ugreen 2-in-1 Qi2 Portable and Compact Charging Station for On-the-Go Professionals</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-3-strategie-gratuite-per-la-sincronizzazione-dei-file-su-un-mac-una-guida-dettagliata/"><u>Top 3 Strategie Gratuite per La Sincronizzazione Dei File Su Un Mac: Una Guida Dettagliata</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Mixer's Potential: How to Set Up Numark NS6 II & DEX 3 for PCDJ Integration (Download Support Document)"
-date: 2025-02-04T18:48:03.518Z
-updated: 2025-02-08T19:43:08.240Z
+date: 2025-02-13T18:22:39.206Z
+updated: 2025-02-18T17:58:11.283Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### KEY NUMARK NS6II FEATURES:
@@ -65,7 +65,7 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 _Have questions about the **Numark NS6II** DJ controller and how it works with our **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,17 +87,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/numarkns6II-pcdjsupported-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-watchnetflix-screenshare-master-screenrecording-on-macos-for-2024/"><u>[New] WatchNetflix, Screenshare Master ScreenRecording on MacOS for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-exporting-mp3-files-from-watched-facebook-vids/"><u>[Updated] Exporting MP3 Files From Watched Facebook Vids</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-inter-device-image-sharing-expertise-for-2024/"><u>[Updated] Inter-Device Image Sharing Expertise for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/aomei-data-protection-mastery-ensuring-total-gdpr-compliance-and-enhanced-security/"><u>AOMEI Data Protection Mastery - Ensuring Total GDPR Compliance & Enhanced Security</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/five-effective-methods-to-restore-and-repair-corrupted-data-on-malfunctioning-devices/"><u>Five Effective Methods to Restore and Repair Corrupted Data on Malfunctioning Devices</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/hddpc/"><u>HDDの残りデータを安全になくしてからノートPCを処分する手順</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-motorola-moto-g-stylus-2023-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Motorola Moto G Stylus (2023) Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-video-dimensions-on-instagram-today-and-tomorrow/"><u>In 2024, Navigating Video Dimensions on Instagram Today & Tomorrow</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/meet-teresa-wang-author-and-expert-behind-aomei-get-insight-into-her-journey/"><u>Meet Teresa Wang: Author & Expert Behind 'AOMEI' - Get Insight Into Her Journey!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/securing-your-system-with-windows-11-expert-guide-to-enhanced-firewall-and-network-safety/"><u>Securing Your System with Windows 11: Expert Guide to Enhanced Firewall & Network Safety</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-repairing-iomap64-syscall-issues-on-windows-devices/"><u>Tips for Repairing IOMap64 SysCall Issues on Windows Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-lava-yuva-3-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Lava Yuva 3 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-deep-dive-into-youtubes-income-models/"><u>[New] A Deep Dive Into YouTube’s Income Models</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cloud-storage-pricing-comparison-2024-and-best-price/"><u>[New] Cloud Storage Pricing Comparison 2024 and Best Price</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-offline-adventures-top-10-android-journeys-without-connectivity/"><u>[Updated] 2024 Approved Offline Adventures Top 10 Android Journeys Without Connectivity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-10-text-presets-for-visual-impact-for-2024/"><u>[Updated] Top 10 Text Presets for Visual Impact for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-create-a-puzzle-feed-on-instagram-to-catch-attention/"><u>2024 Approved How to Create a Puzzle Feed on Instagram to Catch Attention</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-memes-on-demand-unlocking-kinemaster/"><u>2024 Approved Quick Memes on Demand Unlocking KineMaster</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mastering-configurations-the-expert-guide-to-importing-ini-files/"><u>Mastering Configurations: The Expert Guide to Importing INI Files</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-making-images-with-transparent-backdrops-easily/"><u>Step-by-Step Guide: Making Images with Transparent Backdrops Easily</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-opening-and-changing-json-data-files/"><u>Step-by-Step Guide: Opening and Changing JSON Data Files</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-converting-youtube-videos-to-aac-format-while-preserving-maximum-sound-clarity/"><u>Ultimate Guide: Converting YouTube Videos to AAC Format While Preserving Maximum Sound Clarity</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-property-attributes-for-informed-home-buying-decisions/"><u>Understanding Property Attributes for Informed Home Buying Decisions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windowsandroidiphone/"><u>ディスコード通話高品質音声キャプチャ手順 - Windows・Android・iPhone用</u></a></li>
 </ul></div>
 

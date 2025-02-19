@@ -1,7 +1,7 @@
 ---
 title: LYRX Version 1.10.2 Launched - Enhanced Karaoke Software by PCDJ!
-date: 2025-01-22T21:06:39.488Z
-updated: 2025-01-27T03:15:36.811Z
+date: 2025-02-17T22:22:37.615Z
+updated: 2025-02-19T01:41:28.552Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’re thrilled to introduce the latest iteration of our top karaoke show hosti
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Duplicate Entries in Singer History!
@@ -33,7 +33,7 @@ One of the standout changes included in this free update is a significant improv
 **NOTE:** Duplicates will initially display in singer history. Once you re-play a song that was previously written to a singer’s history, LYRX will then remove all duplicates, leaving only the one song entry in their history.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Key Changes in LYRX 1.10.2 include:
@@ -44,7 +44,7 @@ One of the standout changes included in this free update is a significant improv
 In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke hosting to new heights – download it today! We thank you for your continued trust and support. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All Updates Included in LYRX 1.10.2
@@ -62,7 +62,7 @@ In conclusion, we’re confident that LYRX 1.10.2 will elevate your karaoke host
 _Have questions about the latest 1.10.2 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,19 +84,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2023/08/lyrx1102.jpg?fit=1176%2C68
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-innovative-copywriting-routines-adopting-three-key-approaches-to-fb-advertising/"><u>[New] Innovative Copywriting Routines Adopting Three Key Approaches to FB Advertising</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-converting-sdr-video-to-hdr-a-comprehensive-tutorial/"><u>[Updated] Converting SDR Video to HDR - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-free-best-youtube-video-editor-apps-for-android/"><u>[Updated] In 2024, FREE Best YouTube Video Editor Apps for Android</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-learn-the-mechanics-behind-self-playing-videos-in-fb-for-2024/"><u>[Updated] Learn the Mechanics Behind Self-Playing Videos in Fb for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-the-art-of-streaming-via-obs-into-social-networks-for-2024/"><u>[Updated] Mastering the Art of Streaming via OBS Into Social Networks for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-guide-diagnosing-and-fixing-faulty-hard-drives-tips-by-yl-computing/"><u>Expert Guide: Diagnosing and Fixing Faulty Hard Drives - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/identifying-and-resolving-typical-windows-malfunctions-with-expert-advice-from-yl-computer-services/"><u>Identifying & Resolving Typical Windows Malfunctions with Expert Advice From YL Computer Services</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-comic-corner-best-funny-content-on-the-planet-web/"><u>In 2024, Comic Corner Best Funny Content on the Planet Web</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-videos-whats-the-gist-for-2024/"><u>Micro Videos What's the Gist for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reestablish-lost-remote-link-in-vpn/"><u>Steps to Reestablish Lost Remote Link in VPN</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-failed-graphics-cards-in-windows-with-expert-tips-from-yl-software/"><u>Troubleshooting Failed Graphics Cards in Windows with Expert Tips From YL Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/troubleshooting-tips-solving-common-issues-when-your-printer-wont-print-yl-computing-guide/"><u>Troubleshooting Tips: Solving Common Issues When Your Printer Won't Print - YL Computing Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/unveiling-perks-the-game-changing-impacts-of-crypto-investments-with-yl-software-guidance/"><u>Unveiling Perks: The Game-Changing Impacts of Crypto Investments with YL Software Guidance</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/yl-software-tutorials-master-the-art-of-moving-files/"><u>YL Software Tutorials: Master the Art of Moving Files</u></a></li>
+<li><a href="https://driver-error.techidaily.com/c-this-method-thats-what-are-you-able-to-calculate-how-many-moles-or-something-more-than-when-the-second-one/"><u>(C. This Method That's-What Are You Able to Calculate How Many Moles or Something More than when the Second One</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-selecting-your-digital-stage-the-comparative-analysis-of-igtv-and-youtube/"><u>[Updated] 2024 Approved Selecting Your Digital Stage The Comparative Analysis of IGTV & YouTube</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-direct-video-tweet-to-twitter-apps-no-retweets-involved/"><u>[Updated] Direct Video Tweet to Twitter Apps, No Retweets Involved</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-decoding-the-hidden-cause-for-non-existent-fb-video-picks/"><u>[Updated] In 2024, Decoding the Hidden Cause for Non-Existent FB Video Picks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-gourmet-guides-leading-food-vloggers-online/"><u>2024 Approved Gourmet Guides Leading Food Vloggers Online</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/a-detailed-look-at-the-historical-onset-of-the-boxer-rebellion-with-yl-software-solutions/"><u>A Detailed Look at the Historical Onset of the Boxer Rebellion with YL Software Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-fixes-overcoming-hurdles-in-family-sharing-of-subscriptions/"><u>Effective Fixes: Overcoming Hurdles in Family Sharing of Subscriptions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/elevate-your-display-with-maserati-vehicle-graphics-professional-mobile-backgrounds-and-more-from-yl-tech-innovations/"><u>Elevate Your Display with Maserati Vehicle Graphics: Professional Mobile Backgrounds and More From YL Tech Innovations</u></a></li>
+<li><a href="https://win-tips.techidaily.com/eliminating-intrusive-advertisements-on-youtube-the-ultimate-guide-with-malwarefox/"><u>Eliminating Intrusive Advertisements on YouTube: The Ultimate Guide with MalwareFox</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/selecting-a-secure-and-reliable-crypto-wallet-expert-advice-from-yl-computing-your-ultimate-guide/"><u>Selecting a Secure and Reliable Crypto Wallet: Expert Advice From YL Computing - Your Ultimate Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-sudden-system-sleep-mode-issues-on-your-computer-insights-by-yl-software-experts/"><u>Solving Sudden System Sleep Mode Issues on Your Computer - Insights by YL Software Experts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-melody-eraser-pro-craft-personalized-instrumental-compositions/"><u>Updated Melody Eraser Pro Craft Personalized Instrumental Compositions</u></a></li>
 </ul></div>
 
