@@ -1,7 +1,7 @@
 ---
 title: Hercules DJControl Instinct P8 Now with DEX 3 & Dex-R Expansion Compatibility - Professional DJ Equipment for Music Mixing
-date: 2025-02-12T01:55:17.937Z
-updated: 2025-02-18T16:54:33.507Z
+date: 2025-03-05T04:10:46.915Z
+updated: 2025-03-06T19:43:05.147Z
 tags:
   - product
 categories:
@@ -43,10 +43,6 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp8-coverimage-site.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-10-27 10:27:552018-10-03 15:34:01DJ Controllers | Hercules DJControl Instinct P8 Now DEX 3 and DEX 3 RE Supported}
@@ -66,18 +62,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-guide-to-maximizing-spotifys-ad-space/"><u>[New] A Step-by-Step Guide to Maximizing Spotify's Ad Space</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/hannel-conversion-guide-yt-to-igtv-strategies/"><u>[New] Channel Conversion Guide YT to IGTV Strategies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-path-to-flawless-streams-a-guide-to-recording-on-steam/"><u>[New] The Path to Flawless Streams A Guide to Recording on Steam</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/a-step-by-step-guide-how-to-retrieve-data-from-a-flash-drive-before-reformatting/"><u>A Step-by-Step Guide: How to Retrieve Data From a Flash Drive Before Reformatting</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/aufgabenplane-effektiv-organisieren-und-kopieren-sie-die-entsprechende-datei-ins-netzlaufwerk-in-windows-10/"><u>Aufgabenpläne Effektiv Organisieren Und Kopieren Sie Die Entsprechende Datei Ins Netzlaufwerk in Windows 10</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effiziente-strategien-zur-reparatur-beschadigter-powerpoint-dokumente/"><u>Effiziente Strategien Zur Reparatur Beschädigter PowerPoint-Dokumente</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/guia-paso-a-paso-migrar-su-disco-dual-de-hddsshd-a-un-solo-ssd-con-windows-11-10-8-o-7/"><u>Guía Paso a Paso: Migrar Su Disco Dual De HDD/SSHD a Un Solo SSD Con Windows 11, 10, 8 O 7</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/guide-rapide-pour-reparer-les-fichiers-dll-manquants-sous-windows-10-et-11/"><u>Guide Rapide Pour Réparer Les Fichiers DLL Manquants Sous Windows 10 Et 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-video-dimensions-a-focused-look-at-aspect-ratios-for-2024/"><u>Navigating Video Dimensions A Focused Look at ASPECT RATIOS for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-system-with-amds-official-gpio-driver-now-available/"><u>Secure Your System with AMD's Official GPIO Driver - Now Available!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-review-of-the-ugreen-2-in-1-qi2-portable-and-compact-charging-station-for-on-the-go-professionals/"><u>The Ultimate Review of the Ugreen 2-in-1 Qi2 Portable and Compact Charging Station for On-the-Go Professionals</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/top-3-strategie-gratuite-per-la-sincronizzazione-dei-file-su-un-mac-una-guida-dettagliata/"><u>Top 3 Strategie Gratuite per La Sincronizzazione Dei File Su Un Mac: Una Guida Dettagliata</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essentials-of-excellence-superior-editing-tips-for-obs-studios/"><u>[New] In 2024, Essentials of Excellence Superior Editing Tips for OBS Studios</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-maximizing-impact-strategies-for-watermark-and-logo-insertion-in-yt-videos/"><u>[New] In 2024, Maximizing Impact Strategies for Watermark & Logo Insertion in YT Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-luminary-pixels-masterful-lighting-secrets-unveiled/"><u>[Updated] Luminary Pixels Masterful Lighting Secrets Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-enhancing-your-android-and-iphone-snaps/"><u>[Updated] The Ultimate Guide to Enhancing Your Android & iPhone Snaps</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-automated-recovery-of-files-from-the-recycling-bin/"><u>1. Automated Recovery of Files From the Recycling Bin</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-metaverse-and-multiverse-demystified-an-in-depth-guide/"><u>2024 Approved Metaverse and Multiverse Demystified An In-Depth Guide</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/boost-your-spreadsheet-skills-by-integrating-chatgpt-for-effortless-excel-formula-generation/"><u>Boost Your Spreadsheet Skills by Integrating ChatGPT for Effortless Excel Formula Generation</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/error-webpage-unavailable-page-doesnt-exist/"><u>Error: Webpage Unavailable (Page Doesn't Exist)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-canon-printer-software-latest-updates-and-downloads-for-the-mp250-series/"><u>Free Canon Printer Software: Latest Updates & Downloads for the MP250 Series</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/guide-complet-pour-la-mise-en-oeuvre-de-rsync-sous-windows-10-tutorials-et-solutions-aleatoires/"><u>Guide Complet Pour La Mise en Oeuvre De Rsync Sous Windows 10 : Tutorials Et Solutions Aléatoires</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/legen-sie-ihr-eigenes-bootfahiges-windowslinux-medium-anhand-von-aomei-backupper-her/"><u>Legen Sie Ihr Eigenes Bootfähiges Windows/Linux-Medium Anhand Von AOMEI Backupper Her!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/maximize-impact-with-tiktok-videos-from-your-personal-computer-or-mac-for-2024/"><u>Maximize Impact with TikTok Videos From Your Personal Computer or MAC for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/problembehebung-des-zurucksetzens-in-windows-einschliesslich-der-hangenbleiben-bei-1-34-64-und-99/"><u>Problembehebung Des Zurücksetzens in Windows Einschließlich Der Hängenbleiben Bei 1%, 34%, 64% Und 99%</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-tpm-missing-error-on-your-windows-11-or-10-pc-a-comprehensive-guide/"><u>Solving 'TPM Missing' Error on Your Windows 11 or 10 PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-5-best-free-tools-for-seamless-windows-system-upgrades/"><u>Top 5 Best Free Tools for Seamless Windows System Upgrades</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-8-hard-drive-file-retrieval-tools-for-restoring-lost-data/"><u>Top 8 Hard Drive File Retrieval Tools for Restoring Lost Data</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-edge-less-design-tips/"><u>Windows 11 Edge-Less Design Tips</u></a></li>
 </ul></div>
 

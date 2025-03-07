@@ -1,7 +1,7 @@
 ---
 title: "Karaoke Mastery: Optimal DEX 3 Configurations Unveiled for Memorable Singing Soirees"
-date: 2025-02-17T01:30:02.116Z
-updated: 2025-02-19T00:31:18.501Z
+date: 2025-03-02T02:41:17.425Z
+updated: 2025-03-07T11:07:18.055Z
 tags:
   - product
 categories:
@@ -24,10 +24,6 @@ Below you will find our suggested settings and configuration for using DEX 3 for
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suggestion Configuration for Hosting Karaoke with DEX 3
 
 1\. **Setting Up Screen Two for Video-Only (Lyrics) Output:** Watch this quick tutorial video on configuring screen two for “extended display mode’ so you can send the lyrics-only to the singer’s screen.
@@ -38,35 +34,19 @@ Also, since DEX 3 now handles filler music playback automatically in the backgro
 
 ![DEX 3 karaoke mode](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke.jpg?fit=900%2C307&ssl=1 "DEX 3 karaoke mode")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. **Enable the Case player as the Filler Music Player:** Go into DEX 3’s options, under the Karaoke tab, and put a tick in the box for “use case/preview player as background/filler music player”. This will allow you to use the regular sidelist (not the Karaoke Rotation list) for automatic filler music playback. From the same Karaoke tab in options, you can also adjust the filler music volume level. Many customers prefer to lower the volume of the filler music player a few decibels so that playback is a bit quieter than when playing karaoke songs.
 
 4\. **Enable High-Quality Time Stretching:** In order for DEX 3’s key stepper to function, you need to enable “High Quality Time Stretching” in options under the General Tab. Then the key stepper up/down arrow buttons located in each of DEX 3’s decks (near the tempo slider) will allow you to adjust key (you can also choose the size increments of the semitone key steps under the General tab in options, look for the key slider on the right bottom side of the General tab).
 
 ![Key Stepper DEX 3](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-karaoke-keystepper.jpg?fit=900%2C307&ssl=1 "Key Stepper DEX 3")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5\. **Enable Detect Musical Key and Detect Automatic Gain:** Also located under the General tab in options, tick the boxes for both “Detect Musical Key” and “Detect Automatic Gain”. Detect Musical Key will allow DEX 3 to automatically calculate the musical key of the track (as well as a modified Camelot Scale key) of the track. Detect Automatic Gain will ensure DEX 3 plays all tracks at the same output gain level.
 
 ![DEX 3 musical key and gain](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/dex3-musicalkey-gain.jpg?fit=900%2C307&ssl=1 "DEX 3 musical key and gain")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6\. **Show Your Company Logo on Screen with Opacity:** Optional of course, but you can easily use DEX 3’s overlays feature to display your own logo at all times on screen with varied levels of opacity.
 
 That should assist you greatly with configuring DEX 3 for karaoke hosting purposes. Please review the following videos for additional help with all of the latest karaoke features added to DEX 3.11 (and up)!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -87,21 +67,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/09/DEX3-config-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-investigating-how-t-series-earns-from-youtube-viewership/"><u>[New] 2024 Approved Investigating How T-Series Earns From YouTube Viewership</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-control-over-your-spotify-default-podcast-recommendations/"><u>[New] Control Over Your Spotify Default Podcast Recommendations</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/como-hacer-una-clonacion-rapida-del-sistema-operativo-al-usb-en-windows-moderno/"><u>Cómo Hacer Una Clonación Rápida Del Sistema Operativo Al USB en Windows Moderno</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-v29e-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from V29e</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/guia-efectiva-para-resolver-problemas-de-clonazilla-por-errores-en-el-mbr-y-gpt/"><u>Guía Efectiva Para Resolver Problemas De Clonazilla Por Errores en El MBR Y GPT</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/guida-per-riavviare-un-backup-cancelliato-da-itunes-su-sistema-operativo-windows/"><u>Guida per Riavviare Un Backup Cancelliato Da iTunes Su Sistema Operativo Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-6s-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 6s?</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/hyper-vwindows/"><u>Hyper-Vの代替バックアップソリューション：Windowsサーバー向け</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-leading-mp4-companies-to-watch/"><u>In 2024, Leading MP4 Companies to Watch</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximize-graphics-performance-with-1-6-tools-for-windows-pcs/"><u>Maximize Graphics Performance with #1-#6 Tools for Windows PCs</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/migliorare-velocita-del-pc-con-windows-soluzioni-efficaci-che-evitano-la-riformattazione/"><u>Migliorare Velocità Del PC Con Windows: Soluzioni Efficaci Che Evitano La Riformattazione</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-take-your-gopro-videos-to-the-next-level-best-alternative-editing-software/"><u>New 2024 Approved Take Your GoPro Videos to the Next Level Best Alternative Editing Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/risk-takers-in-the-skies-how-8000-travelers-embraced-a-new-experience-with-southwest-airlines-zdnet-highlights/"><u>Risk Takers in the Skies: How 8,000 Travelers Embraced a New Experience with Southwest Airlines | ZDNet Highlights</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/secure-your-gpt-partitions-auf-einfachere-weise-mit-unserer-kostenlosen-software-geeignet-fur-windows-versionen-von-11-bis-7/"><u>Secure Your GPT-Partitions Auf Einfachere Weise Mit Unserer Kostenlosen Software – Geeignet Für Windows-Versionen Von 11 Bis 7</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-how-to-relocate-whatsapp-backups-from-googles-cloud-storage-to-apples-icloud/"><u>Step-by-Step Guide: How to Relocate WhatsApp Backups From Google's Cloud Storage to Apple’s iCloud</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-a-deep-dive-into-selecting-tiktok-screenshots-for-2024/"><u>[New] A Deep Dive Into Selecting TikTok Screenshots for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-strategy-map-for-skyrocketing-your-fb-page-status/"><u>[New] The Ultimate Strategy Map for Skyrocketing Your FB Page Status</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-brighter-horizons-is-intense-light-for-hdr-right/"><u>2024 Approved Brighter Horizons Is Intense Light for HDR Right?</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728509851385-iphone/"><u>如何在iPhone语音备忘錄被清空后轻松恢复？- 精选的现代解决方法</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/after-effects-datei-recovery-schritt-fur-schritt-anleitung-zur-reparatur/"><u>After Effects-Datei Recovery: Schritt-Für-Schritt Anleitung Zur Reparatur</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/backing-up-your-data-with-ease-learn-the-two-simple-cmd-methods-for-windows-11-8-and-7/"><u>Backing Up Your Data with Ease: Learn the Two Simple CMD Methods for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-vivo-t2-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Vivo T2 5G</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comprehensive-guide-on-utilizing-the-xxclone-software-within-windows-11-environments/"><u>Comprehensive Guide on Utilizing the XXClone Software Within Windows 11 Environments</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/guide-detaille-preparer-et-realiser-une-sauvegarde-avant-linstallation-du-nouvel-edition-windows-kaenep-temz-windows-10/"><u>Guide Détaillé : Préparer Et Réaliser Une Sauvegarde Avant L’Installation Du Nouvel Édition Windows ˈkænəpɪŋ ˌteɪmz (Windows 10)</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-recover-from-failed-discord-windows-updates/"><u>Guide to Recover From Failed Discord Windows Updates</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-hot-30i-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Hot 30i Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-full-picture-a-comprehensive-review-of-android-lightroom/"><u>The Full Picture A Comprehensive Review of Android Lightroom</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/trois-techniques-rapides-pour-ameliorer-la-vitesse-de-transfert-de-fichier-entre-ordinateurs/"><u>Trois Techniques Rapides Pour Améliorer La Vitesse De Transfert De Fichier Entre Ordinateurs</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/troubleshoot-your-sluggish-usb-eb-30-speeds-discover-7-key-solutions-for-optimal-performance/"><u>Troubleshoot Your Sluggish USB Eb 3.0 Speeds: Discover 7 Key Solutions for Optimal Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Update to the Latest LYRX for Mac Users: Enhanced Karaoke Software with Catalina Support | Get Your Free PCDJ v1.n"
-date: 2025-02-17T16:50:58.043Z
-updated: 2025-02-18T20:18:52.196Z
+date: 2025-03-06T02:54:08.455Z
+updated: 2025-03-07T13:33:33.413Z
 tags:
   - product
 categories:
@@ -36,10 +36,6 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New, Changed, and Fixed in LYRX v1.6
 
 * OpenGL to Metal (macOS version)
@@ -53,10 +49,6 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 **IMPORTANT NOTE:** If you receive this warning _“lyrx-v1.6-installer\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install LYRX.
 
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -77,20 +69,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-reclaim-the-loss-10-essential-iphone-x-techniques-for-2024/"><u>[New] Reclaim The Loss 10 Essential iPhone X Techniques for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-your-way-through-screen-capturing-with-dell/"><u>[Updated] Navigating Your Way Through Screen Capturing with Dell</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-youtube-view-bots-and-other-easy-hacks-to-increase-views-for-2024/"><u>[Updated] YouTube View Bots and Other Easy Hacks to Increase Views for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/aomei-centralized-backup-mastery-ottimi-metodi-di-replica-e-ripristino-informatici/"><u>AOMEI Centralized Backup Mastery: Ottimi Metodi Di Replica E Ripristino Informatici</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728470099448-hdd/"><u>HDDに不評論区域がありますか？それでもクローン化の方法は</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/horizon-proworks-complete-4k-integrated-solution-for-2024/"><u>Horizon ProWorks Complete 4K Integrated Solution for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-identify-and-remove-copy-cat-images-from-your-portable-storage/"><u>How to Identify & Remove Copy-Cat Images From Your Portable Storage</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-your-snaps-techniques-for-enhanced-snapchat-zoom/"><u>In 2024, Boost Your Snaps Techniques for Enhanced Snapchat Zoom</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/metodo-facil-y-confidencial-para-transferir-correos-de-yahoo-al-gmail/"><u>Método Fácil Y Confidencial Para Transferir Correos De Yahoo Al Gmail</u></a></li>
-<li><a href="https://fox-access.techidaily.com/screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
-<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2010-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2010</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/testa-gratuitamente-aomei-backupper-con-prova-gratis-di-30-giorni/"><u>Testa Gratuitamente AOMEI Backupper Con Prova Gratis Di 30 Giorni</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96393663-9781591433354-transcendent-wisdom-of-the-maya/"><u>Transcendent Wisdom of the Maya | Free Book</u></a></li>
-<li><a href="https://fox-links.techidaily.com/vegas-pros-21-landmark-release-a-complete-analysis-for-2024/"><u>Vegas Pro's '21 Landmark Release - A Complete Analysis for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/wie-sie-ihre-windows-1011-installation-problemlos-auf-eine-andere-festplatte-verschieben-konnen-ssdhdd/"><u>Wie Sie Ihre Windows 10/11-Installation Problemlos Auf Eine Andere Festplatte Verschieben Können (SSD/HDD)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-efficiently-delete-unwanted-video-feedback/"><u>[New] 2024 Approved How to Efficiently Delete Unwanted Video Feedback</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-picks-the-ultimate-gopro-upgrades/"><u>[New] Premium Picks The Ultimate Gopro Upgrades</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-digital-domain-your-playground-for-1000-titles-for-2024/"><u>[Updated] Digital Domain Your Playground for 1,000 Titles for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-google-hangout-optimization-advanced-methods-4-tips-for-2024/"><u>[Updated] Google Hangout Optimization Advanced Methods, 4 Tips for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-game-on-6-efficient-techniques-for-perfect-pc-snapshots/"><u>[Updated] In 2024, Game On 6 Efficient Techniques for Perfect PC Snapshots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-sync-link-insta-and-tiktok-with-ease/"><u>2024 Approved Seamless Sync Link Insta & TikTok with Ease</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728509435083-windows-11/"><u>数据恢复解决方案：专为Windows 11和之前的系统设计</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/clonage-hdd-ou-ssd-avec-support-bootable-details-et-tutoriel-exhaustif/"><u>Clonage HDD Ou SSD Avec Support Bootable: Détails Et Tutoriel Exhaustif</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comment-faciliter-la-restauration-des-fichiers-utilisant-une-sauvegarde-de-windows-7/"><u>Comment Faciliter La Restauration Des Fichiers Utilisant Une Sauvegarde De Windows 7</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/como-localizar-e-restaurar-arquivos-apagados-em-dispositivos-com-windows-10-ou-11/"><u>Como Localizar E Restaurar Arquivos Apagados Em Dispositivos Com Windows 10 Ou 11</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/herstellen-gratuit-groepgegevens-beheer-geautomatiseerd-weg-hijsen-op-windows-11/"><u>Herstellen Gratuit Groepgegevens Beheer - Geautomatiseerd Weg Hijsen Op Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-speech-to-text-conversion-on-powerpoint-platform-for-2024/"><u>Mastering the Art of Speech-to-Text Conversion on PowerPoint Platform for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/secure-your-enterprise-with-aomeis-professional-workstation-and-cyber-backup-software-packages-buy-now/"><u>Secure Your Enterprise with AOMEI's Professional Workstation & Cyber Backup Software Packages – Buy Now!</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/struggling-with-microsoft-snipping-tool-issues-unlock-these-18-powerful-troubleshooting-steps-now/"><u>Struggling With Microsoft Snipping Tool Issues? Unlock These 18 Powerful Troubleshooting Steps Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-hey-siri-7-quick-fixes-for-iphone-and-ipad-users/"><u>Troubleshooting 'Hey Siri': 7 Quick Fixes for iPhone and iPad Users</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/troubleshooting-iphone-13-and-pro-max-overcoming-issues-with-data-transfer/"><u>Troubleshooting iPhone 13 and Pro Max: Overcoming Issues with Data Transfer</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unlocking-solutions-locating-missing-files-within-your-microsoft-word-projects/"><u>Unlocking Solutions: Locating Missing Files Within Your Microsoft Word Projects</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mov-file-editing-made-easy-top-10-free-video-editors-for-2024/"><u>Updated MOV File Editing Made Easy Top 10 Free Video Editors for 2024</u></a></li>
 </ul></div>
 

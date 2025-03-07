@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Mixer's Potential: How to Set Up Numark NS6 II & DEX 3 for PCDJ Integration (Download Support Document)"
-date: 2025-02-13T18:22:39.206Z
-updated: 2025-02-18T17:58:11.283Z
+date: 2025-03-02T22:04:44.805Z
+updated: 2025-03-06T20:25:29.465Z
 tags:
   - product
 categories:
@@ -38,10 +38,6 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### KEY NUMARK NS6II FEATURES:
 
 * Dual USB ports
@@ -64,10 +60,6 @@ Our DJ controller mapping team really enjoyed working with the NS6II and raved a
 
 _Have questions about the **Numark NS6II** DJ controller and how it works with our **DJ mixing software**? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/numarkns6II-pcdjsupported-cover.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2017-12-01 10:08:352018-10-02 12:57:36DJ Controllers | Numark NS6II Now DEX 3 And DEX 3 RE Supported (Download Map)}
@@ -87,18 +79,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/numarkns6II-pcdjsupported-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/-deep-dive-into-youtubes-income-models/"><u>[New] A Deep Dive Into YouTube’s Income Models</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-cloud-storage-pricing-comparison-2024-and-best-price/"><u>[New] Cloud Storage Pricing Comparison 2024 and Best Price</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-offline-adventures-top-10-android-journeys-without-connectivity/"><u>[Updated] 2024 Approved Offline Adventures Top 10 Android Journeys Without Connectivity</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-10-text-presets-for-visual-impact-for-2024/"><u>[Updated] Top 10 Text Presets for Visual Impact for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-create-a-puzzle-feed-on-instagram-to-catch-attention/"><u>2024 Approved How to Create a Puzzle Feed on Instagram to Catch Attention</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-memes-on-demand-unlocking-kinemaster/"><u>2024 Approved Quick Memes on Demand Unlocking KineMaster</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/mastering-configurations-the-expert-guide-to-importing-ini-files/"><u>Mastering Configurations: The Expert Guide to Importing INI Files</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-making-images-with-transparent-backdrops-easily/"><u>Step-by-Step Guide: Making Images with Transparent Backdrops Easily</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-opening-and-changing-json-data-files/"><u>Step-by-Step Guide: Opening and Changing JSON Data Files</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-converting-youtube-videos-to-aac-format-while-preserving-maximum-sound-clarity/"><u>Ultimate Guide: Converting YouTube Videos to AAC Format While Preserving Maximum Sound Clarity</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-property-attributes-for-informed-home-buying-decisions/"><u>Understanding Property Attributes for Informed Home Buying Decisions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windowsandroidiphone/"><u>ディスコード通話高品質音声キャプチャ手順 - Windows・Android・iPhone用</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-sustaining-system-stability-returning-to-el-capitan-for-2024/"><u>[New] Sustaining System Stability Returning to El Capitan for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-undisclosed-screengrabbing-invisible-photography-on-snapchat-for-2024/"><u>[New] Undisclosed ScreenGrabbing Invisible Photography on Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-android-and-iphones-leading-tools-for-enhanced-fb-likes-for-2024/"><u>[Updated] Android & iPhone's Leading Tools for Enhanced FB Likes for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-making-youtube-intros-interesting-without-costing-a-dime/"><u>[Updated] Making YouTube Intros Interesting Without Costing a Dime</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pinnacle-battles-the-leading-royale-gaming-list-for-2024/"><u>[Updated] Pinnacle Battles The Leading Royale Gaming List for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/expert-mirallis-assistance-dedicated-customer-care-solutions/"><u>Expert Mirallis Assistance: Dedicated Customer Care Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-disconnected-sounds-to-cohesive-scenes-with-audacity/"><u>From Disconnected Sounds to Cohesive Scenes with Audacity</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-v27-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo V27 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-acquiring-multiformat-video-copies-of-cisco-live-sessions/"><u>Step-by-Step Tutorial on Acquiring Multiformat Video Copies of Cisco Live Sessions</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-saving-content-from-watchboxde-platforms/"><u>Step-by-Step Tutorial on Saving Content From watchbox.de Platforms</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-securely-saving-humor-from-siez-with-a-reliable-downloader-tool/"><u>Step-by-Step Tutorial on Securely Saving Humor From ˈsiːɡəz with a Reliable Downloader Tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transferring-your-dvd-collection-step-by-step-guide-to-moving-content-from-dvds-to-ipads/"><u>Transferring Your DVD Collection: Step-by-Step Guide to Moving Content From DVDs to iPads</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/viki-saves-quick-tips-for-downloading-your-favorite-subbed-shows-and-movies/"><u>Viki Saves: Quick Tips for Downloading Your Favorite Subbed Shows and Movies</u></a></li>
 </ul></div>
 
